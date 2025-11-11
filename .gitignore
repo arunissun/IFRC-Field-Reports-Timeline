@@ -1,0 +1,76 @@
+# Python cache.gitignore
+
+__pycache__/__pycache__/
+
+*.pyc*.pyc
+
+*.pyo*.pyo
+
+*.pyd*.pyd
+
+.Python.Python
+
+env/env/
+
+venv/venv/
+
+.venv/.venv/
+
+pip-log.txtpip-log.txt
+
+.tox/pip-delete-this-directory.txt
+
+.coverage.tox/
+
+.cache.coverage
+
+*.log.coverage.*
+
+.cache
+
+# IDE filesnosetests.xml
+
+.vscode/coverage.xml
+
+.idea/*.cover
+
+*.swp*.log
+
+*.swo.git
+
+.mypy_cache
+
+# OS files.pytest_cache
+
+.DS_Store.hypothesis
+
+Thumbs.db
+
+# IDE files
+
+# Secrets - DO NOT COMMIT.vscode/
+
+config.js.idea/
+
+.env*.swp
+
+*.swo
+
+# Data files (optional - uncomment if you don't want to commit large data files)
+
+# field_reports.json# OS files
+
+# field_reports.csv.DS_Store
+
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Config files with secrets
+config.js
+.env
+.env.local
+.env.production

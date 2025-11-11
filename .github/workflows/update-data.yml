@@ -1,0 +1,42 @@
+name: Update Field Reports Data
+
+on:
+  schedule:
+    # Run every day at 2 AM UTC
+    - cron: '0 2 * * *'
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+          
+      - name: Fetch field reports
+        env:
+          IFRC_API_TOKEN: ${{ secrets.IFRC_API_TOKEN }}
+        run: |
+          python fetch_reports.py
+          
+      - name: Aggregate data
+        run: |
+          python aggregate_reports.py
+          
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'actions@github.com'
+          git add field_reports.json field_reports.csv field_reports_aggregated.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update field reports data [skip ci]" && git push)
