@@ -24,8 +24,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          # Use default token for pushing and give full history so we can rebase safely
+          # Checkout the master branch directly and fetch full history
           token: ${{ secrets.GITHUB_TOKEN }}
+          ref: 'refs/heads/master'
           fetch-depth: 0
           persist-credentials: true
         
@@ -76,6 +77,11 @@ jobs:
             exit 0
           fi
 
+          # Ensure local branch integrates remote changes before committing
+          echo "🔄 Fetching and rebasing onto origin/master before commit"
+          git fetch origin master
+          git pull --rebase origin master
+
           TOTAL_REPORTS=$(python -c "import json,sys; print(len(json.load(open('field_reports.json'))))")
           COMMIT_MSG="chore: Update field reports data [automated] - Updated: $(date -u +'%Y-%m-%d %H:%M:%S UTC') - Total reports: ${TOTAL_REPORTS}"
           git commit -m "${COMMIT_MSG}"
@@ -94,7 +100,16 @@ jobs:
           fi
 
           # Push changes; if remote has new commits, the previous rebase should have handled it
+          set +e
           git push origin master
+          PUSH_STATUS=$?
+          set -e
+          if [ $PUSH_STATUS -ne 0 ]; then
+            echo "Push failed, attempting to fetch, rebase, and retry push"
+            git fetch origin master
+            git rebase origin/master
+            git push origin master || (echo "Retry push failed, attempting force-with-lease" && git push --force-with-lease origin master)
+          fi
           
       - name: Deployment info
         if: steps.check-changes.outputs.changed == 'true'
