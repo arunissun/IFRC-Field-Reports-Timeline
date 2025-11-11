@@ -24,11 +24,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          # Checkout the master branch directly and fetch full history
           token: ${{ secrets.GITHUB_TOKEN }}
-          ref: 'refs/heads/master'
+          ref: master
           fetch-depth: 0
-          persist-credentials: true
         
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -64,38 +62,67 @@ jobs:
           
       - name: Commit and push updated data
         if: steps.check-changes.outputs.changed == 'true'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --local user.name 'github-actions[bot]'
           git config --local user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Stage the changed files
           git add field_reports.json field_reports_aggregated.json field_reports.csv
 
           # Only commit when there are staged changes
           if git diff --staged --quiet; then
-            echo "No staged changes to commit"
+            echo "ℹ️ No staged changes to commit"
             exit 0
           fi
 
-          # Fetch latest changes from remote
-          echo "🔄 Fetching latest changes from origin/master"
-          git fetch origin master
-
-          # Create commit with new data
-          TOTAL_REPORTS=$(python -c "import json,sys; print(len(json.load(open('field_reports.json'))))")
-          COMMIT_MSG="chore: Update field reports data [automated] - Updated: $(date -u +'%Y-%m-%d %H:%M:%S UTC') - Total reports: ${TOTAL_REPORTS}"
-          git commit -m "${COMMIT_MSG}"
-
-          # Rebase onto latest remote to integrate any remote changes
-          echo "🔄 Rebasing onto origin/master"
-          git rebase origin/master
-
-          # Push changes
-          echo "📤 Pushing changes to origin/master"
-          git push origin HEAD:master || {
-            echo "⚠️ Push failed, attempting force-with-lease"
-            git push --force-with-lease origin HEAD:master
+          # Pull latest changes with rebase strategy
+          echo "🔄 Syncing with remote before committing..."
+          git pull --rebase origin master || {
+            echo "⚠️ Pull rebase failed, trying regular pull"
+            git rebase --abort 2>/dev/null || true
+            git pull origin master
           }
+
+          # Create commit
+          TOTAL_REPORTS=$(python -c "import json,sys; print(len(json.load(open('field_reports.json'))))")
+          git commit -m "chore: Update field reports data [automated] - $(date -u +'%Y-%m-%d %H:%M UTC') - Total: ${TOTAL_REPORTS}"
+
+          # Push with retries
+          echo "📤 Pushing to remote..."
+          RETRY_COUNT=0
+          MAX_RETRIES=3
+          
+          while [ $RETRY_COUNT -lt $MAX_RETRIES ]; do
+            if git push origin master; then
+              echo "✅ Successfully pushed changes"
+              exit 0
+            fi
+            
+            RETRY_COUNT=$((RETRY_COUNT + 1))
+            echo "⚠️ Push attempt $RETRY_COUNT failed"
+            
+            if [ $RETRY_COUNT -lt $MAX_RETRIES ]; then
+              echo "🔄 Fetching and rebasing before retry..."
+              git fetch origin master
+              git rebase origin/master || {
+                echo "⚠️ Rebase failed, aborting"
+                git rebase --abort
+                git reset --hard origin/master
+                echo "❌ Cannot sync with remote, giving up"
+                exit 1
+              }
+            fi
+          done
+          
+          # Final attempt with force-with-lease
+          echo "⚠️ All retries failed, attempting force-with-lease"
+          if git push --force-with-lease origin master; then
+            echo "✅ Force push succeeded"
+            exit 0
+          else
+            echo "❌ Force push also failed"
+            exit 1
+          fi
           
       - name: Deployment info
         if: steps.check-changes.outputs.changed == 'true'
