@@ -4,5 +4,11 @@
       "memory": 128,
       "maxDuration": 10
     }
-  }
+  },
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/globe_visualization_optimized.html"
+    }
+  ]
 }
