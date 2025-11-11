@@ -142,9 +142,12 @@ map.on('style.load', () => {
 // Globe rotation
 let userInteracting = false;
 let userLng = 20;
+let lastInteractionTime = 0;
 
 function spinGlobe() {
-    if (!userInteracting && isPlaying) {
+    const timeSinceInteraction = Date.now() - lastInteractionTime;
+    // Only spin if not interacting and enough time has passed since last interaction
+    if (!userInteracting && isPlaying && timeSinceInteraction > 2000) {
         const center = map.getCenter();
         userLng = center.lng - 0.1;
         if (userLng < -180) userLng += 360;
@@ -156,10 +159,41 @@ map.on('load', () => {
     setInterval(spinGlobe, 40);
 });
 
-map.on('mousedown', () => { userInteracting = true; });
+map.on('mousedown', () => { 
+    userInteracting = true; 
+    lastInteractionTime = Date.now();
+});
+
+
 map.on('mouseup', () => {
     userLng = map.getCenter().lng;
+    lastInteractionTime = Date.now();
     setTimeout(() => { userInteracting = false; }, 1000);
+});
+
+// Add zoom interaction tracking
+map.on('wheel', () => {
+    lastInteractionTime = Date.now();
+});
+
+map.on('touchstart', () => {
+    userInteracting = true;
+    lastInteractionTime = Date.now();
+});
+
+map.on('touchend', () => {
+    userLng = map.getCenter().lng;
+    lastInteractionTime = Date.now();
+    setTimeout(() => { userInteracting = false; }, 1000);
+});
+
+// Add zoom control tracking
+map.on('zoom', () => {
+    lastInteractionTime = Date.now();
+});
+
+map.on('drag', () => {
+    lastInteractionTime = Date.now();
 });
 
 function getEventType(location) {
