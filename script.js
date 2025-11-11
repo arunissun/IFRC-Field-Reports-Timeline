@@ -147,7 +147,7 @@ let lastInteractionTime = 0;
 function spinGlobe() {
     const timeSinceInteraction = Date.now() - lastInteractionTime;
     // Only spin if not interacting and enough time has passed since last interaction
-    if (!userInteracting && isPlaying && timeSinceInteraction > 2000) {
+    if (!userInteracting && isPlaying && timeSinceInteraction > 1000) {
         const center = map.getCenter();
         userLng = center.lng - 0.1;
         if (userLng < -180) userLng += 360;
