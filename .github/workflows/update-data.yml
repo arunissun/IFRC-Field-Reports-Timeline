@@ -77,39 +77,25 @@ jobs:
             exit 0
           fi
 
-          # Ensure local branch integrates remote changes before committing
-          echo "🔄 Fetching and rebasing onto origin/master before commit"
+          # Fetch latest changes from remote
+          echo "🔄 Fetching latest changes from origin/master"
           git fetch origin master
-          git pull --rebase origin master
 
+          # Create commit with new data
           TOTAL_REPORTS=$(python -c "import json,sys; print(len(json.load(open('field_reports.json'))))")
           COMMIT_MSG="chore: Update field reports data [automated] - Updated: $(date -u +'%Y-%m-%d %H:%M:%S UTC') - Total reports: ${TOTAL_REPORTS}"
           git commit -m "${COMMIT_MSG}"
 
-          # Fetch remote and rebase to avoid non-fast-forward push failures
-          git fetch origin master
-          git checkout master
-          set +e
+          # Rebase onto latest remote to integrate any remote changes
+          echo "🔄 Rebasing onto origin/master"
           git rebase origin/master
-          REBASE_STATUS=$?
-          set -e
-          if [ $REBASE_STATUS -ne 0 ]; then
-            echo "Rebase failed, attempting to abort and pull --rebase"
-            git rebase --abort || true
-            git pull --rebase origin master
-          fi
 
-          # Push changes; if remote has new commits, the previous rebase should have handled it
-          set +e
-          git push origin master
-          PUSH_STATUS=$?
-          set -e
-          if [ $PUSH_STATUS -ne 0 ]; then
-            echo "Push failed, attempting to fetch, rebase, and retry push"
-            git fetch origin master
-            git rebase origin/master
-            git push origin master || (echo "Retry push failed, attempting force-with-lease" && git push --force-with-lease origin master)
-          fi
+          # Push changes
+          echo "📤 Pushing changes to origin/master"
+          git push origin HEAD:master || {
+            echo "⚠️ Push failed, attempting force-with-lease"
+            git push --force-with-lease origin HEAD:master
+          }
           
       - name: Deployment info
         if: steps.check-changes.outputs.changed == 'true'
