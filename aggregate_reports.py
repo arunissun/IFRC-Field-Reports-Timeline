@@ -23,7 +23,7 @@ def aggregate_by_month(input_file="field_reports.json", output_file="field_repor
         # Skip reports without coordinates
         if not report.get('lat') or not report.get('lon'):
             skipped_no_coords += 1
-            print(report.get('id'), "skipped (no coords)")
+            #print(report.get('id'), "skipped (no coords)")
             continue
         
         # Parse date and create month key
