@@ -1,26 +1,49 @@
-# Python cache.gitignore
+# Python# Python cache.gitignore
 
-__pycache__/__pycache__/
+__pycache__/
 
-*.pyc*.pyc
+*.pyc__pycache__/__pycache__/
 
-*.pyo*.pyo
+*.pyo
 
-*.pyd*.pyd
+*.pyd*.pyc*.pyc
+
+.Python
+
+env/*.pyo*.pyo
+
+venv/
+
+.venv/*.pyd*.pyd
+
+*.log
 
 .Python.Python
 
-env/env/
+# IDE
 
-venv/venv/
+.vscode/env/env/
+
+.idea/
+
+*.swpvenv/venv/
+
+*.swo
 
 .venv/.venv/
 
-pip-log.txtpip-log.txt
+# OS
+
+.DS_Storepip-log.txtpip-log.txt
+
+Thumbs.db
 
 .tox/pip-delete-this-directory.txt
 
-.coverage.tox/
+# Note: config.js is now committed with URL-restricted Mapbox token
+
+# This is standard practice for client-side applications.coverage.tox/
+
 
 .cache.coverage
 
