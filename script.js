@@ -1,14 +1,56 @@
-// Load Mapbox token from config
-mapboxgl.accessToken = CONFIG.MAPBOX_TOKEN;
+// Token will be fetched from Vercel serverless function
+// This ensures the token is NEVER visible in the source code
 
-const map = new mapboxgl.Map({
-    container: 'map',
-    style: 'mapbox://styles/go-ifrc/ckrfe16ru4c8718phmckdfjh0',
-    projection: 'globe',
-    center: [20, 20],
-    zoom: 2.2,
-    pitch: 0
-});
+let map; // Will be initialized after token is fetched
+
+// Fetch token from serverless API and initialize map
+async function initializeVisualization() {
+    try {
+        // Fetch token from Vercel serverless function
+        const response = await fetch(CONFIG.TOKEN_API || '/api/get-token');
+        if (!response.ok) {
+            throw new Error('Failed to fetch Mapbox token');
+        }
+        
+        const data = await response.json();
+        const token = data.token;
+        
+        if (!token) {
+            throw new Error('No token returned from API');
+        }
+        
+        // Set Mapbox access token
+        mapboxgl.accessToken = token;
+        
+        // Initialize the map
+        map = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/go-ifrc/ckrfe16ru4c8718phmckdfjh0',
+            projection: 'globe',
+            center: [20, 20],
+            zoom: 2.2,
+            pitch: 0
+        });
+        
+        // Continue with map setup
+        setupMap();
+        
+    } catch (error) {
+        console.error('Error initializing visualization:', error);
+        document.getElementById('map').innerHTML = `
+            <div style="display: flex; align-items: center; justify-content: center; height: 100%; color: white;">
+                <div style="text-align: center;">
+                    <h2>Failed to load visualization</h2>
+                    <p>${error.message}</p>
+                    <p style="font-size: 12px; opacity: 0.7;">Please check console for details</p>
+                </div>
+            </div>
+        `;
+    }
+}
+
+// Setup map after initialization
+function setupMap() {
 
 let monthlyData = [];
 let currentMonthIndex = 0;
@@ -462,3 +504,8 @@ document.addEventListener('mousemove', (e) => {
 document.addEventListener('mouseup', () => {
     isDragging = false;
 });
+
+} // End of setupMap function
+
+// Initialize the visualization when page loads
+document.addEventListener('DOMContentLoaded', initializeVisualization);
