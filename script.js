@@ -80,7 +80,7 @@ const eventColors = {
     'ukraine': '#ff8800',
     'flood': '#2196F3',
     'cyclone': '#9C27B0',
-    'earthquake': '#FF9800',
+    'earthquake': '#2600ffff',
     'epidemic': '#4CAF50',
     'drought': '#F44336',
     'civilUnrest': '#795548',

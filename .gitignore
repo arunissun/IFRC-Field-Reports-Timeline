@@ -97,3 +97,5 @@ config.js
 .env
 .env.local
 .env.production
+analyze_field_report.py
+*.xlsx 
