@@ -82,7 +82,7 @@ const eventColors = {
     'cyclone': '#9C27B0',
     'earthquake': '#2600ffff',
     'epidemic': '#4CAF50',
-    'drought': '#F44336',
+    'drought': '#a4c422ff',
     'civilUnrest': '#795548',
     'others': '#607D8B'
 };
