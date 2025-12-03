@@ -1,5 +1,35 @@
 [
   {
+    "id": 18021,
+    "dtype_name": "Flood",
+    "title": "Hydrometeorological Disaster Events in the Provinces of Aceh, North Sumatra, and West Sumatra.",
+    "visibility_display": "Public",
+    "event_name": "Indonesia - Aceh, North Sumatra, West Sumatra Flood, 2025",
+    "is_covid_report": false,
+    "created_at": "2025-12-03T11:54:45.601255Z",
+    "country_name": "Indonesia",
+    "country_iso3": "IDN",
+    "country_id": 85,
+    "lat": -0.789275,
+    "lon": 113.921327,
+    "region_name": "Asia Pacific"
+  },
+  {
+    "id": 18020,
+    "dtype_name": "Population Movement",
+    "title": "Population Movement Border Chile - Peru",
+    "visibility_display": "Public",
+    "event_name": "CHL: Population Movement - 11-2025 - Population Movement Chile - Peru Border ",
+    "is_covid_report": false,
+    "created_at": "2025-12-02T19:47:05.662666Z",
+    "country_name": "Chile",
+    "country_iso3": "CHL",
+    "country_id": 46,
+    "lat": -35.675147,
+    "lon": -71.542969,
+    "region_name": "Americas"
+  },
+  {
     "id": 18019,
     "dtype_name": "Epidemic",
     "title": "New choléra cases outbreak in Nyanza",
