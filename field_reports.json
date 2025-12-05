@@ -1,5 +1,35 @@
 [
   {
+    "id": 18023,
+    "dtype_name": "Epidemic",
+    "title": "BDI: Epidemic-12-2025",
+    "visibility_display": "Public",
+    "event_name": "BDI: Epidemic - 01-2025 - Burundi, Cholera Epidemic outbreak 2025 ",
+    "is_covid_report": false,
+    "created_at": "2025-12-05T12:31:59.122470Z",
+    "country_name": "Burundi",
+    "country_iso3": "BDI",
+    "country_id": 39,
+    "lat": -3.373056,
+    "lon": 29.918886,
+    "region_name": "Africa"
+  },
+  {
+    "id": 18022,
+    "dtype_name": "Flood",
+    "title": "Northeast Monsoon",
+    "visibility_display": "Public",
+    "event_name": "Malaysia - Northeast Coast Flood, 2025",
+    "is_covid_report": false,
+    "created_at": "2025-12-05T11:22:01.459983Z",
+    "country_name": "Malaysia",
+    "country_iso3": "MYS",
+    "country_id": 111,
+    "lat": 4.210484,
+    "lon": 101.97576599999978,
+    "region_name": "Asia Pacific"
+  },
+  {
     "id": 18021,
     "dtype_name": "Flood",
     "title": "Hydrometeorological Disaster Events in the Provinces of Aceh, North Sumatra, and West Sumatra.",
