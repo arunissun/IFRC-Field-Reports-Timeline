@@ -1,10 +1,5689 @@
 [
   {
-    "month": "2019-08",
-    "date": "2019-08-01",
-    "total_reports": 15,
+    "month": "2018-03",
+    "date": "2018-03-01",
+    "total_reports": 26,
+    "total_locations": 21,
+    "locations": [
+      {
+        "lat": 9.08,
+        "lon": 8.68,
+        "count": 3,
+        "country_name": "Nigeria",
+        "country_iso3": "NGA",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Complex Emergency",
+        "is_covid": false,
+        "reports": [
+          11176,
+          11174,
+          11152
+        ],
+        "titles": []
+      },
+      {
+        "lat": 44.02,
+        "lon": 21.01,
+        "count": 2,
+        "country_name": "Serbia",
+        "country_iso3": "SRB",
+        "region_name": "Europe",
+        "event_name": "Unknown",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11175,
+          11154
+        ],
+        "titles": []
+      },
+      {
+        "lat": -1.94,
+        "lon": 29.87,
+        "count": 2,
+        "country_name": "Rwanda",
+        "country_iso3": "RWA",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Population Movement",
+        "is_covid": false,
+        "reports": [
+          11162,
+          11157
+        ],
+        "titles": []
+      },
+      {
+        "lat": -32.52,
+        "lon": -55.77,
+        "count": 2,
+        "country_name": "Uruguay",
+        "country_iso3": "URY",
+        "region_name": "Americas",
+        "event_name": "Unknown",
+        "dtype_name": "Drought",
+        "is_covid": false,
+        "reports": [
+          11161,
+          11158
+        ],
+        "titles": []
+      },
+      {
+        "lat": 61.52,
+        "lon": 105.32,
+        "count": 1,
+        "country_name": "Russian Federation",
+        "country_iso3": "RUS",
+        "region_name": "Europe",
+        "event_name": "Unknown",
+        "dtype_name": "Fire",
+        "is_covid": false,
+        "reports": [
+          11177
+        ],
+        "titles": []
+      },
+      {
+        "lat": 53.71,
+        "lon": 27.95,
+        "count": 1,
+        "country_name": "Belarus",
+        "country_iso3": "BLR",
+        "region_name": "Europe",
+        "event_name": "Unknown",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11172
+        ],
+        "titles": []
+      },
+      {
+        "lat": 45.1,
+        "lon": 15.2,
+        "count": 1,
+        "country_name": "Croatia",
+        "country_iso3": "HRV",
+        "region_name": "Europe",
+        "event_name": "Unknown",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11171
+        ],
+        "titles": []
+      },
+      {
+        "lat": -18.77,
+        "lon": 46.87,
+        "count": 1,
+        "country_name": "Madagascar",
+        "country_iso3": "MDG",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11170
+        ],
+        "titles": []
+      },
+      {
+        "lat": 48.02,
+        "lon": 66.92,
+        "count": 1,
+        "country_name": "Kazakhstan",
+        "country_iso3": "KAZ",
+        "region_name": "Europe",
+        "event_name": "Unknown",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11169
+        ],
+        "titles": []
+      },
+      {
+        "lat": 7.33,
+        "lon": 30.29,
+        "count": 1,
+        "country_name": "South Sudan",
+        "country_iso3": "SSD",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11168
+        ],
+        "titles": []
+      },
+      {
+        "lat": 15.45,
+        "lon": 18.73,
+        "count": 1,
+        "country_name": "Chad",
+        "country_iso3": "TCD",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Population Movement",
+        "is_covid": false,
+        "reports": [
+          11167
+        ],
+        "titles": []
+      },
+      {
+        "lat": 23.68,
+        "lon": 90.36,
+        "count": 1,
+        "country_name": "Bangladesh",
+        "country_iso3": "BGD",
+        "region_name": "Asia Pacific",
+        "event_name": "Unknown",
+        "dtype_name": "Fire",
+        "is_covid": false,
+        "reports": [
+          11166
+        ],
+        "titles": []
+      },
+      {
+        "lat": -0.02,
+        "lon": 37.91,
+        "count": 1,
+        "country_name": "Kenya",
+        "country_iso3": "KEN",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Population Movement",
+        "is_covid": false,
+        "reports": [
+          11165
+        ],
+        "titles": []
+      },
+      {
+        "lat": 7.54,
+        "lon": -5.55,
+        "count": 1,
+        "country_name": "Côte d'Ivoire",
+        "country_iso3": "CIV",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Population Movement",
+        "is_covid": false,
+        "reports": [
+          11164
+        ],
+        "titles": []
+      },
+      {
+        "lat": -38.42,
+        "lon": -63.62,
+        "count": 1,
+        "country_name": "Argentina",
+        "country_iso3": "ARG",
+        "region_name": "Americas",
+        "event_name": "Unknown",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11163
+        ],
+        "titles": []
+      },
+      {
+        "lat": -15.38,
+        "lon": 166.96,
+        "count": 1,
+        "country_name": "Vanuatu",
+        "country_iso3": "VUT",
+        "region_name": "Asia Pacific",
+        "event_name": "Unknown",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11160
+        ],
+        "titles": []
+      },
+      {
+        "lat": 10.69,
+        "lon": -61.22,
+        "count": 1,
+        "country_name": "Trinidad and Tobago",
+        "country_iso3": "TTO",
+        "region_name": "Americas",
+        "event_name": "Unknown",
+        "dtype_name": "Landslide",
+        "is_covid": false,
+        "reports": [
+          11159
+        ],
+        "titles": []
+      },
+      {
+        "lat": -22.33,
+        "lon": 24.68,
+        "count": 1,
+        "country_name": "Botswana",
+        "country_iso3": "BWA",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11156
+        ],
+        "titles": []
+      },
+      {
+        "lat": 7.95,
+        "lon": -1.02,
+        "count": 1,
+        "country_name": "Ghana",
+        "country_iso3": "GHA",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11155
+        ],
+        "titles": []
+      },
+      {
+        "lat": 9.31,
+        "lon": 2.32,
+        "count": 1,
+        "country_name": "Benin",
+        "country_iso3": "BEN",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11153
+        ],
+        "titles": []
+      },
+      {
+        "lat": -6.31,
+        "lon": 143.96,
+        "count": 1,
+        "country_name": "Papua New Guinea",
+        "country_iso3": "PNG",
+        "region_name": "Asia Pacific",
+        "event_name": "Unknown",
+        "dtype_name": "Earthquake",
+        "is_covid": false,
+        "reports": [
+          11151
+        ],
+        "titles": []
+      }
+    ]
+  },
+  {
+    "month": "2018-04",
+    "date": "2018-04-01",
+    "total_reports": 21,
     "total_locations": 12,
     "locations": [
+      {
+        "lat": 61.52,
+        "lon": 105.32,
+        "count": 4,
+        "country_name": "Russian Federation",
+        "country_iso3": "RUS",
+        "region_name": "Europe",
+        "event_name": "Unknown",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11195,
+          11185,
+          11181,
+          11180
+        ],
+        "titles": []
+      },
+      {
+        "lat": 12.87,
+        "lon": -85.21,
+        "count": 3,
+        "country_name": "Nicaragua",
+        "country_iso3": "NIC",
+        "region_name": "Americas",
+        "event_name": "Unknown",
+        "dtype_name": "Civil Unrest",
+        "is_covid": false,
+        "reports": [
+          11197,
+          11194,
+          11183
+        ],
+        "titles": []
+      },
+      {
+        "lat": -15.38,
+        "lon": 166.96,
+        "count": 3,
+        "country_name": "Vanuatu",
+        "country_iso3": "VUT",
+        "region_name": "Asia Pacific",
+        "event_name": "Vanuatu: Ambae Volcanic Eruption",
+        "dtype_name": "Volcanic Eruption",
+        "is_covid": false,
+        "reports": [
+          11196,
+          11188,
+          11187
+        ],
+        "titles": []
+      },
+      {
+        "lat": -6.37,
+        "lon": 34.89,
+        "count": 2,
+        "country_name": "Tanzania, United Republic of",
+        "country_iso3": "TZA",
+        "region_name": "Africa",
+        "event_name": "Tanzania Floods",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11193,
+          11189
+        ],
+        "titles": []
+      },
+      {
+        "lat": -16.58,
+        "lon": 179.41,
+        "count": 2,
+        "country_name": "Fiji",
+        "country_iso3": "FJI",
+        "region_name": "Asia Pacific",
+        "event_name": "Unknown",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11184,
+          11182
+        ],
+        "titles": []
+      },
+      {
+        "lat": 38.96,
+        "lon": 35.24,
+        "count": 1,
+        "country_name": "Türkiye",
+        "country_iso3": "TUR",
+        "region_name": "Europe",
+        "event_name": "Unknown",
+        "dtype_name": "Earthquake",
+        "is_covid": false,
+        "reports": [
+          11198
+        ],
+        "titles": []
+      },
+      {
+        "lat": 17.61,
+        "lon": 8.08,
+        "count": 1,
+        "country_name": "Niger",
+        "country_iso3": "NER",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11192
+        ],
+        "titles": []
+      },
+      {
+        "lat": 23.68,
+        "lon": 90.36,
+        "count": 1,
+        "country_name": "Bangladesh",
+        "country_iso3": "BGD",
+        "region_name": "Asia Pacific",
+        "event_name": "Unknown",
+        "dtype_name": "Complex Emergency",
+        "is_covid": false,
+        "reports": [
+          11191
+        ],
+        "titles": []
+      },
+      {
+        "lat": -0.79,
+        "lon": 113.92,
+        "count": 1,
+        "country_name": "Indonesia",
+        "country_iso3": "IDN",
+        "region_name": "Asia Pacific",
+        "event_name": "Unknown",
+        "dtype_name": "Earthquake",
+        "is_covid": false,
+        "reports": [
+          11190
+        ],
+        "titles": []
+      },
+      {
+        "lat": 41.87,
+        "lon": 12.57,
+        "count": 1,
+        "country_name": "Italy",
+        "country_iso3": "ITA",
+        "region_name": "Europe",
+        "event_name": "Unknown",
+        "dtype_name": "Earthquake",
+        "is_covid": false,
+        "reports": [
+          11186
+        ],
+        "titles": []
+      },
+      {
+        "lat": 8.56,
+        "lon": 39.66,
+        "count": 1,
+        "country_name": "Ethiopia",
+        "country_iso3": "ETH",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Civil Unrest",
+        "is_covid": false,
+        "reports": [
+          11179
+        ],
+        "titles": []
+      },
+      {
+        "lat": 12.24,
+        "lon": -1.56,
+        "count": 1,
+        "country_name": "Burkina Faso",
+        "country_iso3": "BFA",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Food Insecurity",
+        "is_covid": false,
+        "reports": [
+          11178
+        ],
+        "titles": []
+      }
+    ]
+  },
+  {
+    "month": "2018-05",
+    "date": "2018-05-01",
+    "total_reports": 35,
+    "total_locations": 27,
+    "locations": [
+      {
+        "lat": 41.2,
+        "lon": 74.77,
+        "count": 4,
+        "country_name": "Kyrgyzstan",
+        "country_iso3": "KGZ",
+        "region_name": "Europe",
+        "event_name": "Unknown",
+        "dtype_name": "Pluvial/Flash Flood",
+        "is_covid": false,
+        "reports": [
+          11225,
+          11223,
+          11205,
+          11204
+        ],
+        "titles": []
+      },
+      {
+        "lat": 13.79,
+        "lon": -88.9,
+        "count": 3,
+        "country_name": "El Salvador",
+        "country_iso3": "SLV",
+        "region_name": "Americas",
+        "event_name": "Unknown",
+        "dtype_name": "Earthquake",
+        "is_covid": false,
+        "reports": [
+          11215,
+          11212,
+          11210
+        ],
+        "titles": []
+      },
+      {
+        "lat": 33.22,
+        "lon": 43.68,
+        "count": 2,
+        "country_name": "Iraq",
+        "country_iso3": "IRQ",
+        "region_name": "Middle East & North Africa",
+        "event_name": "Iraq - Floods",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11229,
+          11228
+        ],
+        "titles": []
+      },
+      {
+        "lat": 8.56,
+        "lon": 39.66,
+        "count": 2,
+        "country_name": "Ethiopia",
+        "country_iso3": "ETH",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11220,
+          11214
+        ],
+        "titles": []
+      },
+      {
+        "lat": 33.94,
+        "lon": 67.71,
+        "count": 2,
+        "country_name": "Afghanistan",
+        "country_iso3": "AFG",
+        "region_name": "Asia Pacific",
+        "event_name": "Afghanistan: Drought and Flash Floods",
+        "dtype_name": "Drought",
+        "is_covid": false,
+        "reports": [
+          11211,
+          11201
+        ],
+        "titles": []
+      },
+      {
+        "lat": -0.23,
+        "lon": 15.83,
+        "count": 1,
+        "country_name": "Congo",
+        "country_iso3": "COG",
+        "region_name": "Africa",
+        "event_name": "Ebola Virus Disease Response and Containment",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11254
+        ],
+        "titles": []
+      },
+      {
+        "lat": 7.87,
+        "lon": 80.77,
+        "count": 1,
+        "country_name": "Sri Lanka",
+        "country_iso3": "LKA",
+        "region_name": "Asia Pacific",
+        "event_name": "Sri Lanka - South West Monsoon 2018",
+        "dtype_name": "Pluvial/Flash Flood",
+        "is_covid": false,
+        "reports": [
+          11232
+        ],
+        "titles": []
+      },
+      {
+        "lat": 6.61,
+        "lon": 20.94,
+        "count": 1,
+        "country_name": "Central African Republic",
+        "country_iso3": "CAF",
+        "region_name": "Africa",
+        "event_name": "Ebola Virus Disease Response and Containment",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11231
+        ],
+        "titles": []
+      },
+      {
+        "lat": 38.86,
+        "lon": 71.28,
+        "count": 1,
+        "country_name": "Tajikistan",
+        "country_iso3": "TJK",
+        "region_name": "Europe",
+        "event_name": "Tajikistan - Flash flood",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11230
+        ],
+        "titles": []
+      },
+      {
+        "lat": 4.57,
+        "lon": -74.3,
+        "count": 1,
+        "country_name": "Colombia",
+        "country_iso3": "COL",
+        "region_name": "Americas",
+        "event_name": "Colombia - Floods and landslide",
+        "dtype_name": "Landslide",
+        "is_covid": false,
+        "reports": [
+          11227
+        ],
+        "titles": []
+      },
+      {
+        "lat": -16.29,
+        "lon": -63.59,
+        "count": 1,
+        "country_name": "Bolivia",
+        "country_iso3": "BOL",
+        "region_name": "Americas",
+        "event_name": "Bolivia - Influenza",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11226
+        ],
+        "titles": []
+      },
+      {
+        "lat": 7.54,
+        "lon": -5.55,
+        "count": 1,
+        "country_name": "Côte d'Ivoire",
+        "country_iso3": "CIV",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11224
+        ],
+        "titles": []
+      },
+      {
+        "lat": -1.94,
+        "lon": 29.87,
+        "count": 1,
+        "country_name": "Rwanda",
+        "country_iso3": "RWA",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Landslide",
+        "is_covid": false,
+        "reports": [
+          11222
+        ],
+        "titles": []
+      },
+      {
+        "lat": -3.37,
+        "lon": 29.92,
+        "count": 1,
+        "country_name": "Burundi",
+        "country_iso3": "BDI",
+        "region_name": "Africa",
+        "event_name": "Burundi - Floods",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11221
+        ],
+        "titles": []
+      },
+      {
+        "lat": -0.79,
+        "lon": 113.92,
+        "count": 1,
+        "country_name": "Indonesia",
+        "country_iso3": "IDN",
+        "region_name": "Asia Pacific",
+        "event_name": "Mount of Merapi Phreatic Eruption",
+        "dtype_name": "Volcanic Eruption",
+        "is_covid": false,
+        "reports": [
+          11219
+        ],
+        "titles": []
+      },
+      {
+        "lat": -4.04,
+        "lon": 21.76,
+        "count": 1,
+        "country_name": "Democratic Republic of Congo",
+        "country_iso3": "COD",
+        "region_name": "Africa",
+        "event_name": "Ebola Virus Disease Response and Containment",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11218
+        ],
+        "titles": []
+      },
+      {
+        "lat": 23.68,
+        "lon": 90.36,
+        "count": 1,
+        "country_name": "Bangladesh",
+        "country_iso3": "BGD",
+        "region_name": "Asia Pacific",
+        "event_name": "Lightning strikes in Bangladesh",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11217
+        ],
+        "titles": []
+      },
+      {
+        "lat": 15.2,
+        "lon": -86.24,
+        "count": 1,
+        "country_name": "Honduras",
+        "country_iso3": "HND",
+        "region_name": "Americas",
+        "event_name": "Honduras - Influenza AH1N1",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11216
+        ],
+        "titles": []
+      },
+      {
+        "lat": 18.11,
+        "lon": -77.3,
+        "count": 1,
+        "country_name": "Jamaica",
+        "country_iso3": "JAM",
+        "region_name": "Americas",
+        "event_name": "Unknown",
+        "dtype_name": "Pluvial/Flash Flood",
+        "is_covid": false,
+        "reports": [
+          11213
+        ],
+        "titles": []
+      },
+      {
+        "lat": 38.96,
+        "lon": 35.24,
+        "count": 1,
+        "country_name": "Türkiye",
+        "country_iso3": "TUR",
+        "region_name": "Europe",
+        "event_name": "Unknown",
+        "dtype_name": "Pluvial/Flash Flood",
+        "is_covid": false,
+        "reports": [
+          11209
+        ],
+        "titles": []
+      },
+      {
+        "lat": 20.59,
+        "lon": 78.96,
+        "count": 1,
+        "country_name": "India",
+        "country_iso3": "IND",
+        "region_name": "Asia Pacific",
+        "event_name": "Unknown",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11208
+        ],
+        "titles": []
+      },
+      {
+        "lat": 21.01,
+        "lon": -10.94,
+        "count": 1,
+        "country_name": "Mauritania",
+        "country_iso3": "MRT",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Food Insecurity",
+        "is_covid": false,
+        "reports": [
+          11207
+        ],
+        "titles": []
+      },
+      {
+        "lat": 9.08,
+        "lon": 8.68,
+        "count": 1,
+        "country_name": "Nigeria",
+        "country_iso3": "NGA",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11206
+        ],
+        "titles": []
+      },
+      {
+        "lat": 30.59,
+        "lon": 36.24,
+        "count": 1,
+        "country_name": "Jordan",
+        "country_iso3": "JOR",
+        "region_name": "Middle East & North Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Pluvial/Flash Flood",
+        "is_covid": false,
+        "reports": [
+          11203
+        ],
+        "titles": []
+      },
+      {
+        "lat": -38.42,
+        "lon": -63.62,
+        "count": 1,
+        "country_name": "Argentina",
+        "country_iso3": "ARG",
+        "region_name": "Americas",
+        "event_name": "Unknown",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11202
+        ],
+        "titles": []
+      },
+      {
+        "lat": 31.05,
+        "lon": 34.85,
+        "count": 1,
+        "country_name": "Israel",
+        "country_iso3": "ISR",
+        "region_name": "Middle East & North Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Pluvial/Flash Flood",
+        "is_covid": false,
+        "reports": [
+          11200
+        ],
+        "titles": []
+      },
+      {
+        "lat": -0.02,
+        "lon": 37.91,
+        "count": 1,
+        "country_name": "Kenya",
+        "country_iso3": "KEN",
+        "region_name": "Africa",
+        "event_name": "Kenya Floods",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11199
+        ],
+        "titles": []
+      }
+    ]
+  },
+  {
+    "month": "2018-06",
+    "date": "2018-06-01",
+    "total_reports": 15,
+    "total_locations": 8,
+    "locations": [
+      {
+        "lat": 18.11,
+        "lon": -77.3,
+        "count": 5,
+        "country_name": "Jamaica",
+        "country_iso3": "JAM",
+        "region_name": "Americas",
+        "event_name": "Unknown",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11274,
+          11273,
+          11272,
+          11271,
+          11270
+        ],
+        "titles": []
+      },
+      {
+        "lat": 15.78,
+        "lon": -90.23,
+        "count": 4,
+        "country_name": "Guatemala",
+        "country_iso3": "GTM",
+        "region_name": "Americas",
+        "event_name": "Guatemala - Fuego Volcano Eruption",
+        "dtype_name": "Volcanic Eruption",
+        "is_covid": false,
+        "reports": [
+          11285,
+          11278,
+          11276,
+          11275
+        ],
+        "titles": []
+      },
+      {
+        "lat": 44.02,
+        "lon": 21.01,
+        "count": 1,
+        "country_name": "Serbia",
+        "country_iso3": "SRB",
+        "region_name": "Europe",
+        "event_name": "Unknown",
+        "dtype_name": "Storm Surge",
+        "is_covid": false,
+        "reports": [
+          11287
+        ],
+        "titles": []
+      },
+      {
+        "lat": 16.0,
+        "lon": -24.01,
+        "count": 1,
+        "country_name": "Cabo Verde",
+        "country_iso3": "CPV",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Drought",
+        "is_covid": false,
+        "reports": [
+          11286
+        ],
+        "titles": []
+      },
+      {
+        "lat": -16.29,
+        "lon": -63.59,
+        "count": 1,
+        "country_name": "Bolivia",
+        "country_iso3": "BOL",
+        "region_name": "Americas",
+        "event_name": "Bolivia - Influenza",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11281
+        ],
+        "titles": []
+      },
+      {
+        "lat": 8.62,
+        "lon": 0.82,
+        "count": 1,
+        "country_name": "Togo",
+        "country_iso3": "TGO",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Population Movement",
+        "is_covid": false,
+        "reports": [
+          11280
+        ],
+        "titles": []
+      },
+      {
+        "lat": 6.61,
+        "lon": 20.94,
+        "count": 1,
+        "country_name": "Central African Republic",
+        "country_iso3": "CAF",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11279
+        ],
+        "titles": []
+      },
+      {
+        "lat": -9.19,
+        "lon": -75.02,
+        "count": 1,
+        "country_name": "Peru",
+        "country_iso3": "PER",
+        "region_name": "Americas",
+        "event_name": "Peru: Extreme winter condition",
+        "dtype_name": "Cold Wave",
+        "is_covid": false,
+        "reports": [
+          11277
+        ],
+        "titles": []
+      }
+    ]
+  },
+  {
+    "month": "2018-07",
+    "date": "2018-07-01",
+    "total_reports": 61,
+    "total_locations": 38,
+    "locations": [
+      {
+        "lat": 39.07,
+        "lon": 21.82,
+        "count": 3,
+        "country_name": "Greece",
+        "country_iso3": "GRC",
+        "region_name": "Europe",
+        "event_name": "Greece: Heavy raining in regions of Greece",
+        "dtype_name": "Pluvial/Flash Flood",
+        "is_covid": false,
+        "reports": [
+          11352,
+          11317,
+          11315
+        ],
+        "titles": []
+      },
+      {
+        "lat": 12.88,
+        "lon": 121.77,
+        "count": 3,
+        "country_name": "Philippines",
+        "country_iso3": "PHL",
+        "region_name": "Asia Pacific",
+        "event_name": "Philippines: Southwest monsoon exacerbated by TD",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11350,
+          11346,
+          11343
+        ],
+        "titles": []
+      },
+      {
+        "lat": 60.13,
+        "lon": 18.64,
+        "count": 3,
+        "country_name": "Sweden",
+        "country_iso3": "SWE",
+        "region_name": "Europe",
+        "event_name": "Sweden: Forest fires",
+        "dtype_name": "Fire",
+        "is_covid": false,
+        "reports": [
+          11349,
+          11347,
+          11294
+        ],
+        "titles": []
+      },
+      {
+        "lat": 9.08,
+        "lon": 8.68,
+        "count": 3,
+        "country_name": "Nigeria",
+        "country_iso3": "NGA",
+        "region_name": "Africa",
+        "event_name": "Nigeria: Floods",
+        "dtype_name": "Civil Unrest",
+        "is_covid": false,
+        "reports": [
+          11342,
+          11316,
+          11313
+        ],
+        "titles": []
+      },
+      {
+        "lat": 28.39,
+        "lon": 84.12,
+        "count": 3,
+        "country_name": "Nepal",
+        "country_iso3": "NPL",
+        "region_name": "Asia Pacific",
+        "event_name": "Unknown",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11332,
+          11319,
+          11289
+        ],
+        "titles": []
+      },
+      {
+        "lat": 23.68,
+        "lon": 90.36,
+        "count": 3,
+        "country_name": "Bangladesh",
+        "country_iso3": "BGD",
+        "region_name": "Asia Pacific",
+        "event_name": "Unknown",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11329,
+          11304,
+          11300
+        ],
+        "titles": []
+      },
+      {
+        "lat": 36.2,
+        "lon": 138.25,
+        "count": 3,
+        "country_name": "Japan",
+        "country_iso3": "JPN",
+        "region_name": "Asia Pacific",
+        "event_name": "Unknown",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11327,
+          11325,
+          11303
+        ],
+        "titles": []
+      },
+      {
+        "lat": 14.06,
+        "lon": 108.28,
+        "count": 2,
+        "country_name": "Viet Nam",
+        "country_iso3": "VNM",
+        "region_name": "Asia Pacific",
+        "event_name": "Viet Nam: Tropical Storm Son Tinh",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11351,
+          11314
+        ],
+        "titles": []
+      },
+      {
+        "lat": 6.43,
+        "lon": -9.43,
+        "count": 2,
+        "country_name": "Liberia",
+        "country_iso3": "LBR",
+        "region_name": "Africa",
+        "event_name": "Liberia: Floods",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11348,
+          11344
+        ],
+        "titles": []
+      },
+      {
+        "lat": 17.61,
+        "lon": 8.08,
+        "count": 2,
+        "country_name": "Niger",
+        "country_iso3": "NER",
+        "region_name": "Africa",
+        "event_name": "Niger: Cholera Outbreak",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11345,
+          11310
+        ],
+        "titles": []
+      },
+      {
+        "lat": 18.74,
+        "lon": -70.16,
+        "count": 2,
+        "country_name": "Dominican Republic",
+        "country_iso3": "DOM",
+        "region_name": "Americas",
+        "event_name": "Dominican Republic: Tropical Storm Beryl",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11341,
+          11330
+        ],
+        "titles": []
+      },
+      {
+        "lat": 13.79,
+        "lon": -88.9,
+        "count": 2,
+        "country_name": "El Salvador",
+        "country_iso3": "SLV",
+        "region_name": "Americas",
+        "event_name": "El Salvador: Drought",
+        "dtype_name": "Heat Wave",
+        "is_covid": false,
+        "reports": [
+          11340,
+          11337
+        ],
+        "titles": []
+      },
+      {
+        "lat": -4.04,
+        "lon": 21.76,
+        "count": 2,
+        "country_name": "Democratic Republic of Congo",
+        "country_iso3": "COD",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11331,
+          11307
+        ],
+        "titles": []
+      },
+      {
+        "lat": 42.32,
+        "lon": 43.36,
+        "count": 2,
+        "country_name": "Georgia",
+        "country_iso3": "GEO",
+        "region_name": "Europe",
+        "event_name": "Georgia: Flash Floods in Svaneti",
+        "dtype_name": "Pluvial/Flash Flood",
+        "is_covid": false,
+        "reports": [
+          11328,
+          11323
+        ],
+        "titles": []
+      },
+      {
+        "lat": 41.2,
+        "lon": 74.77,
+        "count": 2,
+        "country_name": "Kyrgyzstan",
+        "country_iso3": "KGZ",
+        "region_name": "Europe",
+        "event_name": "Unknown",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11324,
+          11302
+        ],
+        "titles": []
+      },
+      {
+        "lat": 44.02,
+        "lon": 21.01,
+        "count": 2,
+        "country_name": "Serbia",
+        "country_iso3": "SRB",
+        "region_name": "Europe",
+        "event_name": "Unknown",
+        "dtype_name": "Storm Surge",
+        "is_covid": false,
+        "reports": [
+          11318,
+          11301
+        ],
+        "titles": []
+      },
+      {
+        "lat": 31.05,
+        "lon": 34.85,
+        "count": 1,
+        "country_name": "Israel",
+        "country_iso3": "ISR",
+        "region_name": "Middle East & North Africa",
+        "event_name": "Israel: Escalation in tensions around Gaza Strip",
+        "dtype_name": "Complex Emergency",
+        "is_covid": false,
+        "reports": [
+          11339
+        ],
+        "titles": []
+      },
+      {
+        "lat": 35.86,
+        "lon": 104.2,
+        "count": 1,
+        "country_name": "China",
+        "country_iso3": "CHN",
+        "region_name": "Asia Pacific",
+        "event_name": "Unknown",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11338
+        ],
+        "titles": []
+      },
+      {
+        "lat": 7.37,
+        "lon": 12.35,
+        "count": 1,
+        "country_name": "Cameroon",
+        "country_iso3": "CMR",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11336
+        ],
+        "titles": []
+      },
+      {
+        "lat": 18.97,
+        "lon": -72.29,
+        "count": 1,
+        "country_name": "Haiti",
+        "country_iso3": "HTI",
+        "region_name": "Americas",
+        "event_name": "Haiti: Situation of unrest and violence",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11335
+        ],
+        "titles": []
+      },
+      {
+        "lat": 33.94,
+        "lon": 67.71,
+        "count": 1,
+        "country_name": "Afghanistan",
+        "country_iso3": "AFG",
+        "region_name": "Asia Pacific",
+        "event_name": "Afghanistan: Landslide in Panjsher Province",
+        "dtype_name": "Landslide",
+        "is_covid": false,
+        "reports": [
+          11334
+        ],
+        "titles": []
+      },
+      {
+        "lat": 9.31,
+        "lon": 2.32,
+        "count": 1,
+        "country_name": "Benin",
+        "country_iso3": "BEN",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Population Movement",
+        "is_covid": false,
+        "reports": [
+          11333
+        ],
+        "titles": []
+      },
+      {
+        "lat": 46.86,
+        "lon": 103.85,
+        "count": 1,
+        "country_name": "Mongolia",
+        "country_iso3": "MNG",
+        "region_name": "Asia Pacific",
+        "event_name": "Mongolia: Flash Floods",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11326
+        ],
+        "titles": []
+      },
+      {
+        "lat": 12.86,
+        "lon": 30.22,
+        "count": 1,
+        "country_name": "Sudan",
+        "country_iso3": "SDN",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Pluvial/Flash Flood",
+        "is_covid": false,
+        "reports": [
+          11322
+        ],
+        "titles": []
+      },
+      {
+        "lat": 20.59,
+        "lon": 78.96,
+        "count": 1,
+        "country_name": "India",
+        "country_iso3": "IND",
+        "region_name": "Asia Pacific",
+        "event_name": "Unknown",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11321
+        ],
+        "titles": []
+      },
+      {
+        "lat": -6.31,
+        "lon": 143.96,
+        "count": 1,
+        "country_name": "Papua New Guinea",
+        "country_iso3": "PNG",
+        "region_name": "Asia Pacific",
+        "event_name": "Unknown",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11320
+        ],
+        "titles": []
+      },
+      {
+        "lat": -13.25,
+        "lon": 34.3,
+        "count": 1,
+        "country_name": "Malawi",
+        "country_iso3": "MWI",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11312
+        ],
+        "titles": []
+      },
+      {
+        "lat": -19.02,
+        "lon": 29.15,
+        "count": 1,
+        "country_name": "Zimbabwe",
+        "country_iso3": "ZWE",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11311
+        ],
+        "titles": []
+      },
+      {
+        "lat": -9.19,
+        "lon": -75.02,
+        "count": 1,
+        "country_name": "Peru",
+        "country_iso3": "PER",
+        "region_name": "Americas",
+        "event_name": "Peru: Extreme winter condition",
+        "dtype_name": "Cold Wave",
+        "is_covid": false,
+        "reports": [
+          11309
+        ],
+        "titles": []
+      },
+      {
+        "lat": 7.95,
+        "lon": -1.02,
+        "count": 1,
+        "country_name": "Ghana",
+        "country_iso3": "GHA",
+        "region_name": "Africa",
+        "event_name": "Ghana: Floods in Accra",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11308
+        ],
+        "titles": []
+      },
+      {
+        "lat": 8.46,
+        "lon": -11.78,
+        "count": 1,
+        "country_name": "Sierra Leone",
+        "country_iso3": "SLE",
+        "region_name": "Africa",
+        "event_name": "Sierra Leone: 24 confirmed measles cases",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11306
+        ],
+        "titles": []
+      },
+      {
+        "lat": 7.54,
+        "lon": -5.55,
+        "count": 1,
+        "country_name": "Côte d'Ivoire",
+        "country_iso3": "CIV",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11305
+        ],
+        "titles": []
+      },
+      {
+        "lat": 8.62,
+        "lon": 0.82,
+        "count": 1,
+        "country_name": "Togo",
+        "country_iso3": "TGO",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Population Movement",
+        "is_covid": false,
+        "reports": [
+          11299
+        ],
+        "titles": []
+      },
+      {
+        "lat": -22.96,
+        "lon": 18.49,
+        "count": 1,
+        "country_name": "Namibia",
+        "country_iso3": "NAM",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Population Movement",
+        "is_covid": false,
+        "reports": [
+          11298
+        ],
+        "titles": []
+      },
+      {
+        "lat": -0.02,
+        "lon": 37.91,
+        "count": 1,
+        "country_name": "Kenya",
+        "country_iso3": "KEN",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11297
+        ],
+        "titles": []
+      },
+      {
+        "lat": 9.75,
+        "lon": -83.75,
+        "count": 1,
+        "country_name": "Costa Rica",
+        "country_iso3": "CRI",
+        "region_name": "Americas",
+        "event_name": "Costa Rica: Malaria Outbreak",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11296
+        ],
+        "titles": []
+      },
+      {
+        "lat": 15.45,
+        "lon": 18.73,
+        "count": 1,
+        "country_name": "Chad",
+        "country_iso3": "TCD",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11295
+        ],
+        "titles": []
+      },
+      {
+        "lat": 11.8,
+        "lon": -15.18,
+        "count": 1,
+        "country_name": "Guinea-Bissau",
+        "country_iso3": "GNB",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Storm Surge",
+        "is_covid": false,
+        "reports": [
+          11290
+        ],
+        "titles": []
+      }
+    ]
+  },
+  {
+    "month": "2018-08",
+    "date": "2018-08-01",
+    "total_reports": 49,
+    "total_locations": 28,
+    "locations": [
+      {
+        "lat": 12.88,
+        "lon": 121.77,
+        "count": 7,
+        "country_name": "Philippines",
+        "country_iso3": "PHL",
+        "region_name": "Asia Pacific",
+        "event_name": "Philippines: Southwest monsoon exacerbated by TD",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11387,
+          11370,
+          11369,
+          11366,
+          11362,
+          11361,
+          11353
+        ],
+        "titles": []
+      },
+      {
+        "lat": -19.02,
+        "lon": 29.15,
+        "count": 4,
+        "country_name": "Zimbabwe",
+        "country_iso3": "ZWE",
+        "region_name": "Africa",
+        "event_name": "Zimbabwe: Election Violence",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11383,
+          11376,
+          11375,
+          11365
+        ],
+        "titles": []
+      },
+      {
+        "lat": 40.34,
+        "lon": 127.51,
+        "count": 3,
+        "country_name": "Democratic People's Republic of Korea",
+        "country_iso3": "PRK",
+        "region_name": "Asia Pacific",
+        "event_name": "DPR Korea: Typhoon Soulik",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11400,
+          11397,
+          11377
+        ],
+        "titles": []
+      },
+      {
+        "lat": -0.79,
+        "lon": 113.92,
+        "count": 3,
+        "country_name": "Indonesia",
+        "country_iso3": "IDN",
+        "region_name": "Asia Pacific",
+        "event_name": "Indonesia: Lombok Earthquake 6,4 SR",
+        "dtype_name": "Earthquake",
+        "is_covid": false,
+        "reports": [
+          11378,
+          11368,
+          11367
+        ],
+        "titles": []
+      },
+      {
+        "lat": 10.69,
+        "lon": -61.22,
+        "count": 2,
+        "country_name": "Trinidad and Tobago",
+        "country_iso3": "TTO",
+        "region_name": "Americas",
+        "event_name": "Trinidad and Tobago: Earthquake",
+        "dtype_name": "Earthquake",
+        "is_covid": false,
+        "reports": [
+          11398,
+          11396
+        ],
+        "titles": []
+      },
+      {
+        "lat": 17.57,
+        "lon": -4.0,
+        "count": 2,
+        "country_name": "Mali",
+        "country_iso3": "MLI",
+        "region_name": "Africa",
+        "event_name": "Mali: Flooding (several localities)",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11394,
+          11393
+        ],
+        "titles": []
+      },
+      {
+        "lat": 15.78,
+        "lon": -90.23,
+        "count": 2,
+        "country_name": "Guatemala",
+        "country_iso3": "GTM",
+        "region_name": "Americas",
+        "event_name": "Guatemala: Alerta por Efectos de la Sequía",
+        "dtype_name": "Food Insecurity",
+        "is_covid": false,
+        "reports": [
+          11391,
+          11373
+        ],
+        "titles": []
+      },
+      {
+        "lat": 39.07,
+        "lon": 21.82,
+        "count": 2,
+        "country_name": "Greece",
+        "country_iso3": "GRC",
+        "region_name": "Europe",
+        "event_name": "Greece: Fires",
+        "dtype_name": "Fire",
+        "is_covid": false,
+        "reports": [
+          11389,
+          11355
+        ],
+        "titles": []
+      },
+      {
+        "lat": 20.59,
+        "lon": 78.96,
+        "count": 2,
+        "country_name": "India",
+        "country_iso3": "IND",
+        "region_name": "Asia Pacific",
+        "event_name": "India: Floods",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11386,
+          11382
+        ],
+        "titles": []
+      },
+      {
+        "lat": 23.68,
+        "lon": 90.36,
+        "count": 2,
+        "country_name": "Bangladesh",
+        "country_iso3": "BGD",
+        "region_name": "Asia Pacific",
+        "event_name": "Bangladesh: Heavy rain forecast in Cox's Bazaar",
+        "dtype_name": "Complex Emergency",
+        "is_covid": false,
+        "reports": [
+          11371,
+          11363
+        ],
+        "titles": []
+      },
+      {
+        "lat": 12.86,
+        "lon": 30.22,
+        "count": 2,
+        "country_name": "Sudan",
+        "country_iso3": "SDN",
+        "region_name": "Africa",
+        "event_name": "Sudan: Elnohoud town in West Kordofan state of Sudan",
+        "dtype_name": "Pluvial/Flash Flood",
+        "is_covid": false,
+        "reports": [
+          11364,
+          11357
+        ],
+        "titles": []
+      },
+      {
+        "lat": 7.37,
+        "lon": 12.35,
+        "count": 2,
+        "country_name": "Cameroon",
+        "country_iso3": "CMR",
+        "region_name": "Africa",
+        "event_name": "Cameroon: Floods in Limbe, South-West Cameroon",
+        "dtype_name": "Pluvial/Flash Flood",
+        "is_covid": false,
+        "reports": [
+          11360,
+          11358
+        ],
+        "titles": []
+      },
+      {
+        "lat": 32.43,
+        "lon": 53.69,
+        "count": 1,
+        "country_name": "Iran, Islamic Republic of",
+        "country_iso3": "IRN",
+        "region_name": "Middle East & North Africa",
+        "event_name": "Iran: 5.9m earthquake in the west",
+        "dtype_name": "Earthquake",
+        "is_covid": false,
+        "reports": [
+          11401
+        ],
+        "titles": []
+      },
+      {
+        "lat": 40.07,
+        "lon": 45.04,
+        "count": 1,
+        "country_name": "Armenia",
+        "country_iso3": "ARM",
+        "region_name": "Europe",
+        "event_name": "Armenia: Hailstorm and floods",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11399
+        ],
+        "titles": []
+      },
+      {
+        "lat": 7.34,
+        "lon": -66.32,
+        "count": 1,
+        "country_name": "Venezuela",
+        "country_iso3": "VEN",
+        "region_name": "Americas",
+        "event_name": "Venezuela: Earthquake",
+        "dtype_name": "Earthquake",
+        "is_covid": false,
+        "reports": [
+          11395
+        ],
+        "titles": []
+      },
+      {
+        "lat": 15.87,
+        "lon": 100.99,
+        "count": 1,
+        "country_name": "Thailand",
+        "country_iso3": "THA",
+        "region_name": "Asia Pacific",
+        "event_name": "Lao PDR: Flash Floods",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11392
+        ],
+        "titles": []
+      },
+      {
+        "lat": 12.24,
+        "lon": -1.56,
+        "count": 1,
+        "country_name": "Burkina Faso",
+        "country_iso3": "BFA",
+        "region_name": "Africa",
+        "event_name": "Burkina Faso: Flooding",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11390
+        ],
+        "titles": []
+      },
+      {
+        "lat": 4.57,
+        "lon": -74.3,
+        "count": 1,
+        "country_name": "Colombia",
+        "country_iso3": "COL",
+        "region_name": "Americas",
+        "event_name": "Colombia: Lluvias en Mocoa",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11388
+        ],
+        "titles": []
+      },
+      {
+        "lat": 31.05,
+        "lon": 34.85,
+        "count": 1,
+        "country_name": "Israel",
+        "country_iso3": "ISR",
+        "region_name": "Middle East & North Africa",
+        "event_name": "Israel: Rocket and mortar attacks in the south",
+        "dtype_name": "Complex Emergency",
+        "is_covid": false,
+        "reports": [
+          11385
+        ],
+        "titles": []
+      },
+      {
+        "lat": -4.04,
+        "lon": 21.76,
+        "count": 1,
+        "country_name": "Democratic Republic of Congo",
+        "country_iso3": "COD",
+        "region_name": "Africa",
+        "event_name": "DRC: Floods in the city of Gemena",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11384
+        ],
+        "titles": []
+      },
+      {
+        "lat": 15.2,
+        "lon": -86.24,
+        "count": 1,
+        "country_name": "Honduras",
+        "country_iso3": "HND",
+        "region_name": "Americas",
+        "event_name": "Honduras: Escases de lluvia en el corredor seco",
+        "dtype_name": "Drought",
+        "is_covid": false,
+        "reports": [
+          11381
+        ],
+        "titles": []
+      },
+      {
+        "lat": 1.37,
+        "lon": 32.29,
+        "count": 1,
+        "country_name": "Uganda",
+        "country_iso3": "UGA",
+        "region_name": "Africa",
+        "event_name": "Regional Ebola Virus Disease Containment",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11380
+        ],
+        "titles": []
+      },
+      {
+        "lat": 39.4,
+        "lon": -8.22,
+        "count": 1,
+        "country_name": "Portugal",
+        "country_iso3": "PRT",
+        "region_name": "Europe",
+        "event_name": "Portugal: 44 injured on ongoing forest fire",
+        "dtype_name": "Fire",
+        "is_covid": false,
+        "reports": [
+          11379
+        ],
+        "titles": []
+      },
+      {
+        "lat": 17.61,
+        "lon": 8.08,
+        "count": 1,
+        "country_name": "Niger",
+        "country_iso3": "NER",
+        "region_name": "Africa",
+        "event_name": "Niger: Cholera Epidemic Outbreak 2018",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11374
+        ],
+        "titles": []
+      },
+      {
+        "lat": 30.38,
+        "lon": 69.35,
+        "count": 1,
+        "country_name": "Pakistan",
+        "country_iso3": "PAK",
+        "region_name": "Asia Pacific",
+        "event_name": "Pakistan: Monsoon Rains & Floods",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11372
+        ],
+        "titles": []
+      },
+      {
+        "lat": 19.86,
+        "lon": 102.5,
+        "count": 1,
+        "country_name": "Lao People's Democratic Republic",
+        "country_iso3": "LAO",
+        "region_name": "Asia Pacific",
+        "event_name": "Lao PDR: Flash Floods",
+        "dtype_name": "Pluvial/Flash Flood",
+        "is_covid": false,
+        "reports": [
+          11359
+        ],
+        "titles": []
+      },
+      {
+        "lat": 13.79,
+        "lon": -88.9,
+        "count": 1,
+        "country_name": "El Salvador",
+        "country_iso3": "SLV",
+        "region_name": "Americas",
+        "event_name": "El Salvador: Drought",
+        "dtype_name": "Heat Wave",
+        "is_covid": false,
+        "reports": [
+          11356
+        ],
+        "titles": []
+      },
+      {
+        "lat": 60.13,
+        "lon": 18.64,
+        "count": 1,
+        "country_name": "Sweden",
+        "country_iso3": "SWE",
+        "region_name": "Europe",
+        "event_name": "Sweden: Forest fires",
+        "dtype_name": "Fire",
+        "is_covid": false,
+        "reports": [
+          11354
+        ],
+        "titles": []
+      }
+    ]
+  },
+  {
+    "month": "2018-09",
+    "date": "2018-09-01",
+    "total_reports": 19,
+    "total_locations": 16,
+    "locations": [
+      {
+        "lat": 37.09,
+        "lon": -95.71,
+        "count": 4,
+        "country_name": "United States",
+        "country_iso3": "USA",
+        "region_name": "Americas",
+        "event_name": "United States: Hurricane Florence",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11416,
+          11412,
+          11404,
+          11403
+        ],
+        "titles": []
+      },
+      {
+        "lat": 39.07,
+        "lon": 21.82,
+        "count": 1,
+        "country_name": "Greece",
+        "country_iso3": "GRC",
+        "region_name": "Europe",
+        "event_name": "Greece: Mediterranean Cyclone",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11434
+        ],
+        "titles": []
+      },
+      {
+        "lat": 23.63,
+        "lon": -102.55,
+        "count": 1,
+        "country_name": "Mexico",
+        "country_iso3": "MEX",
+        "region_name": "Americas",
+        "event_name": "Mexico: Hurricane Rosa",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11433
+        ],
+        "titles": []
+      },
+      {
+        "lat": -0.79,
+        "lon": 113.92,
+        "count": 1,
+        "country_name": "Indonesia",
+        "country_iso3": "IDN",
+        "region_name": "Asia Pacific",
+        "event_name": "Indonesia: Earthquakes and Tsunami",
+        "dtype_name": "Earthquake",
+        "is_covid": false,
+        "reports": [
+          11432
+        ],
+        "titles": []
+      },
+      {
+        "lat": 13.19,
+        "lon": -59.54,
+        "count": 1,
+        "country_name": "Barbados",
+        "country_iso3": "BRB",
+        "region_name": "Americas",
+        "event_name": "Unknown",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11431
+        ],
+        "titles": []
+      },
+      {
+        "lat": -9.65,
+        "lon": 160.16,
+        "count": 1,
+        "country_name": "Solomon Islands",
+        "country_iso3": "SLB",
+        "region_name": "Asia Pacific",
+        "event_name": "Unknown",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11430
+        ],
+        "titles": []
+      },
+      {
+        "lat": 33.89,
+        "lon": 9.54,
+        "count": 1,
+        "country_name": "Tunisia",
+        "country_iso3": "TUN",
+        "region_name": "Middle East & North Africa",
+        "event_name": "Tunisia: Flash Floods",
+        "dtype_name": "Pluvial/Flash Flood",
+        "is_covid": false,
+        "reports": [
+          11424
+        ],
+        "titles": []
+      },
+      {
+        "lat": -6.37,
+        "lon": 34.89,
+        "count": 1,
+        "country_name": "Tanzania, United Republic of",
+        "country_iso3": "TZA",
+        "region_name": "Africa",
+        "event_name": "Tanzania: Ferry Accident",
+        "dtype_name": "Transport Accident",
+        "is_covid": false,
+        "reports": [
+          11423
+        ],
+        "titles": []
+      },
+      {
+        "lat": -19.02,
+        "lon": 29.15,
+        "count": 1,
+        "country_name": "Zimbabwe",
+        "country_iso3": "ZWE",
+        "region_name": "Africa",
+        "event_name": "Zimbabwe: Cholera Outbreak",
+        "dtype_name": "Biological Emergency",
+        "is_covid": false,
+        "reports": [
+          11422
+        ],
+        "titles": []
+      },
+      {
+        "lat": 15.41,
+        "lon": -61.37,
+        "count": 1,
+        "country_name": "Dominica",
+        "country_iso3": "DMA",
+        "region_name": "Americas",
+        "event_name": "Dominica: Tropical Storm Isaac",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11421
+        ],
+        "titles": []
+      },
+      {
+        "lat": 7.95,
+        "lon": -1.02,
+        "count": 1,
+        "country_name": "Ghana",
+        "country_iso3": "GHA",
+        "region_name": "Africa",
+        "event_name": "Ghana: Devastating floods in the north",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11420
+        ],
+        "titles": []
+      },
+      {
+        "lat": 9.95,
+        "lon": -9.7,
+        "count": 1,
+        "country_name": "Guinea",
+        "country_iso3": "GIN",
+        "region_name": "Africa",
+        "event_name": "Guinea: Flood in Kankan, Gaoual und Kourussa",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11419
+        ],
+        "titles": []
+      },
+      {
+        "lat": 12.88,
+        "lon": 121.77,
+        "count": 1,
+        "country_name": "Philippines",
+        "country_iso3": "PHL",
+        "region_name": "Asia Pacific",
+        "event_name": "Philippines: Typhoon Mangkhut",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11418
+        ],
+        "titles": []
+      },
+      {
+        "lat": 23.68,
+        "lon": 90.36,
+        "count": 1,
+        "country_name": "Bangladesh",
+        "country_iso3": "BGD",
+        "region_name": "Asia Pacific",
+        "event_name": "Bangladesh: Displacement Due to Embankment Collapse",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11417
+        ],
+        "titles": []
+      },
+      {
+        "lat": 9.75,
+        "lon": -83.75,
+        "count": 1,
+        "country_name": "Costa Rica",
+        "country_iso3": "CRI",
+        "region_name": "Americas",
+        "event_name": "Costa Rica: Civil Unrest",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11415
+        ],
+        "titles": []
+      },
+      {
+        "lat": 18.11,
+        "lon": -77.3,
+        "count": 1,
+        "country_name": "Jamaica",
+        "country_iso3": "JAM",
+        "region_name": "Americas",
+        "event_name": "Jamaica: Tropical Storm Isaac",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11411
+        ],
+        "titles": []
+      }
+    ]
+  },
+  {
+    "month": "2018-10",
+    "date": "2018-10-01",
+    "total_reports": 59,
+    "total_locations": 35,
+    "locations": [
+      {
+        "lat": 13.79,
+        "lon": -88.9,
+        "count": 8,
+        "country_name": "El Salvador",
+        "country_iso3": "SLV",
+        "region_name": "Americas",
+        "event_name": "El Salvador: Floods",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11514,
+          11513,
+          11491,
+          11456,
+          11454,
+          11452,
+          11447,
+          11445
+        ],
+        "titles": []
+      },
+      {
+        "lat": 37.09,
+        "lon": -95.71,
+        "count": 4,
+        "country_name": "United States",
+        "country_iso3": "USA",
+        "region_name": "Americas",
+        "event_name": "United States: Hurricane Michael",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11494,
+          11482,
+          11479,
+          11455
+        ],
+        "titles": []
+      },
+      {
+        "lat": 9.75,
+        "lon": -83.75,
+        "count": 4,
+        "country_name": "Costa Rica",
+        "country_iso3": "CRI",
+        "region_name": "Americas",
+        "event_name": "Costa Rica: Civil Unrest",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11476,
+          11468,
+          11441,
+          11440
+        ],
+        "titles": []
+      },
+      {
+        "lat": 12.88,
+        "lon": 121.77,
+        "count": 3,
+        "country_name": "Philippines",
+        "country_iso3": "PHL",
+        "region_name": "Asia Pacific",
+        "event_name": "Philippines: Typhoon Mangkhut",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11512,
+          11475,
+          11469
+        ],
+        "titles": []
+      },
+      {
+        "lat": 61.52,
+        "lon": 105.32,
+        "count": 3,
+        "country_name": "Russian Federation",
+        "country_iso3": "RUS",
+        "region_name": "Europe",
+        "event_name": "Russia: Flood Krsnodar Krai",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11511,
+          11495,
+          11489
+        ],
+        "titles": []
+      },
+      {
+        "lat": 15.78,
+        "lon": -90.23,
+        "count": 2,
+        "country_name": "Guatemala",
+        "country_iso3": "GTM",
+        "region_name": "Americas",
+        "event_name": "Guatemala: Population Movement",
+        "dtype_name": "Population Movement",
+        "is_covid": false,
+        "reports": [
+          11492,
+          11488
+        ],
+        "titles": []
+      },
+      {
+        "lat": 9.95,
+        "lon": -9.7,
+        "count": 2,
+        "country_name": "Guinea",
+        "country_iso3": "GIN",
+        "region_name": "Africa",
+        "event_name": "Guinea: Flood in Kankan, Gaoual und Kourussa",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11474,
+          11460
+        ],
+        "titles": []
+      },
+      {
+        "lat": -19.02,
+        "lon": 29.15,
+        "count": 2,
+        "country_name": "Zimbabwe",
+        "country_iso3": "ZWE",
+        "region_name": "Africa",
+        "event_name": "Zimbabwe: Cholera Outbreak",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11471,
+          11464
+        ],
+        "titles": []
+      },
+      {
+        "lat": 9.08,
+        "lon": 8.68,
+        "count": 2,
+        "country_name": "Nigeria",
+        "country_iso3": "NGA",
+        "region_name": "Africa",
+        "event_name": "Nigeria: Cholera Epidemic",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11467,
+          11439
+        ],
+        "titles": []
+      },
+      {
+        "lat": 36.2,
+        "lon": 138.25,
+        "count": 2,
+        "country_name": "Japan",
+        "country_iso3": "JPN",
+        "region_name": "Asia Pacific",
+        "event_name": "Japan: Earthquake in Hokkaido area",
+        "dtype_name": "Earthquake",
+        "is_covid": false,
+        "reports": [
+          11463,
+          11462
+        ],
+        "titles": []
+      },
+      {
+        "lat": 7.87,
+        "lon": 80.77,
+        "count": 2,
+        "country_name": "Sri Lanka",
+        "country_iso3": "LKA",
+        "region_name": "Asia Pacific",
+        "event_name": "Sri Lanka: Flash Floods",
+        "dtype_name": "Pluvial/Flash Flood",
+        "is_covid": false,
+        "reports": [
+          11444,
+          11442
+        ],
+        "titles": []
+      },
+      {
+        "lat": 14.5,
+        "lon": -14.45,
+        "count": 2,
+        "country_name": "Senegal",
+        "country_iso3": "SEN",
+        "region_name": "Africa",
+        "event_name": "Sénégal: Épidémie de Dengue",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11437,
+          11435
+        ],
+        "titles": []
+      },
+      {
+        "lat": 41.87,
+        "lon": 12.57,
+        "count": 1,
+        "country_name": "Italy",
+        "country_iso3": "ITA",
+        "region_name": "Europe",
+        "event_name": "Italy: 9 dead and 1 missing after severe hailstorm and floods hit",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11510
+        ],
+        "titles": []
+      },
+      {
+        "lat": -23.44,
+        "lon": -58.44,
+        "count": 1,
+        "country_name": "Paraguay",
+        "country_iso3": "PRY",
+        "region_name": "Americas",
+        "event_name": "Paraguay: Floods",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11509
+        ],
+        "titles": []
+      },
+      {
+        "lat": 30.59,
+        "lon": 36.24,
+        "count": 1,
+        "country_name": "Jordan",
+        "country_iso3": "JOR",
+        "region_name": "Middle East & North Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11508
+        ],
+        "titles": []
+      },
+      {
+        "lat": 10.69,
+        "lon": -61.22,
+        "count": 1,
+        "country_name": "Trinidad and Tobago",
+        "country_iso3": "TTO",
+        "region_name": "Americas",
+        "event_name": "Trinidad and Tobago: Floods",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11493
+        ],
+        "titles": []
+      },
+      {
+        "lat": 15.55,
+        "lon": 48.52,
+        "count": 1,
+        "country_name": "Yemen",
+        "country_iso3": "YEM",
+        "region_name": "Middle East & North Africa",
+        "event_name": "Yemen: Tropical Storm",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11487
+        ],
+        "titles": []
+      },
+      {
+        "lat": -4.04,
+        "lon": 21.76,
+        "count": 1,
+        "country_name": "Democratic Republic of Congo",
+        "country_iso3": "COD",
+        "region_name": "Africa",
+        "event_name": "DR Congo - Population Movement",
+        "dtype_name": "Population Movement",
+        "is_covid": false,
+        "reports": [
+          11483
+        ],
+        "titles": []
+      },
+      {
+        "lat": 20.59,
+        "lon": 78.96,
+        "count": 1,
+        "country_name": "India",
+        "country_iso3": "IND",
+        "region_name": "Asia Pacific",
+        "event_name": "India: Cyclone Titli",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11481
+        ],
+        "titles": []
+      },
+      {
+        "lat": 48.38,
+        "lon": 31.17,
+        "count": 1,
+        "country_name": "Ukraine",
+        "country_iso3": "UKR",
+        "region_name": "Europe",
+        "event_name": "Ukraine: Explosion at Ammunition Depot",
+        "dtype_name": "Population Movement",
+        "is_covid": false,
+        "reports": [
+          11480
+        ],
+        "titles": []
+      },
+      {
+        "lat": 9.31,
+        "lon": 2.32,
+        "count": 1,
+        "country_name": "Benin",
+        "country_iso3": "BEN",
+        "region_name": "Africa",
+        "event_name": "Benin: Floods",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11478
+        ],
+        "titles": []
+      },
+      {
+        "lat": 23.68,
+        "lon": 90.36,
+        "count": 1,
+        "country_name": "Bangladesh",
+        "country_iso3": "BGD",
+        "region_name": "Asia Pacific",
+        "event_name": "Bangladesh: Displacement Due to Embankment Collapse",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11477
+        ],
+        "titles": []
+      },
+      {
+        "lat": 7.95,
+        "lon": -1.02,
+        "count": 1,
+        "country_name": "Ghana",
+        "country_iso3": "GHA",
+        "region_name": "Africa",
+        "event_name": "Ghana: Devastating floods in the north",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11473
+        ],
+        "titles": []
+      },
+      {
+        "lat": 15.41,
+        "lon": -61.37,
+        "count": 1,
+        "country_name": "Dominica",
+        "country_iso3": "DMA",
+        "region_name": "Americas",
+        "event_name": "Dominica: Tropical Storm Isaac",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11472
+        ],
+        "titles": []
+      },
+      {
+        "lat": 15.45,
+        "lon": 18.73,
+        "count": 1,
+        "country_name": "Chad",
+        "country_iso3": "TCD",
+        "region_name": "Africa",
+        "event_name": "Chad: Measles Outbreak",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11470
+        ],
+        "titles": []
+      },
+      {
+        "lat": 7.33,
+        "lon": 30.29,
+        "count": 1,
+        "country_name": "South Sudan",
+        "country_iso3": "SSD",
+        "region_name": "Africa",
+        "event_name": "Regional Ebola Virus Disease Containment",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11466
+        ],
+        "titles": []
+      },
+      {
+        "lat": 40.34,
+        "lon": 127.51,
+        "count": 1,
+        "country_name": "Democratic People's Republic of Korea",
+        "country_iso3": "PRK",
+        "region_name": "Asia Pacific",
+        "event_name": "DPR Korea: Floods and Landslides",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11465
+        ],
+        "titles": []
+      },
+      {
+        "lat": 17.61,
+        "lon": 8.08,
+        "count": 1,
+        "country_name": "Niger",
+        "country_iso3": "NER",
+        "region_name": "Africa",
+        "event_name": "Niger: Floods",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11461
+        ],
+        "titles": []
+      },
+      {
+        "lat": 12.24,
+        "lon": -1.56,
+        "count": 1,
+        "country_name": "Burkina Faso",
+        "country_iso3": "BFA",
+        "region_name": "Africa",
+        "event_name": "Burkina Faso: Flooding",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11459
+        ],
+        "titles": []
+      },
+      {
+        "lat": 18.74,
+        "lon": -70.16,
+        "count": 1,
+        "country_name": "Dominican Republic",
+        "country_iso3": "DOM",
+        "region_name": "Americas",
+        "event_name": "Dominican Republic: Cholera Outbreak",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11458
+        ],
+        "titles": []
+      },
+      {
+        "lat": -9.19,
+        "lon": -75.02,
+        "count": 1,
+        "country_name": "Peru",
+        "country_iso3": "PER",
+        "region_name": "Americas",
+        "event_name": "Americas - Population Movement",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11457
+        ],
+        "titles": []
+      },
+      {
+        "lat": 32.43,
+        "lon": 53.69,
+        "count": 1,
+        "country_name": "Iran, Islamic Republic of",
+        "country_iso3": "IRN",
+        "region_name": "Middle East & North Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11451
+        ],
+        "titles": []
+      },
+      {
+        "lat": 15.2,
+        "lon": -86.24,
+        "count": 1,
+        "country_name": "Honduras",
+        "country_iso3": "HND",
+        "region_name": "Americas",
+        "event_name": "Honduras: Floods",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11446
+        ],
+        "titles": []
+      },
+      {
+        "lat": 12.87,
+        "lon": -85.21,
+        "count": 1,
+        "country_name": "Nicaragua",
+        "country_iso3": "NIC",
+        "region_name": "Americas",
+        "event_name": "Nicaragua: Storm Surge",
+        "dtype_name": "Storm Surge",
+        "is_covid": false,
+        "reports": [
+          11443
+        ],
+        "titles": []
+      },
+      {
+        "lat": -0.79,
+        "lon": 113.92,
+        "count": 1,
+        "country_name": "Indonesia",
+        "country_iso3": "IDN",
+        "region_name": "Asia Pacific",
+        "event_name": "Indonesia: Earthquakes and Tsunami",
+        "dtype_name": "Tsunami",
+        "is_covid": false,
+        "reports": [
+          11438
+        ],
+        "titles": []
+      }
+    ]
+  },
+  {
+    "month": "2018-11",
+    "date": "2018-11-01",
+    "total_reports": 19,
+    "total_locations": 12,
+    "locations": [
+      {
+        "lat": -23.44,
+        "lon": -58.44,
+        "count": 4,
+        "country_name": "Paraguay",
+        "country_iso3": "PRY",
+        "region_name": "Americas",
+        "event_name": "Paraguay: Floods",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11565,
+          11553,
+          11527,
+          11526
+        ],
+        "titles": []
+      },
+      {
+        "lat": 20.59,
+        "lon": 78.96,
+        "count": 3,
+        "country_name": "India",
+        "country_iso3": "IND",
+        "region_name": "Asia Pacific",
+        "event_name": "India: Cyclone Gaja",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11569,
+          11568,
+          11563
+        ],
+        "titles": []
+      },
+      {
+        "lat": 37.09,
+        "lon": -95.71,
+        "count": 2,
+        "country_name": "United States",
+        "country_iso3": "USA",
+        "region_name": "Americas",
+        "event_name": "United States: 7.0 earthquake strikes Anchorage, Alaska",
+        "dtype_name": "Earthquake",
+        "is_covid": false,
+        "reports": [
+          11583,
+          11567
+        ],
+        "titles": []
+      },
+      {
+        "lat": 14.06,
+        "lon": 108.28,
+        "count": 2,
+        "country_name": "Viet Nam",
+        "country_iso3": "VNM",
+        "region_name": "Asia Pacific",
+        "event_name": "Viet Nam: Typhoon Usagi",
+        "dtype_name": "Storm Surge",
+        "is_covid": false,
+        "reports": [
+          11573,
+          11571
+        ],
+        "titles": []
+      },
+      {
+        "lat": 33.22,
+        "lon": 43.68,
+        "count": 1,
+        "country_name": "Iraq",
+        "country_iso3": "IRQ",
+        "region_name": "Middle East & North Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11574
+        ],
+        "titles": []
+      },
+      {
+        "lat": 32.43,
+        "lon": 53.69,
+        "count": 1,
+        "country_name": "Iran, Islamic Republic of",
+        "country_iso3": "IRN",
+        "region_name": "Middle East & North Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Earthquake",
+        "is_covid": false,
+        "reports": [
+          11572
+        ],
+        "titles": []
+      },
+      {
+        "lat": 15.78,
+        "lon": -90.23,
+        "count": 1,
+        "country_name": "Guatemala",
+        "country_iso3": "GTM",
+        "region_name": "Americas",
+        "event_name": "Guatemala - Fuego Volcano Eruption",
+        "dtype_name": "Volcanic Eruption",
+        "is_covid": false,
+        "reports": [
+          11570
+        ],
+        "titles": []
+      },
+      {
+        "lat": 31.05,
+        "lon": 34.85,
+        "count": 1,
+        "country_name": "Israel",
+        "country_iso3": "ISR",
+        "region_name": "Europe",
+        "event_name": "Israel: Hundreds of rockets fired at the south of Israel",
+        "dtype_name": "Complex Emergency",
+        "is_covid": false,
+        "reports": [
+          11566
+        ],
+        "titles": []
+      },
+      {
+        "lat": 30.59,
+        "lon": 36.24,
+        "count": 1,
+        "country_name": "Jordan",
+        "country_iso3": "JOR",
+        "region_name": "Middle East & North Africa",
+        "event_name": "Jordan: flash floods kill 12 and force tourists to flee ",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11562
+        ],
+        "titles": []
+      },
+      {
+        "lat": 7.87,
+        "lon": 80.77,
+        "count": 1,
+        "country_name": "Sri Lanka",
+        "country_iso3": "LKA",
+        "region_name": "Asia Pacific",
+        "event_name": "Sri Lanka: North-East Monsoon  (Wind Circulation in South-west of Bay of Bengal)",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11531
+        ],
+        "titles": []
+      },
+      {
+        "lat": 12.88,
+        "lon": 121.77,
+        "count": 1,
+        "country_name": "Philippines",
+        "country_iso3": "PHL",
+        "region_name": "Asia Pacific",
+        "event_name": "Philippines: Typhoon Rosita (international name: Yutu)",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11530
+        ],
+        "titles": []
+      },
+      {
+        "lat": 41.87,
+        "lon": 12.57,
+        "count": 1,
+        "country_name": "Italy",
+        "country_iso3": "ITA",
+        "region_name": "Europe",
+        "event_name": "Italy: 12 dead and 1 missing after severe floods in Sicily (south of Italy)",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11529
+        ],
+        "titles": []
+      }
+    ]
+  },
+  {
+    "month": "2018-12",
+    "date": "2018-12-01",
+    "total_reports": 14,
+    "total_locations": 12,
+    "locations": [
+      {
+        "lat": -0.23,
+        "lon": 15.83,
+        "count": 2,
+        "country_name": "Congo",
+        "country_iso3": "COG",
+        "region_name": "Africa",
+        "event_name": "Republic of the Congo: Le mouvement de population de la RDC vers la République du Congo",
+        "dtype_name": "Population Movement",
+        "is_covid": false,
+        "reports": [
+          11628,
+          11627
+        ],
+        "titles": []
+      },
+      {
+        "lat": 7.87,
+        "lon": 80.77,
+        "count": 2,
+        "country_name": "Sri Lanka",
+        "country_iso3": "LKA",
+        "region_name": "Asia Pacific",
+        "event_name": "Sri Lanka: Displacement due to flash floods",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11615,
+          11614
+        ],
+        "titles": []
+      },
+      {
+        "lat": 61.52,
+        "lon": 105.32,
+        "count": 1,
+        "country_name": "Russian Federation",
+        "country_iso3": "RUS",
+        "region_name": "Europe",
+        "event_name": "Russian Federation: Gas explosion in an apartment building Magnitogorsk (Chelyabinsk Region)",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11640
+        ],
+        "titles": []
+      },
+      {
+        "lat": 9.08,
+        "lon": 8.68,
+        "count": 1,
+        "country_name": "Nigeria",
+        "country_iso3": "NGA",
+        "region_name": "Africa",
+        "event_name": "Niger: Cholera Outbreak",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11639
+        ],
+        "titles": []
+      },
+      {
+        "lat": -4.04,
+        "lon": 21.76,
+        "count": 1,
+        "country_name": "Democratic Republic of Congo",
+        "country_iso3": "COD",
+        "region_name": "Africa",
+        "event_name": "DR Congo - Population Movement",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11637
+        ],
+        "titles": []
+      },
+      {
+        "lat": 12.86,
+        "lon": 30.22,
+        "count": 1,
+        "country_name": "Sudan",
+        "country_iso3": "SDN",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Civil Unrest",
+        "is_covid": false,
+        "reports": [
+          11634
+        ],
+        "titles": []
+      },
+      {
+        "lat": 6.61,
+        "lon": 20.94,
+        "count": 1,
+        "country_name": "Central African Republic",
+        "country_iso3": "CAF",
+        "region_name": "Africa",
+        "event_name": "Central African Republic: 1 décès d'un enfant de 13 ans des suites de la maladie de Monkey Pox",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11613
+        ],
+        "titles": []
+      },
+      {
+        "lat": -15.38,
+        "lon": 166.96,
+        "count": 1,
+        "country_name": "Vanuatu",
+        "country_iso3": "VUT",
+        "region_name": "Asia Pacific",
+        "event_name": "Vanuatu: Ambrym Volcano Eruption and Contentious Seismic Activity",
+        "dtype_name": "Volcanic Eruption",
+        "is_covid": false,
+        "reports": [
+          11612
+        ],
+        "titles": []
+      },
+      {
+        "lat": 9.31,
+        "lon": 2.32,
+        "count": 1,
+        "country_name": "Benin",
+        "country_iso3": "BEN",
+        "region_name": "Africa",
+        "event_name": "Benin: Hemorragic Fever of LASSA epidemic",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11610
+        ],
+        "titles": []
+      },
+      {
+        "lat": 14.06,
+        "lon": 108.28,
+        "count": 1,
+        "country_name": "Viet Nam",
+        "country_iso3": "VNM",
+        "region_name": "Asia Pacific",
+        "event_name": "Viet Nam: Heavy rains causing serious flooding in Central Region of the country",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11609
+        ],
+        "titles": []
+      },
+      {
+        "lat": -0.8,
+        "lon": 11.61,
+        "count": 1,
+        "country_name": "Gabon",
+        "country_iso3": "GAB",
+        "region_name": "Africa",
+        "event_name": "Unknown",
+        "dtype_name": "Pluvial/Flash Flood",
+        "is_covid": false,
+        "reports": [
+          11590
+        ],
+        "titles": []
+      },
+      {
+        "lat": 48.38,
+        "lon": 31.17,
+        "count": 1,
+        "country_name": "Ukraine",
+        "country_iso3": "UKR",
+        "region_name": "Europe",
+        "event_name": "Unknown",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11585
+        ],
+        "titles": []
+      }
+    ]
+  },
+  {
+    "month": "2019-01",
+    "date": "2019-01-01",
+    "total_reports": 33,
+    "total_locations": 23,
+    "locations": [
+      {
+        "lat": -35.68,
+        "lon": -71.54,
+        "count": 4,
+        "country_name": "Chile",
+        "country_iso3": "CHL",
+        "region_name": "Americas",
+        "event_name": "Chile: Earthquake",
+        "dtype_name": "Earthquake",
+        "is_covid": false,
+        "reports": [
+          11702,
+          11697,
+          11689,
+          11688
+        ],
+        "titles": []
+      },
+      {
+        "lat": 42.32,
+        "lon": 43.36,
+        "count": 3,
+        "country_name": "Georgia",
+        "country_iso3": "GEO",
+        "region_name": "Europe",
+        "event_name": "Georgia: Measles Epidemic",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11681,
+          11679,
+          11651
+        ],
+        "titles": []
+      },
+      {
+        "lat": -14.24,
+        "lon": -51.93,
+        "count": 2,
+        "country_name": "Brazil",
+        "country_iso3": "BRA",
+        "region_name": "Americas",
+        "event_name": "Brazil: Ruptura de presa en Brumadinho (Minas Gerais), deja desaparecidos.",
+        "dtype_name": "Landslide",
+        "is_covid": false,
+        "reports": [
+          11701,
+          11645
+        ],
+        "titles": []
+      },
+      {
+        "lat": 48.38,
+        "lon": 31.17,
+        "count": 2,
+        "country_name": "Ukraine",
+        "country_iso3": "UKR",
+        "region_name": "Europe",
+        "event_name": "Ukraine: Extreme winter conditions",
+        "dtype_name": "Cold Wave",
+        "is_covid": false,
+        "reports": [
+          11698,
+          11687
+        ],
+        "titles": []
+      },
+      {
+        "lat": 18.11,
+        "lon": -77.3,
+        "count": 2,
+        "country_name": "Jamaica",
+        "country_iso3": "JAM",
+        "region_name": "Americas",
+        "event_name": "Jamaica: Dengue outbreak",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11685,
+          11652
+        ],
+        "titles": []
+      },
+      {
+        "lat": 15.78,
+        "lon": -90.23,
+        "count": 2,
+        "country_name": "Guatemala",
+        "country_iso3": "GTM",
+        "region_name": "Americas",
+        "event_name": "Guatemala: Population Movement",
+        "dtype_name": "Population Movement",
+        "is_covid": false,
+        "reports": [
+          11683,
+          11654
+        ],
+        "titles": []
+      },
+      {
+        "lat": -38.42,
+        "lon": -63.62,
+        "count": 2,
+        "country_name": "Argentina",
+        "country_iso3": "ARG",
+        "region_name": "Americas",
+        "event_name": "Argentina - Floods",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11680,
+          11653
+        ],
+        "titles": []
+      },
+      {
+        "lat": 9.08,
+        "lon": 8.68,
+        "count": 1,
+        "country_name": "Nigeria",
+        "country_iso3": "NGA",
+        "region_name": "Africa",
+        "event_name": "Nigeria: Lassa fever and yellow fever outbreak",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11705
+        ],
+        "titles": []
+      },
+      {
+        "lat": -13.25,
+        "lon": 34.3,
+        "count": 1,
+        "country_name": "Malawi",
+        "country_iso3": "MWI",
+        "region_name": "Africa",
+        "event_name": "Malawi: Floods",
+        "dtype_name": "Pluvial/Flash Flood",
+        "is_covid": false,
+        "reports": [
+          11704
+        ],
+        "titles": []
+      },
+      {
+        "lat": 30.38,
+        "lon": 69.35,
+        "count": 1,
+        "country_name": "Pakistan",
+        "country_iso3": "PAK",
+        "region_name": "Asia Pacific",
+        "event_name": "Pakistan: Drought",
+        "dtype_name": "Drought",
+        "is_covid": false,
+        "reports": [
+          11700
+        ],
+        "titles": []
+      },
+      {
+        "lat": 28.03,
+        "lon": 1.66,
+        "count": 1,
+        "country_name": "Algeria",
+        "country_iso3": "DZA",
+        "region_name": "Middle East & North Africa",
+        "event_name": "Algeria: Wave of snow and heavy rain",
+        "dtype_name": "Cold Wave",
+        "is_covid": false,
+        "reports": [
+          11692
+        ],
+        "titles": []
+      },
+      {
+        "lat": 8.46,
+        "lon": -11.78,
+        "count": 1,
+        "country_name": "Sierra Leone",
+        "country_iso3": "SLE",
+        "region_name": "Africa",
+        "event_name": "Flooding in Sierra Leone Capital",
+        "dtype_name": "Fire",
+        "is_covid": false,
+        "reports": [
+          11690
+        ],
+        "titles": []
+      },
+      {
+        "lat": 47.41,
+        "lon": 28.37,
+        "count": 1,
+        "country_name": "Moldova, Republic of",
+        "country_iso3": "MDA",
+        "region_name": "Europe",
+        "event_name": "Moldova: Heavy snowfall and intense cold",
+        "dtype_name": "Cold Wave",
+        "is_covid": false,
+        "reports": [
+          11686
+        ],
+        "titles": []
+      },
+      {
+        "lat": -9.19,
+        "lon": -75.02,
+        "count": 1,
+        "country_name": "Peru",
+        "country_iso3": "PER",
+        "region_name": "Americas",
+        "event_name": "Peru: Más de 1500 personas afectados por Aniego en Lima",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11684
+        ],
+        "titles": []
+      },
+      {
+        "lat": 46.86,
+        "lon": 103.85,
+        "count": 1,
+        "country_name": "Mongolia",
+        "country_iso3": "MNG",
+        "region_name": "Asia Pacific",
+        "event_name": "Mongolia: Outbreak of Influenza A (H1N1)",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11658
+        ],
+        "titles": []
+      },
+      {
+        "lat": 15.45,
+        "lon": 18.73,
+        "count": 1,
+        "country_name": "Chad",
+        "country_iso3": "TCD",
+        "region_name": "Africa",
+        "event_name": "Chad: Mouvement des Populations",
+        "dtype_name": "Population Movement",
+        "is_covid": false,
+        "reports": [
+          11657
+        ],
+        "titles": []
+      },
+      {
+        "lat": 15.2,
+        "lon": -86.24,
+        "count": 1,
+        "country_name": "Honduras",
+        "country_iso3": "HND",
+        "region_name": "Americas",
+        "event_name": "Honduras: Movilidad Humana",
+        "dtype_name": "Population Movement",
+        "is_covid": false,
+        "reports": [
+          11656
+        ],
+        "titles": []
+      },
+      {
+        "lat": -19.02,
+        "lon": 29.15,
+        "count": 1,
+        "country_name": "Zimbabwe",
+        "country_iso3": "ZWE",
+        "region_name": "Africa",
+        "event_name": "Zimbabwe: Potential civil unrest over price increases",
+        "dtype_name": "Civil Unrest",
+        "is_covid": false,
+        "reports": [
+          11655
+        ],
+        "titles": []
+      },
+      {
+        "lat": 33.85,
+        "lon": 35.86,
+        "count": 1,
+        "country_name": "Lebanon",
+        "country_iso3": "LBN",
+        "region_name": "Middle East & North Africa",
+        "event_name": "Lebanon: Extreme Weather Conditions",
+        "dtype_name": "Cold Wave",
+        "is_covid": false,
+        "reports": [
+          11646
+        ],
+        "titles": []
+      },
+      {
+        "lat": 7.13,
+        "lon": 171.18,
+        "count": 1,
+        "country_name": "Marshall Islands",
+        "country_iso3": "MHL",
+        "region_name": null,
+        "event_name": "Marshall Islands: State of emergency declaration",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11644
+        ],
+        "titles": []
+      },
+      {
+        "lat": -9.65,
+        "lon": 160.16,
+        "count": 1,
+        "country_name": "Solomon Islands",
+        "country_iso3": "SLB",
+        "region_name": "Asia Pacific",
+        "event_name": "Vanuatu: TD03F and Tropical Cyclone Penny",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11643
+        ],
+        "titles": []
+      },
+      {
+        "lat": -16.58,
+        "lon": 179.41,
+        "count": 1,
+        "country_name": "Fiji",
+        "country_iso3": "FJI",
+        "region_name": "Asia Pacific",
+        "event_name": "Fiji: TD 04 AND TD 05 merging into 1 as Tropical Cyclone Mona",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11642
+        ],
+        "titles": []
+      },
+      {
+        "lat": 12.88,
+        "lon": 121.77,
+        "count": 1,
+        "country_name": "Philippines",
+        "country_iso3": "PHL",
+        "region_name": "Asia Pacific",
+        "event_name": "Philippines: Tropical Depression Usman",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11641
+        ],
+        "titles": []
+      }
+    ]
+  },
+  {
+    "month": "2019-02",
+    "date": "2019-02-01",
+    "total_reports": 21,
+    "total_locations": 16,
+    "locations": [
+      {
+        "lat": -16.29,
+        "lon": -63.59,
+        "count": 4,
+        "country_name": "Bolivia",
+        "country_iso3": "BOL",
+        "region_name": "Americas",
+        "event_name": "Bolivia: Floods",
+        "dtype_name": "Pluvial/Flash Flood",
+        "is_covid": false,
+        "reports": [
+          11722,
+          11710,
+          11709,
+          11706
+        ],
+        "titles": []
+      },
+      {
+        "lat": 23.68,
+        "lon": 90.36,
+        "count": 3,
+        "country_name": "Bangladesh",
+        "country_iso3": "BGD",
+        "region_name": "Asia Pacific",
+        "event_name": "Bangladesh: Fire at Bhashantek, Dhaka",
+        "dtype_name": "Fire",
+        "is_covid": false,
+        "reports": [
+          11726,
+          11723,
+          11711
+        ],
+        "titles": []
+      },
+      {
+        "lat": 26.82,
+        "lon": 30.8,
+        "count": 1,
+        "country_name": "Egypt",
+        "country_iso3": "EGY",
+        "region_name": "Middle East & North Africa",
+        "event_name": "Egypt: 20 dead , 43 injured after train crash and explosion",
+        "dtype_name": "Transport Accident",
+        "is_covid": false,
+        "reports": [
+          11727
+        ],
+        "titles": []
+      },
+      {
+        "lat": 53.71,
+        "lon": 27.95,
+        "count": 1,
+        "country_name": "Belarus",
+        "country_iso3": "BLR",
+        "region_name": "Europe",
+        "event_name": "Belarus: Cold wave",
+        "dtype_name": "Cold Wave",
+        "is_covid": false,
+        "reports": [
+          11725
+        ],
+        "titles": []
+      },
+      {
+        "lat": -1.83,
+        "lon": -78.18,
+        "count": 1,
+        "country_name": "Ecuador",
+        "country_iso3": "ECU",
+        "region_name": "Americas",
+        "event_name": "Ecuador: Earthquake",
+        "dtype_name": "Earthquake",
+        "is_covid": false,
+        "reports": [
+          11724
+        ],
+        "titles": []
+      },
+      {
+        "lat": 48.38,
+        "lon": 31.17,
+        "count": 1,
+        "country_name": "Ukraine",
+        "country_iso3": "UKR",
+        "region_name": "Europe",
+        "event_name": "Ukraine: 23 000 cases measles outbreak year to date",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11721
+        ],
+        "titles": []
+      },
+      {
+        "lat": 18.97,
+        "lon": -72.29,
+        "count": 1,
+        "country_name": "Haiti",
+        "country_iso3": "HTI",
+        "region_name": "Americas",
+        "event_name": "Haiti: Socio-Economic Crisis",
+        "dtype_name": "Civil Unrest",
+        "is_covid": false,
+        "reports": [
+          11720
+        ],
+        "titles": []
+      },
+      {
+        "lat": 21.52,
+        "lon": -77.78,
+        "count": 1,
+        "country_name": "Cuba",
+        "country_iso3": "CUB",
+        "region_name": "Americas",
+        "event_name": "Cuba: Tornado in la Havana",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11719
+        ],
+        "titles": []
+      },
+      {
+        "lat": -15.38,
+        "lon": 166.96,
+        "count": 1,
+        "country_name": "Vanuatu",
+        "country_iso3": "VUT",
+        "region_name": "Asia Pacific",
+        "event_name": "Vanuatu: Tropical Cyclone Oma (CAT 2)",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11718
+        ],
+        "titles": []
+      },
+      {
+        "lat": -20.35,
+        "lon": 57.55,
+        "count": 1,
+        "country_name": "Mauritius",
+        "country_iso3": "MUS",
+        "region_name": "Africa",
+        "event_name": "Mauritius: Intense Tropical Cyclone – GELENA",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11716
+        ],
+        "titles": []
+      },
+      {
+        "lat": 12.88,
+        "lon": 121.77,
+        "count": 1,
+        "country_name": "Philippines",
+        "country_iso3": "PHL",
+        "region_name": "Asia Pacific",
+        "event_name": "Philippines: Measles Outbreak in National Capital Region and in areas of Luzon and Visayas",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11715
+        ],
+        "titles": []
+      },
+      {
+        "lat": -9.19,
+        "lon": -75.02,
+        "count": 1,
+        "country_name": "Peru",
+        "country_iso3": "PER",
+        "region_name": "Americas",
+        "event_name": "Peru: Heavy Rains in the Arequipa Region",
+        "dtype_name": "Pluvial/Flash Flood",
+        "is_covid": false,
+        "reports": [
+          11714
+        ],
+        "titles": []
+      },
+      {
+        "lat": 9.95,
+        "lon": -9.7,
+        "count": 1,
+        "country_name": "Guinea",
+        "country_iso3": "GIN",
+        "region_name": "Africa",
+        "event_name": "Guinea: Lassa Fever Outbreak",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11713
+        ],
+        "titles": []
+      },
+      {
+        "lat": 9.08,
+        "lon": 8.68,
+        "count": 1,
+        "country_name": "Nigeria",
+        "country_iso3": "NGA",
+        "region_name": "Africa",
+        "event_name": "Nigeria: Lassa fever and yellow fever outbreak",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11712
+        ],
+        "titles": []
+      },
+      {
+        "lat": 7.37,
+        "lon": 12.35,
+        "count": 1,
+        "country_name": "Cameroon",
+        "country_iso3": "CMR",
+        "region_name": "Africa",
+        "event_name": "Cameroon: Mouvement de population à l'Extrême-Nord",
+        "dtype_name": "Population Movement",
+        "is_covid": false,
+        "reports": [
+          11708
+        ],
+        "titles": []
+      },
+      {
+        "lat": 15.78,
+        "lon": -90.23,
+        "count": 1,
+        "country_name": "Guatemala",
+        "country_iso3": "GTM",
+        "region_name": "Americas",
+        "event_name": "Guatemala: Sismo de 6.8",
+        "dtype_name": "Earthquake",
+        "is_covid": false,
+        "reports": [
+          11707
+        ],
+        "titles": []
+      }
+    ]
+  },
+  {
+    "month": "2019-03",
+    "date": "2019-03-01",
+    "total_reports": 30,
+    "total_locations": 21,
+    "locations": [
+      {
+        "lat": -14.24,
+        "lon": -51.93,
+        "count": 3,
+        "country_name": "Brazil",
+        "country_iso3": "BRA",
+        "region_name": "Americas",
+        "event_name": "Alerta naranja- TEMPESTADE TROPICAL “IBA”",
+        "dtype_name": "Pluvial/Flash Flood",
+        "is_covid": false,
+        "reports": [
+          11762,
+          11747,
+          11744
+        ],
+        "titles": []
+      },
+      {
+        "lat": -13.13,
+        "lon": 27.85,
+        "count": 2,
+        "country_name": "Zambia",
+        "country_iso3": "ZMB",
+        "region_name": "Africa",
+        "event_name": "3 people dead due to cholera outbreak in Nsama District, Northern Province – Zambia ",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11763,
+          11740
+        ],
+        "titles": []
+      },
+      {
+        "lat": 32.43,
+        "lon": 53.69,
+        "count": 2,
+        "country_name": "Iran, Islamic Republic of",
+        "country_iso3": "IRN",
+        "region_name": "Middle East & North Africa",
+        "event_name": "Flash Floods in Mazandaran, Golestan Province, Iran",
+        "dtype_name": "Pluvial/Flash Flood",
+        "is_covid": false,
+        "reports": [
+          11760,
+          11730
+        ],
+        "titles": []
+      },
+      {
+        "lat": -16.29,
+        "lon": -63.59,
+        "count": 2,
+        "country_name": "Bolivia",
+        "country_iso3": "BOL",
+        "region_name": "Americas",
+        "event_name": "mas de 500 familias afectadas por las inundaciones en Guanay  y Yamparaez",
+        "dtype_name": "Pluvial/Flash Flood",
+        "is_covid": false,
+        "reports": [
+          11759,
+          11758
+        ],
+        "titles": []
+      },
+      {
+        "lat": 33.22,
+        "lon": 43.68,
+        "count": 2,
+        "country_name": "Iraq",
+        "country_iso3": "IRQ",
+        "region_name": "Middle East & North Africa",
+        "event_name": "Flash flood",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11757,
+          11756
+        ],
+        "titles": []
+      },
+      {
+        "lat": -0.79,
+        "lon": 113.92,
+        "count": 2,
+        "country_name": "Indonesia",
+        "country_iso3": "IDN",
+        "region_name": "Asia Pacific",
+        "event_name": "63 Dead after Flash Flood Jayapura in Indonesia",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11750,
+          11748
+        ],
+        "titles": []
+      },
+      {
+        "lat": 48.38,
+        "lon": 31.17,
+        "count": 2,
+        "country_name": "Ukraine",
+        "country_iso3": "UKR",
+        "region_name": "Europe",
+        "event_name": "Pre-election unrest",
+        "dtype_name": "Civil Unrest",
+        "is_covid": false,
+        "reports": [
+          11745,
+          11728
+        ],
+        "titles": []
+      },
+      {
+        "lat": -1.83,
+        "lon": -78.18,
+        "count": 2,
+        "country_name": "Ecuador",
+        "country_iso3": "ECU",
+        "region_name": "Americas",
+        "event_name": "Ecuador: Alerta naranja por las inundaciones en dos provincias",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11738,
+          11733
+        ],
+        "titles": []
+      },
+      {
+        "lat": -9.19,
+        "lon": -75.02,
+        "count": 1,
+        "country_name": "Peru",
+        "country_iso3": "PER",
+        "region_name": "Americas",
+        "event_name": "Más de 32,000 personas afectadas por Inundación en la Región de Ucayali",
+        "dtype_name": "Pluvial/Flash Flood",
+        "is_covid": false,
+        "reports": [
+          11765
+        ],
+        "titles": []
+      },
+      {
+        "lat": 15.78,
+        "lon": -90.23,
+        "count": 1,
+        "country_name": "Guatemala",
+        "country_iso3": "GTM",
+        "region_name": "Americas",
+        "event_name": "Secuencia Sísmica en Región Central de Guatemala ",
+        "dtype_name": "Earthquake",
+        "is_covid": false,
+        "reports": [
+          11764
+        ],
+        "titles": []
+      },
+      {
+        "lat": -20.35,
+        "lon": 57.55,
+        "count": 1,
+        "country_name": "Mauritius",
+        "country_iso3": "MUS",
+        "region_name": "Africa",
+        "event_name": "Predicted Cyclone JOANINHA to affect Rodrigues Island in Mauritius",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11761
+        ],
+        "titles": []
+      },
+      {
+        "lat": -13.25,
+        "lon": 34.3,
+        "count": 1,
+        "country_name": "Malawi",
+        "country_iso3": "MWI",
+        "region_name": "Africa",
+        "event_name": "840,000 affected by floods and heavy rains.",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11754
+        ],
+        "titles": []
+      },
+      {
+        "lat": 18.11,
+        "lon": -77.3,
+        "count": 1,
+        "country_name": "Jamaica",
+        "country_iso3": "JAM",
+        "region_name": "Americas",
+        "event_name": "Unknown",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11752
+        ],
+        "titles": []
+      },
+      {
+        "lat": -19.02,
+        "lon": 29.15,
+        "count": 1,
+        "country_name": "Zimbabwe",
+        "country_iso3": "ZWE",
+        "region_name": "Africa",
+        "event_name": "Zimbabwe: Cyclone IDAI",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11749
+        ],
+        "titles": []
+      },
+      {
+        "lat": 12.51,
+        "lon": -69.99,
+        "count": 1,
+        "country_name": "Aruba",
+        "country_iso3": "ABW",
+        "region_name": null,
+        "event_name": "Caribe Wave 2019 ",
+        "dtype_name": "Tsunami",
+        "is_covid": false,
+        "reports": [
+          11746
+        ],
+        "titles": []
+      },
+      {
+        "lat": 9.08,
+        "lon": 8.68,
+        "count": 1,
+        "country_name": "Nigeria",
+        "country_iso3": "NGA",
+        "region_name": "Africa",
+        "event_name": "Nigeria: 7 dead, 36 Persons with breathing difficulties in Lagos Building Collapse",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11743
+        ],
+        "titles": []
+      },
+      {
+        "lat": 15.45,
+        "lon": 18.73,
+        "count": 1,
+        "country_name": "Chad",
+        "country_iso3": "TCD",
+        "region_name": "Africa",
+        "event_name": "Chad: Epidemie Rougeolet",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11742
+        ],
+        "titles": []
+      },
+      {
+        "lat": 4.21,
+        "lon": 101.98,
+        "count": 1,
+        "country_name": "Malaysia",
+        "country_iso3": "MYS",
+        "region_name": "Asia Pacific",
+        "event_name": "Malaysia: Chemical Contamination in River affects 207 children and youths in school in Johor",
+        "dtype_name": "Chemical Emergency",
+        "is_covid": false,
+        "reports": [
+          11741
+        ],
+        "titles": []
+      },
+      {
+        "lat": 1.37,
+        "lon": 32.29,
+        "count": 1,
+        "country_name": "Uganda",
+        "country_iso3": "UGA",
+        "region_name": "Africa",
+        "event_name": "Uganda: Suspect Plague kills one person in Zombo district",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11739
+        ],
+        "titles": []
+      },
+      {
+        "lat": 9.95,
+        "lon": -9.7,
+        "count": 1,
+        "country_name": "Guinea",
+        "country_iso3": "GIN",
+        "region_name": "Africa",
+        "event_name": "Guinea: 129 menages / familles sierra-leonais refugiés",
+        "dtype_name": "Population Movement",
+        "is_covid": false,
+        "reports": [
+          11732
+        ],
+        "titles": []
+      },
+      {
+        "lat": 4.57,
+        "lon": -74.3,
+        "count": 1,
+        "country_name": "Colombia",
+        "country_iso3": "COL",
+        "region_name": "Americas",
+        "event_name": "Colombia: Inundaciones por desbordamiento de Río en Chocó",
+        "dtype_name": "Pluvial/Flash Flood",
+        "is_covid": false,
+        "reports": [
+          11729
+        ],
+        "titles": []
+      }
+    ]
+  },
+  {
+    "month": "2019-04",
+    "date": "2019-04-01",
+    "total_reports": 16,
+    "total_locations": 12,
+    "locations": [
+      {
+        "lat": 28.39,
+        "lon": 84.12,
+        "count": 3,
+        "country_name": "Nepal",
+        "country_iso3": "NPL",
+        "region_name": "Asia Pacific",
+        "event_name": "27 Dead Due to Strong Windstorm",
+        "dtype_name": "Storm Surge",
+        "is_covid": false,
+        "reports": [
+          11769,
+          11768,
+          11766
+        ],
+        "titles": []
+      },
+      {
+        "lat": -23.44,
+        "lon": -58.44,
+        "count": 2,
+        "country_name": "Paraguay",
+        "country_iso3": "PRY",
+        "region_name": "Americas",
+        "event_name": "37.906 familias afectadas en 9 Departamentos y la Capital de Paraguay afectadas por inundación.",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11775,
+          11772
+        ],
+        "titles": []
+      },
+      {
+        "lat": -16.29,
+        "lon": -63.59,
+        "count": 2,
+        "country_name": "Bolivia",
+        "country_iso3": "BOL",
+        "region_name": "Americas",
+        "event_name": "El 2 y 3 de abril el desbordó el Río Parapeti dejando sin viviendas a 19 comunidades guaranís  Camir",
+        "dtype_name": "Pluvial/Flash Flood",
+        "is_covid": false,
+        "reports": [
+          11771,
+          11770
+        ],
+        "titles": []
+      },
+      {
+        "lat": -0.02,
+        "lon": 37.91,
+        "count": 1,
+        "country_name": "Kenya",
+        "country_iso3": "KEN",
+        "region_name": "Africa",
+        "event_name": "Disease outbreaks in Kenya ( Cholera, Kalazar and Measles)",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11783
+        ],
+        "titles": []
+      },
+      {
+        "lat": -30.56,
+        "lon": 22.94,
+        "count": 1,
+        "country_name": "South Africa",
+        "country_iso3": "ZAF",
+        "region_name": "Africa",
+        "event_name": "Floods In South Africa ",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11782
+        ],
+        "titles": []
+      },
+      {
+        "lat": 12.88,
+        "lon": 121.77,
+        "count": 1,
+        "country_name": "Philippines",
+        "country_iso3": "PHL",
+        "region_name": "Asia Pacific",
+        "event_name": "6.1 Magnitude Earthquake in Luzon",
+        "dtype_name": "Earthquake",
+        "is_covid": false,
+        "reports": [
+          11781
+        ],
+        "titles": []
+      },
+      {
+        "lat": 15.55,
+        "lon": 48.52,
+        "count": 1,
+        "country_name": "Yemen",
+        "country_iso3": "YEM",
+        "region_name": "Middle East & North Africa",
+        "event_name": " 22 houses were damaged in sana'a",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11780
+        ],
+        "titles": []
+      },
+      {
+        "lat": 35.91,
+        "lon": 127.77,
+        "count": 1,
+        "country_name": "Republic of Korea",
+        "country_iso3": "KOR",
+        "region_name": "Asia Pacific",
+        "event_name": "Wild fire in Gangwon province",
+        "dtype_name": "Fire",
+        "is_covid": false,
+        "reports": [
+          11778
+        ],
+        "titles": []
+      },
+      {
+        "lat": -38.42,
+        "lon": -63.62,
+        "count": 1,
+        "country_name": "Argentina",
+        "country_iso3": "ARG",
+        "region_name": "Americas",
+        "event_name": "Fuertes Tormentas - Inundaciones en Chaco.",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11777
+        ],
+        "titles": []
+      },
+      {
+        "lat": 15.78,
+        "lon": -90.23,
+        "count": 1,
+        "country_name": "Guatemala",
+        "country_iso3": "GTM",
+        "region_name": "Americas",
+        "event_name": "Alerta Sanitaria por Posibles Casos de Cólera No Confirmados",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11776
+        ],
+        "titles": []
+      },
+      {
+        "lat": 17.61,
+        "lon": 8.08,
+        "count": 1,
+        "country_name": "Niger",
+        "country_iso3": "NER",
+        "region_name": "Africa",
+        "event_name": "Massive population displacement in the region of Diffa ",
+        "dtype_name": "Population Movement",
+        "is_covid": false,
+        "reports": [
+          11774
+        ],
+        "titles": []
+      },
+      {
+        "lat": 34.8,
+        "lon": 39.0,
+        "count": 1,
+        "country_name": "Syrian Arab Republic",
+        "country_iso3": "SYR",
+        "region_name": "Middle East & North Africa",
+        "event_name": "Heavy floods in Al Hasakeh, Syria",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11773
+        ],
+        "titles": []
+      }
+    ]
+  },
+  {
+    "month": "2019-05",
+    "date": "2019-05-01",
+    "total_reports": 37,
+    "total_locations": 23,
+    "locations": [
+      {
+        "lat": 13.79,
+        "lon": -88.9,
+        "count": 5,
+        "country_name": "El Salvador",
+        "country_iso3": "SLV",
+        "region_name": "Americas",
+        "event_name": "TERREMOTO 6.8 grados en la escala de Ritchter en El salvador",
+        "dtype_name": "Earthquake",
+        "is_covid": false,
+        "reports": [
+          11819,
+          11818,
+          11809,
+          11808,
+          11803
+        ],
+        "titles": []
+      },
+      {
+        "lat": 31.05,
+        "lon": 34.85,
+        "count": 4,
+        "country_name": "Israel",
+        "country_iso3": "ISR",
+        "region_name": "Europe",
+        "event_name": "Wildfires in several places in Israel, some houses destroyed, villages were evacuated, few injured. ",
+        "dtype_name": "Fire",
+        "is_covid": false,
+        "reports": [
+          11815,
+          11813,
+          11798,
+          11790
+        ],
+        "titles": []
+      },
+      {
+        "lat": 17.61,
+        "lon": 8.08,
+        "count": 2,
+        "country_name": "Niger",
+        "country_iso3": "NER",
+        "region_name": "Africa",
+        "event_name": "Massive population influx in the region of Maradi in Nigern",
+        "dtype_name": "Population Movement",
+        "is_covid": false,
+        "reports": [
+          11820,
+          11811
+        ],
+        "titles": []
+      },
+      {
+        "lat": -0.79,
+        "lon": 113.92,
+        "count": 2,
+        "country_name": "Indonesia",
+        "country_iso3": "IDN",
+        "region_name": "Asia Pacific",
+        "event_name": "5.8 Magnitude Earthquake in Lombok, Indonesia",
+        "dtype_name": "Tsunami",
+        "is_covid": false,
+        "reports": [
+          11814,
+          11810
+        ],
+        "titles": []
+      },
+      {
+        "lat": 15.55,
+        "lon": 48.52,
+        "count": 2,
+        "country_name": "Yemen",
+        "country_iso3": "YEM",
+        "region_name": "Middle East & North Africa",
+        "event_name": "demolition of about 20 houses in the village of Halibi ,Muka District,Taiz,yemen",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11807,
+          11806
+        ],
+        "titles": []
+      },
+      {
+        "lat": 48.38,
+        "lon": 31.17,
+        "count": 2,
+        "country_name": "Ukraine",
+        "country_iso3": "UKR",
+        "region_name": "Europe",
+        "event_name": "Flooding in Western Ukraine",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11805,
+          11789
+        ],
+        "titles": []
+      },
+      {
+        "lat": 46.86,
+        "lon": 103.85,
+        "count": 2,
+        "country_name": "Mongolia",
+        "country_iso3": "MNG",
+        "region_name": "Asia Pacific",
+        "event_name": "6 dead in an active snowstorm in Mongolia",
+        "dtype_name": "Cold Wave",
+        "is_covid": false,
+        "reports": [
+          11797,
+          11792
+        ],
+        "titles": []
+      },
+      {
+        "lat": -16.29,
+        "lon": -63.59,
+        "count": 2,
+        "country_name": "Bolivia",
+        "country_iso3": "BOL",
+        "region_name": "Americas",
+        "event_name": "84 familias perdieron sus casas tras deslizamiento en llojetta La paz - Bolivia",
+        "dtype_name": "Landslide",
+        "is_covid": false,
+        "reports": [
+          11787,
+          11785
+        ],
+        "titles": []
+      },
+      {
+        "lat": 23.68,
+        "lon": 90.36,
+        "count": 2,
+        "country_name": "Bangladesh",
+        "country_iso3": "BGD",
+        "region_name": "Asia Pacific",
+        "event_name": "Cyclone BULBUL in Bangladesh",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11786,
+          11784
+        ],
+        "titles": []
+      },
+      {
+        "lat": 37.09,
+        "lon": -95.71,
+        "count": 1,
+        "country_name": "United States",
+        "country_iso3": "USA",
+        "region_name": "Americas",
+        "event_name": "Record-breaking floods and tornadoes in United States",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11822
+        ],
+        "titles": []
+      },
+      {
+        "lat": -35.68,
+        "lon": -71.54,
+        "count": 1,
+        "country_name": "Chile",
+        "country_iso3": "CHL",
+        "region_name": "Americas",
+        "event_name": "Tornado Region del Biobio, Los Angeles, Chile",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11821
+        ],
+        "titles": []
+      },
+      {
+        "lat": -9.19,
+        "lon": -75.02,
+        "count": 1,
+        "country_name": "Peru",
+        "country_iso3": "PER",
+        "region_name": "Americas",
+        "event_name": "SISMO DE 7.2 REGISTRADO EN LA REGIÓN DE LORETO-PERU",
+        "dtype_name": "Earthquake",
+        "is_covid": false,
+        "reports": [
+          11817
+        ],
+        "titles": []
+      },
+      {
+        "lat": 40.07,
+        "lon": 45.04,
+        "count": 1,
+        "country_name": "Armenia",
+        "country_iso3": "ARM",
+        "region_name": "Europe",
+        "event_name": "The hail storm destroyed agricultural crops in Armenia",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11816
+        ],
+        "titles": []
+      },
+      {
+        "lat": 42.32,
+        "lon": 43.36,
+        "count": 1,
+        "country_name": "Georgia",
+        "country_iso3": "GEO",
+        "region_name": "Europe",
+        "event_name": "Floods in Kakheti Region, Georgia",
+        "dtype_name": "Pluvial/Flash Flood",
+        "is_covid": false,
+        "reports": [
+          11804
+        ],
+        "titles": []
+      },
+      {
+        "lat": 17.57,
+        "lon": -4.0,
+        "count": 1,
+        "country_name": "Mali",
+        "country_iso3": "MLI",
+        "region_name": "Africa",
+        "event_name": "Ce jeudi  16 mai 2019, une grande inondation à Bamako: bilan provisoire: 14 morts .",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11802
+        ],
+        "titles": []
+      },
+      {
+        "lat": -6.31,
+        "lon": 143.96,
+        "count": 1,
+        "country_name": "Papua New Guinea",
+        "country_iso3": "PNG",
+        "region_name": "Asia Pacific",
+        "event_name": "7.5 scale Earthquake - Papua New Guinea",
+        "dtype_name": "Earthquake",
+        "is_covid": false,
+        "reports": [
+          11800
+        ],
+        "titles": []
+      },
+      {
+        "lat": 7.87,
+        "lon": 80.77,
+        "count": 1,
+        "country_name": "Sri Lanka",
+        "country_iso3": "LKA",
+        "region_name": "Asia Pacific",
+        "event_name": "Easter Sunday Attack in Sri Lanka",
+        "dtype_name": "Civil Unrest",
+        "is_covid": false,
+        "reports": [
+          11799
+        ],
+        "titles": []
+      },
+      {
+        "lat": 15.78,
+        "lon": -90.23,
+        "count": 1,
+        "country_name": "Guatemala",
+        "country_iso3": "GTM",
+        "region_name": "Americas",
+        "event_name": "Sequía en Guatemala",
+        "dtype_name": "Drought",
+        "is_covid": false,
+        "reports": [
+          11796
+        ],
+        "titles": []
+      },
+      {
+        "lat": 43.92,
+        "lon": 17.68,
+        "count": 1,
+        "country_name": "Bosnia and Herzegovina",
+        "country_iso3": "BIH",
+        "region_name": "Europe",
+        "event_name": "Bosnia and Herzegovina: Torrential floods hit parts of the country",
+        "dtype_name": "Pluvial/Flash Flood",
+        "is_covid": false,
+        "reports": [
+          11795
+        ],
+        "titles": []
+      },
+      {
+        "lat": -23.44,
+        "lon": -58.44,
+        "count": 1,
+        "country_name": "Paraguay",
+        "country_iso3": "PRY",
+        "region_name": "Americas",
+        "event_name": "fuertes temporales en la ultimas 24 hs. aumentan a más de 33387 familias afectadas en Paraguay ",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11794
+        ],
+        "titles": []
+      },
+      {
+        "lat": 41.61,
+        "lon": 21.75,
+        "count": 1,
+        "country_name": "North Macedonia",
+        "country_iso3": "MKD",
+        "region_name": "Europe",
+        "event_name": "Over 1285 cases of measels and 5 dead in measels outbrake in Republic of North Macedonia",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11793
+        ],
+        "titles": []
+      },
+      {
+        "lat": 61.52,
+        "lon": 105.32,
+        "count": 1,
+        "country_name": "Russian Federation",
+        "country_iso3": "RUS",
+        "region_name": "Europe",
+        "event_name": "In a plane crash in Moscow, about 40 people were killed.",
+        "dtype_name": "Transport Accident",
+        "is_covid": false,
+        "reports": [
+          11791
+        ],
+        "titles": []
+      },
+      {
+        "lat": 40.34,
+        "lon": 127.51,
+        "count": 1,
+        "country_name": "Democratic People's Republic of Korea",
+        "country_iso3": "PRK",
+        "region_name": "Asia Pacific",
+        "event_name": "Drought and Food Insecurity",
+        "dtype_name": "Drought",
+        "is_covid": false,
+        "reports": [
+          11788
+        ],
+        "titles": []
+      }
+    ]
+  },
+  {
+    "month": "2019-06",
+    "date": "2019-06-01",
+    "total_reports": 41,
+    "total_locations": 31,
+    "locations": [
+      {
+        "lat": 35.86,
+        "lon": 104.2,
+        "count": 4,
+        "country_name": "China",
+        "country_iso3": "CHN",
+        "region_name": "Asia Pacific",
+        "event_name": "11 people died, 122 Injured, magnitude 6.0 earthquake, Sichuan, China",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11848,
+          11837,
+          11836,
+          11835
+        ],
+        "titles": []
+      },
+      {
+        "lat": 61.52,
+        "lon": 105.32,
+        "count": 3,
+        "country_name": "Russian Federation",
+        "country_iso3": "RUS",
+        "region_name": "Europe",
+        "event_name": "Flood East Siberia",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11865,
+          11827,
+          11823
+        ],
+        "titles": []
+      },
+      {
+        "lat": 1.37,
+        "lon": 32.29,
+        "count": 3,
+        "country_name": "Uganda",
+        "country_iso3": "UGA",
+        "region_name": "Africa",
+        "event_name": "Cholera outbreak affects Bududa Landslide  ",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11859,
+          11833,
+          11831
+        ],
+        "titles": []
+      },
+      {
+        "lat": 48.02,
+        "lon": 66.92,
+        "count": 2,
+        "country_name": "Kazakhstan",
+        "country_iso3": "KAZ",
+        "region_name": "Europe",
+        "event_name": " A series of explosions at a military warehouse in Kazakhstan led to a complete evacuation",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11863,
+          11856
+        ],
+        "titles": []
+      },
+      {
+        "lat": 15.78,
+        "lon": -90.23,
+        "count": 2,
+        "country_name": "Guatemala",
+        "country_iso3": "GTM",
+        "region_name": "Americas",
+        "event_name": "Elecciones Generales en Guatemala - 2do. Reporte",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11845,
+          11844
+        ],
+        "titles": []
+      },
+      {
+        "lat": 15.55,
+        "lon": 48.52,
+        "count": 2,
+        "country_name": "Yemen",
+        "country_iso3": "YEM",
+        "region_name": "Middle East & North Africa",
+        "event_name": "Flash floods in Yemen affect 70,000 people",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11839,
+          11834
+        ],
+        "titles": []
+      },
+      {
+        "lat": 47.16,
+        "lon": 19.5,
+        "count": 1,
+        "country_name": "Hungary",
+        "country_iso3": "HUN",
+        "region_name": "Europe",
+        "event_name": "Devastating storm in Eastern-Hungary",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11864
+        ],
+        "titles": []
+      },
+      {
+        "lat": 9.75,
+        "lon": -83.75,
+        "count": 1,
+        "country_name": "Costa Rica",
+        "country_iso3": "CRI",
+        "region_name": "Americas",
+        "event_name": "Sismo de Magitud 6.3 en la escala Momentum es sentido en la mayor parte Costa Rica",
+        "dtype_name": "Earthquake",
+        "is_covid": false,
+        "reports": [
+          11862
+        ],
+        "titles": []
+      },
+      {
+        "lat": -1.83,
+        "lon": -78.18,
+        "count": 1,
+        "country_name": "Ecuador",
+        "country_iso3": "ECU",
+        "region_name": "Americas",
+        "event_name": "897 familias afectadas directamente por eventos hidrometeorológicos ",
+        "dtype_name": "Landslide",
+        "is_covid": false,
+        "reports": [
+          11861
+        ],
+        "titles": []
+      },
+      {
+        "lat": 12.57,
+        "lon": 104.99,
+        "count": 1,
+        "country_name": "Cambodia",
+        "country_iso3": "KHM",
+        "region_name": "Asia Pacific",
+        "event_name": "A under construction building was collapsed killing at least 28 and injured over 20 people.",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11860
+        ],
+        "titles": []
+      },
+      {
+        "lat": 42.32,
+        "lon": 43.36,
+        "count": 1,
+        "country_name": "Georgia",
+        "country_iso3": "GEO",
+        "region_name": "Europe",
+        "event_name": " At least 69 people were wounded since the violence broke out in Tbilisi, Georgia",
+        "dtype_name": "Civil Unrest",
+        "is_covid": false,
+        "reports": [
+          11855
+        ],
+        "titles": []
+      },
+      {
+        "lat": -4.04,
+        "lon": 21.76,
+        "count": 1,
+        "country_name": "Democratic Republic of Congo",
+        "country_iso3": "COD",
+        "region_name": "Africa",
+        "event_name": "360,000 people displaced in Ituri province in DRC as a result of inter-ethnic conflict",
+        "dtype_name": "Population Movement",
+        "is_covid": false,
+        "reports": [
+          11854
+        ],
+        "titles": []
+      },
+      {
+        "lat": 38.96,
+        "lon": 35.24,
+        "count": 1,
+        "country_name": "Türkiye",
+        "country_iso3": "TUR",
+        "region_name": "Europe",
+        "event_name": "Excessive summer rainfall caused flash floods and floods in Turkey",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11853
+        ],
+        "titles": []
+      },
+      {
+        "lat": -32.52,
+        "lon": -55.77,
+        "count": 1,
+        "country_name": "Uruguay",
+        "country_iso3": "URY",
+        "region_name": "Americas",
+        "event_name": "Inundaciones junio 2019 - Uruguay. Cantidad de personas afectadas 5808 (registradas).",
+        "dtype_name": "Pluvial/Flash Flood",
+        "is_covid": false,
+        "reports": [
+          11852
+        ],
+        "titles": []
+      },
+      {
+        "lat": 13.44,
+        "lon": -15.31,
+        "count": 1,
+        "country_name": "Gambia, Republic of The",
+        "country_iso3": "GMB",
+        "region_name": "Africa",
+        "event_name": "Windstorm in 2 Regions in The Gambia",
+        "dtype_name": "Storm Surge",
+        "is_covid": false,
+        "reports": [
+          11851
+        ],
+        "titles": []
+      },
+      {
+        "lat": 15.2,
+        "lon": -86.24,
+        "count": 1,
+        "country_name": "Honduras",
+        "country_iso3": "HND",
+        "region_name": "Americas",
+        "event_name": "EMERGENCIA SANITARIA POR DENGUE",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11850
+        ],
+        "titles": []
+      },
+      {
+        "lat": 36.2,
+        "lon": 138.25,
+        "count": 1,
+        "country_name": "Japan",
+        "country_iso3": "JPN",
+        "region_name": "Asia Pacific",
+        "event_name": "M6.8 earthquake and tsunami warning in northwestern Japan",
+        "dtype_name": "Earthquake",
+        "is_covid": false,
+        "reports": [
+          11849
+        ],
+        "titles": []
+      },
+      {
+        "lat": -40.9,
+        "lon": 174.89,
+        "count": 1,
+        "country_name": "New Zealand",
+        "country_iso3": "NZL",
+        "region_name": "Asia Pacific",
+        "event_name": "6.2 magnitude earthquake, Kermadec Islands, New Zealand",
+        "dtype_name": "Earthquake",
+        "is_covid": false,
+        "reports": [
+          11847
+        ],
+        "titles": []
+      },
+      {
+        "lat": -38.42,
+        "lon": -63.62,
+        "count": 1,
+        "country_name": "Argentina",
+        "country_iso3": "ARG",
+        "region_name": "Americas",
+        "event_name": "Corte eléctrico en todo Argentina",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11846
+        ],
+        "titles": []
+      },
+      {
+        "lat": 46.86,
+        "lon": 103.85,
+        "count": 1,
+        "country_name": "Mongolia",
+        "country_iso3": "MNG",
+        "region_name": "Asia Pacific",
+        "event_name": "Flash floods hit in central area of Mongolia",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11843
+        ],
+        "titles": []
+      },
+      {
+        "lat": 53.71,
+        "lon": 27.95,
+        "count": 1,
+        "country_name": "Belarus",
+        "country_iso3": "BLR",
+        "region_name": "Europe",
+        "event_name": "Heatwave in Belarus",
+        "dtype_name": "Heat Wave",
+        "is_covid": false,
+        "reports": [
+          11842
+        ],
+        "titles": []
+      },
+      {
+        "lat": 33.85,
+        "lon": 35.86,
+        "count": 1,
+        "country_name": "Lebanon",
+        "country_iso3": "LBN",
+        "region_name": "Middle East & North Africa",
+        "event_name": "4000 families are affected by the evacuation process in Aarsal, Lebanon",
+        "dtype_name": "Population Movement",
+        "is_covid": false,
+        "reports": [
+          11841
+        ],
+        "titles": []
+      },
+      {
+        "lat": -35.68,
+        "lon": -71.54,
+        "count": 1,
+        "country_name": "Chile",
+        "country_iso3": "CHL",
+        "region_name": "Americas",
+        "event_name": "Sismo de Mayor Intensidad Region de Coquimbo, Magnitud 6,3 Mww",
+        "dtype_name": "Earthquake",
+        "is_covid": false,
+        "reports": [
+          11840
+        ],
+        "titles": []
+      },
+      {
+        "lat": 7.33,
+        "lon": 30.29,
+        "count": 1,
+        "country_name": "South Sudan",
+        "country_iso3": "SSD",
+        "region_name": "Africa",
+        "event_name": "Some 7,780 HHs displaced as flood hits the former Northern Bahr el Gazal state in South Sudan",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11838
+        ],
+        "titles": []
+      },
+      {
+        "lat": 28.39,
+        "lon": 84.12,
+        "count": 1,
+        "country_name": "Nepal",
+        "country_iso3": "NPL",
+        "region_name": "Asia Pacific",
+        "event_name": "3 people died due to strong windstorm",
+        "dtype_name": "Storm Surge",
+        "is_covid": false,
+        "reports": [
+          11832
+        ],
+        "titles": []
+      },
+      {
+        "lat": 26.34,
+        "lon": 17.23,
+        "count": 1,
+        "country_name": "Libya",
+        "country_iso3": "LBY",
+        "region_name": "Middle East & North Africa",
+        "event_name": "Floods flooded about 700 homes and displaced more than 4000 people in Ghat city , Southwest Libya",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11830
+        ],
+        "titles": []
+      },
+      {
+        "lat": 38.86,
+        "lon": 71.28,
+        "count": 1,
+        "country_name": "Tajikistan",
+        "country_iso3": "TJK",
+        "region_name": "Europe",
+        "event_name": "4 dead and 1350 households (around 6000 people) affected after mudflow and flood in Tajikistan ",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11829
+        ],
+        "titles": []
+      },
+      {
+        "lat": 4.21,
+        "lon": 101.98,
+        "count": 1,
+        "country_name": "Malaysia",
+        "country_iso3": "MYS",
+        "region_name": "Asia Pacific",
+        "event_name": "Malaysia, Sarawak floods",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11828
+        ],
+        "titles": []
+      },
+      {
+        "lat": 40.07,
+        "lon": 45.04,
+        "count": 1,
+        "country_name": "Armenia",
+        "country_iso3": "ARM",
+        "region_name": "Europe",
+        "event_name": "Strong wind and hail recorded in Shirak province in the evening of June 4 have caused major damage. ",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11826
+        ],
+        "titles": []
+      },
+      {
+        "lat": 44.02,
+        "lon": 21.01,
+        "count": 1,
+        "country_name": "Serbia",
+        "country_iso3": "SRB",
+        "region_name": "Europe",
+        "event_name": "1.500 people affected by floods in Serbia",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11825
+        ],
+        "titles": []
+      },
+      {
+        "lat": 7.37,
+        "lon": 12.35,
+        "count": 1,
+        "country_name": "Cameroon",
+        "country_iso3": "CMR",
+        "region_name": "Africa",
+        "event_name": "Epidémie de choléra au Nord Cameroun ",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11824
+        ],
+        "titles": []
+      }
+    ]
+  },
+  {
+    "month": "2019-07",
+    "date": "2019-07-01",
+    "total_reports": 25,
+    "total_locations": 19,
+    "locations": [
+      {
+        "lat": 28.39,
+        "lon": 84.12,
+        "count": 4,
+        "country_name": "Nepal",
+        "country_iso3": "NPL",
+        "region_name": "Asia Pacific",
+        "event_name": "Flood and landslide in Nepal (July 2019)",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11877,
+          11876,
+          11875,
+          11873
+        ],
+        "titles": []
+      },
+      {
+        "lat": 23.68,
+        "lon": 90.36,
+        "count": 3,
+        "country_name": "Bangladesh",
+        "country_iso3": "BGD",
+        "region_name": "Asia Pacific",
+        "event_name": "Bangladesh Monsoon Flood 2019",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11882,
+          11874,
+          11871
+        ],
+        "titles": []
+      },
+      {
+        "lat": 35.86,
+        "lon": 104.2,
+        "count": 2,
+        "country_name": "China",
+        "country_iso3": "CHN",
+        "region_name": "Asia Pacific",
+        "event_name": "11 people have been killed, 42, missing, 21 houses were buried in a landslide in Guizhou, China",
+        "dtype_name": "Landslide",
+        "is_covid": false,
+        "reports": [
+          11888,
+          11869
+        ],
+        "titles": []
+      },
+      {
+        "lat": 18.74,
+        "lon": -70.16,
+        "count": 1,
+        "country_name": "Dominican Republic",
+        "country_iso3": "DOM",
+        "region_name": "Americas",
+        "event_name": "Alerta por Brote de Dengue",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11892
+        ],
+        "titles": []
+      },
+      {
+        "lat": 12.88,
+        "lon": 121.77,
+        "count": 1,
+        "country_name": "Philippines",
+        "country_iso3": "PHL",
+        "region_name": "Asia Pacific",
+        "event_name": "5.9 Magnitude Earthquajke at Itbayat, Batanes",
+        "dtype_name": "Earthquake",
+        "is_covid": false,
+        "reports": [
+          11891
+        ],
+        "titles": []
+      },
+      {
+        "lat": 13.44,
+        "lon": -15.31,
+        "count": 1,
+        "country_name": "Gambia, Republic of The",
+        "country_iso3": "GMB",
+        "region_name": "Africa",
+        "event_name": "Protests in The Gambia",
+        "dtype_name": "Civil Unrest",
+        "is_covid": false,
+        "reports": [
+          11890
+        ],
+        "titles": []
+      },
+      {
+        "lat": 39.4,
+        "lon": -8.22,
+        "count": 1,
+        "country_name": "Portugal",
+        "country_iso3": "PRT",
+        "region_name": "Europe",
+        "event_name": "Forest fire in Portugal ",
+        "dtype_name": "Fire",
+        "is_covid": false,
+        "reports": [
+          11889
+        ],
+        "titles": []
+      },
+      {
+        "lat": 15.78,
+        "lon": -90.23,
+        "count": 1,
+        "country_name": "Guatemala",
+        "country_iso3": "GTM",
+        "region_name": "Americas",
+        "event_name": "Alerta por Brote de Dengue",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11887
+        ],
+        "titles": []
+      },
+      {
+        "lat": 41.2,
+        "lon": 74.77,
+        "count": 1,
+        "country_name": "Kyrgyzstan",
+        "country_iso3": "KGZ",
+        "region_name": "Europe",
+        "event_name": "Kyrgyz-Tajik Border Incident in Batken province, Kyrgyzstan",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11886
+        ],
+        "titles": []
+      },
+      {
+        "lat": -9.19,
+        "lon": -75.02,
+        "count": 1,
+        "country_name": "Peru",
+        "country_iso3": "PER",
+        "region_name": "Americas",
+        "event_name": "EXPLOSIÓN VOLCÁNICA AFECTA A LOS DEPARTAMENTOS DE MOQUEGUA, AREQUIPA Y TACNA",
+        "dtype_name": "Volcanic Eruption",
+        "is_covid": false,
+        "reports": [
+          11885
+        ],
+        "titles": []
+      },
+      {
+        "lat": 38.96,
+        "lon": 35.24,
+        "count": 1,
+        "country_name": "Türkiye",
+        "country_iso3": "TUR",
+        "region_name": "Europe",
+        "event_name": "Flood and landslide in Düzce",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11884
+        ],
+        "titles": []
+      },
+      {
+        "lat": 21.91,
+        "lon": 95.96,
+        "count": 1,
+        "country_name": "Myanmar",
+        "country_iso3": "MMR",
+        "region_name": "Asia Pacific",
+        "event_name": "Myanmar Monsoon Floods 2019 ",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11883
+        ],
+        "titles": []
+      },
+      {
+        "lat": -0.79,
+        "lon": 113.92,
+        "count": 1,
+        "country_name": "Indonesia",
+        "country_iso3": "IDN",
+        "region_name": "Asia Pacific",
+        "event_name": "971 houses are damaged after an earthquake in North Maluku, Indonesia",
+        "dtype_name": "Earthquake",
+        "is_covid": false,
+        "reports": [
+          11880
+        ],
+        "titles": []
+      },
+      {
+        "lat": 30.38,
+        "lon": 69.35,
+        "count": 1,
+        "country_name": "Pakistan",
+        "country_iso3": "PAK",
+        "region_name": "Asia Pacific",
+        "event_name": "Heavy Rains and Flash Floods in Neelum, Kashmir leaves 22 dead and several injured in Pakistan",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11879
+        ],
+        "titles": []
+      },
+      {
+        "lat": 37.09,
+        "lon": -95.71,
+        "count": 1,
+        "country_name": "United States",
+        "country_iso3": "USA",
+        "region_name": "Americas",
+        "event_name": "American Red Cross responds to Hurricane Barry",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11878
+        ],
+        "titles": []
+      },
+      {
+        "lat": 32.43,
+        "lon": 53.69,
+        "count": 1,
+        "country_name": "Iran, Islamic Republic of",
+        "country_iso3": "IRN",
+        "region_name": "Middle East & North Africa",
+        "event_name": "An earthquake with a magnitude of 5.7 hit southern part of Iran.",
+        "dtype_name": "Earthquake",
+        "is_covid": false,
+        "reports": [
+          11872
+        ],
+        "titles": []
+      },
+      {
+        "lat": 36.2,
+        "lon": 138.25,
+        "count": 1,
+        "country_name": "Japan",
+        "country_iso3": "JPN",
+        "region_name": "Asia Pacific",
+        "event_name": "Heavy rains in southern Japan",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11870
+        ],
+        "titles": []
+      },
+      {
+        "lat": 9.08,
+        "lon": 8.68,
+        "count": 1,
+        "country_name": "Nigeria",
+        "country_iso3": "NGA",
+        "region_name": "Africa",
+        "event_name": "Nigeria Floods, 2019",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11868
+        ],
+        "titles": []
+      },
+      {
+        "lat": 40.07,
+        "lon": 45.04,
+        "count": 1,
+        "country_name": "Armenia",
+        "country_iso3": "ARM",
+        "region_name": "Europe",
+        "event_name": "Hail storm hit Shirak province in Armenia three times in June",
+        "dtype_name": "Other",
+        "is_covid": false,
+        "reports": [
+          11866
+        ],
+        "titles": []
+      }
+    ]
+  },
+  {
+    "month": "2019-08",
+    "date": "2019-08-01",
+    "total_reports": 35,
+    "total_locations": 25,
+    "locations": [
+      {
+        "lat": 18.74,
+        "lon": -70.16,
+        "count": 3,
+        "country_name": "Dominican Republic",
+        "country_iso3": "DOM",
+        "region_name": "Americas",
+        "event_name": "Republica Dominicana Informe Situacion no 2",
+        "dtype_name": "Cyclone",
+        "is_covid": false,
+        "reports": [
+          11924,
+          11921,
+          11906
+        ],
+        "titles": []
+      },
+      {
+        "lat": 15.78,
+        "lon": -90.23,
+        "count": 3,
+        "country_name": "Guatemala",
+        "country_iso3": "GTM",
+        "region_name": "Americas",
+        "event_name": "Alerta por Brote de Dengue",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11917,
+          11904,
+          11898
+        ],
+        "titles": []
+      },
+      {
+        "lat": 4.57,
+        "lon": -74.3,
+        "count": 2,
+        "country_name": "Colombia",
+        "country_iso3": "COL",
+        "region_name": "Americas",
+        "event_name": "Colombia - Dengue",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11928,
+          11907
+        ],
+        "titles": []
+      },
+      {
+        "lat": 17.61,
+        "lon": 8.08,
+        "count": 2,
+        "country_name": "Niger",
+        "country_iso3": "NER",
+        "region_name": "Africa",
+        "event_name": "inondations au Niger",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11927,
+          11909
+        ],
+        "titles": []
+      },
       {
         "lat": -16.29,
         "lon": -63.59,
@@ -18,22 +5697,6 @@
         "reports": [
           11926,
           11918
-        ],
-        "titles": []
-      },
-      {
-        "lat": 18.74,
-        "lon": -70.16,
-        "count": 2,
-        "country_name": "Dominican Republic",
-        "country_iso3": "DOM",
-        "region_name": "Americas",
-        "event_name": "Republica Dominicana Informe Situacion no 2",
-        "dtype_name": "Cyclone",
-        "is_covid": false,
-        "reports": [
-          11924,
-          11921
         ],
         "titles": []
       },
@@ -54,32 +5717,34 @@
         "titles": []
       },
       {
-        "lat": 4.57,
-        "lon": -74.3,
-        "count": 1,
-        "country_name": "Colombia",
-        "country_iso3": "COL",
-        "region_name": "Americas",
-        "event_name": "Colombia - Dengue",
-        "dtype_name": "Epidemic",
+        "lat": 12.86,
+        "lon": 30.22,
+        "count": 2,
+        "country_name": "Sudan",
+        "country_iso3": "SDN",
+        "region_name": "Africa",
+        "event_name": "Sudan floods ",
+        "dtype_name": "Pluvial/Flash Flood",
         "is_covid": false,
         "reports": [
-          11928
+          11911,
+          11910
         ],
         "titles": []
       },
       {
-        "lat": 17.61,
-        "lon": 8.08,
-        "count": 1,
-        "country_name": "Niger",
-        "country_iso3": "NER",
-        "region_name": "Africa",
-        "event_name": "inondations au Niger",
-        "dtype_name": "Flood",
+        "lat": -35.68,
+        "lon": -71.54,
+        "count": 2,
+        "country_name": "Chile",
+        "country_iso3": "CHL",
+        "region_name": "Americas",
+        "event_name": "Incremento en la Actividad Volcánica Complejo Nevados de Chillan /Alerta Naranja",
+        "dtype_name": "Volcanic Eruption",
         "is_covid": false,
         "reports": [
-          11927
+          11900,
+          11894
         ],
         "titles": []
       },
@@ -129,21 +5794,6 @@
         "titles": []
       },
       {
-        "lat": 15.78,
-        "lon": -90.23,
-        "count": 1,
-        "country_name": "Guatemala",
-        "country_iso3": "GTM",
-        "region_name": "Americas",
-        "event_name": "Alerta por Brote de Dengue",
-        "dtype_name": "Epidemic",
-        "is_covid": false,
-        "reports": [
-          11917
-        ],
-        "titles": []
-      },
-      {
         "lat": -23.44,
         "lon": -58.44,
         "count": 1,
@@ -185,6 +5835,171 @@
         "is_covid": false,
         "reports": [
           11914
+        ],
+        "titles": []
+      },
+      {
+        "lat": 21.91,
+        "lon": 95.96,
+        "count": 1,
+        "country_name": "Myanmar",
+        "country_iso3": "MMR",
+        "region_name": "Asia Pacific",
+        "event_name": "Myanmar - Floods 08/2019",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11913
+        ],
+        "titles": []
+      },
+      {
+        "lat": 12.57,
+        "lon": 104.99,
+        "count": 1,
+        "country_name": "Cambodia",
+        "country_iso3": "KHM",
+        "region_name": "Asia Pacific",
+        "event_name": "Cambodia Flash Flood",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11912
+        ],
+        "titles": []
+      },
+      {
+        "lat": 8.56,
+        "lon": 39.66,
+        "count": 1,
+        "country_name": "Ethiopia",
+        "country_iso3": "ETH",
+        "region_name": "Africa",
+        "event_name": "Ethiopia-East Africa:Floods 12/2019",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11908
+        ],
+        "titles": []
+      },
+      {
+        "lat": 8.54,
+        "lon": -80.78,
+        "count": 1,
+        "country_name": "Panama",
+        "country_iso3": "PAN",
+        "region_name": "Americas",
+        "event_name": "Alerta por Brote de Dengue",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11905
+        ],
+        "titles": []
+      },
+      {
+        "lat": 48.38,
+        "lon": 31.17,
+        "count": 1,
+        "country_name": "Ukraine",
+        "country_iso3": "UKR",
+        "region_name": "Europe",
+        "event_name": "Ukraine - Odessa region: Mudflow 4/08/2019",
+        "dtype_name": "Pluvial/Flash Flood",
+        "is_covid": false,
+        "reports": [
+          11903
+        ],
+        "titles": []
+      },
+      {
+        "lat": 12.87,
+        "lon": -85.21,
+        "count": 1,
+        "country_name": "Nicaragua",
+        "country_iso3": "NIC",
+        "region_name": "Americas",
+        "event_name": "Nicaragua-Alerta Epidemia Dengue",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11902
+        ],
+        "titles": []
+      },
+      {
+        "lat": 38.96,
+        "lon": 35.24,
+        "count": 1,
+        "country_name": "Türkiye",
+        "country_iso3": "TUR",
+        "region_name": "Europe",
+        "event_name": "DENIZLI EARTHQUAKE",
+        "dtype_name": "Earthquake",
+        "is_covid": false,
+        "reports": [
+          11901
+        ],
+        "titles": []
+      },
+      {
+        "lat": -4.04,
+        "lon": 21.76,
+        "count": 1,
+        "country_name": "Democratic Republic of Congo",
+        "country_iso3": "COD",
+        "region_name": "Africa",
+        "event_name": "Mouvement de la population à YAKOMA dans la province du Nord-Ubangi",
+        "dtype_name": "Population Movement",
+        "is_covid": false,
+        "reports": [
+          11899
+        ],
+        "titles": []
+      },
+      {
+        "lat": 23.68,
+        "lon": 90.36,
+        "count": 1,
+        "country_name": "Bangladesh",
+        "country_iso3": "BGD",
+        "region_name": "Asia Pacific",
+        "event_name": "Dengue Outbreak- Cox's Bazar ",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11896
+        ],
+        "titles": []
+      },
+      {
+        "lat": 7.13,
+        "lon": 171.18,
+        "count": 1,
+        "country_name": "Marshall Islands",
+        "country_iso3": "MHL",
+        "region_name": null,
+        "event_name": "23 cases of Dengue Fever and unconfirmed cases of Typhoid reported in Ebeye Marshall Island",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          11895
+        ],
+        "titles": []
+      },
+      {
+        "lat": 61.52,
+        "lon": 105.32,
+        "count": 1,
+        "country_name": "Russian Federation",
+        "country_iso3": "RUS",
+        "region_name": "Europe",
+        "event_name": "Flood East Siberia Second wave",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          11893
         ],
         "titles": []
       }
@@ -39090,7 +44905,7 @@
         ],
         "titles": [
           "Power outages throughout the country",
-          "Volcanic Activity",
+          "Weather Event and Winds",
           "Power outage"
         ]
       },
@@ -39148,8 +44963,8 @@
           17603
         ],
         "titles": [
-          "Impact Report: Heavy Snow in Georgia",
-          "Explosion in the Residential House"
+          "Explosion in the Residential House",
+          "Impact Report: Heavy Snow in Georgia"
         ]
       },
       {
@@ -39558,8 +45373,8 @@
           17657
         ],
         "titles": [
-          "Forest fire",
-          "Forest Fires"
+          "Forest Fires",
+          "Forest fire"
         ]
       },
       {
@@ -39578,9 +45393,9 @@
           17637
         ],
         "titles": [
-          "East Malaysia Flood",
+          "East Malaysia Monsoon Flood 02",
           "MYS: Flood - 03-2025 - my #3 (2025-03-20)",
-          "East Malaysia Monsoon Flood 02"
+          "East Malaysia Flood"
         ]
       },
       {
@@ -39599,9 +45414,9 @@
           17628
         ],
         "titles": [
-          "Flood - 03-2025 - Bahia Blanca",
           "Bahia Blanca",
-          "Santa Victoria East"
+          "Santa Victoria East",
+          "Flood - 03-2025 - Bahia Blanca"
         ]
       },
       {
@@ -39619,8 +45434,8 @@
           17656
         ],
         "titles": [
-          "Drought 2025",
-          "Cholera Outbreak field report"
+          "Cholera Outbreak field report",
+          "Drought 2025"
         ]
       },
       {
@@ -39638,8 +45453,8 @@
           17635
         ],
         "titles": [
-          "Protestas Sociales en Guatemala",
-          "Fuego volcano eruptive activity, Guatemala"
+          "Fuego volcano eruptive activity, Guatemala",
+          "Protestas Sociales en Guatemala"
         ]
       },
       {
@@ -39657,8 +45472,8 @@
           17630
         ],
         "titles": [
-          "Floods sweep Iraq as a result of heavy rains",
-          "IRQ: FLASH FLOOD"
+          "IRQ: FLASH FLOOD",
+          "Floods sweep Iraq as a result of heavy rains"
         ]
       },
       {
@@ -40059,8 +45874,8 @@
           17683
         ],
         "titles": [
-          "Earthquake in Tajikistan – April 13, 2025",
           "TJK: Earthquake 13-04-2025",
+          "Earthquake in Tajikistan – April 13, 2025",
           "TJK: Earthquake - 04-2025 - e #2 (2025-04-23)"
         ]
       },
@@ -40080,9 +45895,9 @@
           17672
         ],
         "titles": [
+          "The Escalating Food Crisis in Nigeria: A Threat to Lives and Livelihoods",
           "Food and Nutrition Insecurity",
-          "Communal Clash",
-          "The Escalating Food Crisis in Nigeria: A Threat to Lives and Livelihoods"
+          "Communal Clash"
         ]
       },
       {
@@ -40120,8 +45935,8 @@
           17676
         ],
         "titles": [
-          "BFA: Population Displacement - 04-2025",
-          "BFA: Population Displacement 04-2025"
+          "BFA: Population Displacement 04-2025",
+          "BFA: Population Displacement - 04-2025"
         ]
       },
       {
@@ -40473,9 +46288,9 @@
           17700
         ],
         "titles": [
+          "Weather events",
           "Earthquake and Tsunami South of Chile",
-          "Tornado Category EF-1",
-          "Weather events"
+          "Tornado Category EF-1"
         ]
       },
       {
@@ -40513,8 +46328,8 @@
           17717
         ],
         "titles": [
-          "Bengkulu Province earthquake disaster",
-          "Floods in the Papua Pegunungan Regency"
+          "Floods in the Papua Pegunungan Regency",
+          "Bengkulu Province earthquake disaster"
         ]
       },
       {
@@ -40570,8 +46385,8 @@
           17713
         ],
         "titles": [
-          "Severe flooding in the north of Buenos Aires",
-          "Severe flooding in the Metropolitan Area of Buenos Aires (AMBA)"
+          "Severe flooding in the Metropolitan Area of Buenos Aires (AMBA)",
+          "Severe flooding in the north of Buenos Aires"
         ]
       },
       {
@@ -40822,8 +46637,8 @@
           17737
         ],
         "titles": [
-          "Earthquake of Greater Intensity North of Chile",
-          "Weather Events"
+          "Weather Events",
+          "Earthquake of Greater Intensity North of Chile"
         ]
       },
       {
@@ -40842,8 +46657,8 @@
           17741
         ],
         "titles": [
-          "Viet Nam flood",
-          "Flood from Heavy rainfall"
+          "Flood from Heavy rainfall",
+          "Viet Nam flood"
         ]
       },
       {
@@ -40862,9 +46677,9 @@
           17732
         ],
         "titles": [
-          "Floods in South Halmahera district",
           "Floods in East Kalimantan Province",
-          "Mount Lewotobi Laki-laki"
+          "Mount Lewotobi Laki-laki",
+          "Floods in South Halmahera district"
         ]
       },
       {
@@ -40902,8 +46717,8 @@
           17758
         ],
         "titles": [
-          "Flash Flood",
-          "Population Movement: Iran-Pakistan June 2025"
+          "Population Movement: Iran-Pakistan June 2025",
+          "Flash Flood"
         ]
       },
       {
@@ -40959,8 +46774,8 @@
           17742
         ],
         "titles": [
-          "GAs explosion in Chambarak, Armenia",
-          "Cyclone: Wind storm in Aragatsotn"
+          "Cyclone: Wind storm in Aragatsotn",
+          "GAs explosion in Chambarak, Armenia"
         ]
       },
       {
@@ -40997,8 +46812,8 @@
           17734
         ],
         "titles": [
-          "Incremento de Actividad Volcánica - Flujo de Lava. Volcán de Fuego, Guatemala (342090)",
-          "Erupción Volcán Fuego Guatemala"
+          "Erupción Volcán Fuego Guatemala",
+          "Incremento de Actividad Volcánica - Flujo de Lava. Volcán de Fuego, Guatemala (342090)"
         ]
       },
       {
@@ -41338,9 +47153,9 @@
           17824
         ],
         "titles": [
-          "Weather Events South Zone",
           "Tsunami Alert for Earthquake in Russia",
-          "Weather Events"
+          "Weather Events",
+          "Weather Events South Zone"
         ]
       },
       {
@@ -41361,8 +47176,8 @@
           17796
         ],
         "titles": [
-          "Heavy rainfall and flash floods",
           "Tensions at the Thailand - Cambodia Border",
+          "Heavy rainfall and flash floods",
           "Thailand Floods - Tropical Storm Wipha"
         ]
       },
@@ -41384,7 +47199,7 @@
         ],
         "titles": [
           "Earthquakes and Aftershocks Affect Guatemala",
-          "Earthquakes and Rheic Earthquakes in Guatemala",
+          "Seismic Swarm in Guatemala",
           "Sensitive earthquakes in Guatemala"
         ]
       },
@@ -41405,8 +47220,8 @@
           17773
         ],
         "titles": [
-          "Benue - Population Movement 2025",
-          "Nigeria - Flood"
+          "Nigeria - Flood",
+          "Benue - Population Movement 2025"
         ]
       },
       {
@@ -41425,9 +47240,9 @@
           17780
         ],
         "titles": [
-          "Population Movement Crete",
+          "Wildfires in Greece, 26-28, July, 2025",
           "Wildfires in Greece, June-July 2025 Report",
-          "Wildfires in Greece, 26-28, July, 2025"
+          "Population Movement Crete"
         ]
       },
       {
@@ -41446,8 +47261,8 @@
           17801
         ],
         "titles": [
-          "Typhoon Wipha-flash flood",
           "Typhoon Wipha-Heavy rain and flash flood",
+          "Typhoon Wipha-flash flood",
           "Typhoon WIPHA circulation  07/2025"
         ]
       },
@@ -41468,8 +47283,8 @@
         ],
         "titles": [
           "Landslide in the parish of El Triunfo",
-          "Water shortages due to landslides – Quito Sur",
-          "Landslide in the La Mica sector"
+          "Landslide in the La Mica sector",
+          "Water shortages due to landslides – Quito Sur"
         ]
       },
       {
@@ -41509,9 +47324,9 @@
           17775
         ],
         "titles": [
+          "Syria- Population Movement - July -2025",
           "SYR",
-          "Fire",
-          "Syria- Population Movement - July -2025"
+          "Fire"
         ]
       },
       {
@@ -41529,8 +47344,8 @@
           17813
         ],
         "titles": [
-          "Cholera",
-          "Cholera epidemic in the province of Ouaddaï and Sila"
+          "Cholera epidemic in the province of Ouaddaï and Sila",
+          "Cholera"
         ]
       },
       {
@@ -41548,8 +47363,8 @@
           17772
         ],
         "titles": [
-          "Chikungunya Outbreak",
-          "Mandera Cross Border Population Influx"
+          "Mandera Cross Border Population Influx",
+          "Chikungunya Outbreak"
         ]
       },
       {
@@ -41567,8 +47382,8 @@
           17782
         ],
         "titles": [
-          "Tsunami warning issued for Japan's Pacific coast triggered by the M8.8 earthquake in Kamchatka Peninsula, Russia",
-          "Earthquake Centered in the Adjacent Sea of Tokara Islands"
+          "Earthquake Centered in the Adjacent Sea of Tokara Islands",
+          "Tsunami warning issued for Japan's Pacific coast triggered by the M8.8 earthquake in Kamchatka Peninsula, Russia"
         ]
       },
       {
@@ -41908,8 +47723,8 @@
           17842
         ],
         "titles": [
-          "Kajiki",
-          "Viet Nam - Pluvial/Flash Flood - 08/2025"
+          "Viet Nam - Pluvial/Flash Flood - 08/2025",
+          "Kajiki"
         ]
       },
       {
@@ -41928,9 +47743,9 @@
           17845
         ],
         "titles": [
+          "Tensions at the Thailand - Cambodia Border",
           "Heavy rainfall and flash floods",
-          "Flood impact from Tropical storm Kajiki",
-          "Tensions at the Thailand - Cambodia Border"
+          "Flood impact from Tropical storm Kajiki"
         ]
       },
       {
@@ -42006,8 +47821,8 @@
           17839
         ],
         "titles": [
-          "Humanitarian Assistance to Mexican Families Displaced on the Mexico-Guatemala Border",
-          "Actividad Sísmica Jutiapa Guatemala 2025"
+          "Actividad Sísmica Jutiapa Guatemala 2025",
+          "Humanitarian Assistance to Mexican Families Displaced on the Mexico-Guatemala Border"
         ]
       },
       {
@@ -42044,8 +47859,8 @@
           17843
         ],
         "titles": [
-          "Heavy rain from Tropical Storm Wipha",
-          "Flood impact by Tropical Storm Kajiki"
+          "Flood impact by Tropical Storm Kajiki",
+          "Heavy rain from Tropical Storm Wipha"
         ]
       },
       {
@@ -42397,8 +48212,8 @@
           17895
         ],
         "titles": [
+          "Typhoon No. 10 Bualoi - flooding",
           "Typhoon BUALOI",
-          "Flood impact caused by Storm RAGASA",
           "Typhoon RAGASA"
         ]
       },
@@ -42417,8 +48232,8 @@
           17886
         ],
         "titles": [
-          "Bali Floods",
-          "Collapsed boarding school in Sidoarjo, East Java Province"
+          "Collapsed boarding school in Sidoarjo, East Java Province",
+          "Bali Floods"
         ]
       },
       {
@@ -42436,8 +48251,8 @@
           17896
         ],
         "titles": [
-          "Impact of the storm BUALOI",
-          "Impact of Rakasa monsoon"
+          "Impact of Rakasa monsoon",
+          "Impact of the storm BUALOI"
         ]
       },
       {
@@ -42474,8 +48289,8 @@
           17892
         ],
         "titles": [
-          "Ecuador 2025 Demonstrations",
-          "Ecuador 2025 Demonstrations #2"
+          "Ecuador 2025 Demonstrations #2",
+          "Ecuador 2025 Demonstrations"
         ]
       },
       {
@@ -42493,8 +48308,8 @@
           17888
         ],
         "titles": [
-          "flood",
-          "Sabah Flood update"
+          "Sabah Flood update",
+          "flood"
         ]
       },
       {
@@ -42512,8 +48327,8 @@
           17885
         ],
         "titles": [
-          "The Gambia 2025 Flash Flood",
-          "The Gambia Flood 2025"
+          "The Gambia Flood 2025",
+          "The Gambia 2025 Flash Flood"
         ]
       },
       {
@@ -42886,9 +48701,9 @@
           17919
         ],
         "titles": [
-          "Typhoon Bualoi",
-          "Typhoon Matmo circulation",
-          "Viet Nam flood from heavy rain"
+          "Typhoon BUALOI circulation",
+          "Typhoon BUALOI",
+          "Typhoon Matmo circulation"
         ]
       },
       {
@@ -42910,8 +48725,8 @@
           17951
         ],
         "titles": [
+          "Floods due to adverse effects of rainfall",
           "Flooding Due to Adverse Effects",
-          "DOM: Cyclone - 10-2025 - h #3 (2025-10-27)",
           "Huracán Melissa"
         ]
       },
@@ -42932,9 +48747,9 @@
           17926
         ],
         "titles": [
-          "NGA: Flood - 09-2025 - F #3 (2025-10-03)",
-          "Boat Mishap",
-          "Population Movement"
+          "Population Movement",
+          "Insurgency: Multiple Attacks by Non-state Actors (Armed Opposition Groups).",
+          "NGA: Flood - 09-2025 - F #3 (2025-10-03)"
         ]
       },
       {
@@ -42972,8 +48787,8 @@
           17920
         ],
         "titles": [
-          "6.9 MAGNITUDE IN BOGO CITY, CEBU",
-          "7.4 and 6.8 Magnitude Earthquakes in Manay, Davao Oriental (2025)"
+          "7.4 and 6.8 Magnitude Earthquakes in Manay, Davao Oriental (2025)",
+          "6.9 MAGNITUDE IN BOGO CITY, CEBU"
         ]
       },
       {
@@ -42991,8 +48806,8 @@
           17922
         ],
         "titles": [
-          "Hurricane Melissa",
-          "Tropical Storm Imelda"
+          "Tropical Storm Imelda",
+          "Hurricane Melissa"
         ]
       },
       {
@@ -43402,9 +49217,9 @@
           17969
         ],
         "titles": [
-          "Flood from continued heavy rainfall",
           "flood",
-          "Flood from heavy rainfall"
+          "Flood from continued heavy rainfall",
+          "heavy rainfall"
         ]
       },
       {
@@ -43426,9 +49241,9 @@
           17984
         ],
         "titles": [
-          "Nigeria Population Movement",
-          "Nigeria: Population Movement",
-          "Population Movement"
+          "Population Movement",
+          "Nigeria Population movement",
+          "Nigeria Population Movement"
         ]
       },
       {
@@ -43448,8 +49263,8 @@
           17989
         ],
         "titles": [
-          "Banjarnegara district, Central Java Province",
           "Hydrometeorological Disaster Events in the Provinces of Aceh, North Sumatra, and West Sumatra.",
+          "Banjarnegara district, Central Java Province",
           "Mount Semeru, East Java Province, Indonesia"
         ]
       },
@@ -43470,8 +49285,8 @@
           17983
         ],
         "titles": [
-          "Flood from tropical rainfall and river overflow",
-          "Flooding from tropical rainfall and river overflow"
+          "Flooding from tropical rainfall and river overflow",
+          "Flood from tropical rainfall and river overflow"
         ]
       },
       {
@@ -43529,8 +49344,8 @@
           17991
         ],
         "titles": [
-          "FLOODING, due to torrential rains and overflowing rivers",
-          "Movement of populations from the DRC to the Republic of Congo (Department of Djoué-Léfini)"
+          "Movement of populations from the DRC to the Republic of Congo (Department of Djoué-Léfini)",
+          "FLOODING, due to torrential rains and overflowing rivers"
         ]
       },
       {
@@ -43882,7 +49697,7 @@
   {
     "month": "2025-12",
     "date": "2025-12-01",
-    "total_reports": 16,
+    "total_reports": 17,
     "total_locations": 9,
     "locations": [
       {
@@ -43903,9 +49718,28 @@
           18019
         ],
         "titles": [
-          "BDI: Population Movement-12-2025",
-          "BDI: Epidemic-12-2025",
-          "BDI-Population Movement 12-2025"
+          "BDI-Population Movement 12-2025",
+          "population movement on 11.12",
+          "New choléra cases outbreak in Nyanza"
+        ]
+      },
+      {
+        "lat": -4.04,
+        "lon": 21.76,
+        "count": 2,
+        "country_name": "Democratic Republic of Congo",
+        "country_iso3": "COD",
+        "region_name": "Africa",
+        "event_name": "COD: Flood - 12-2025 - Floods in the town of Boma, Kongo Central Province in the DRC ",
+        "dtype_name": "Flood",
+        "is_covid": false,
+        "reports": [
+          18035,
+          18033
+        ],
+        "titles": [
+          "Flooding in the town of Boma, Kongo Central Province in the DRC",
+          "Population movement in the city of Kalemie, Tanganyika province"
         ]
       },
       {
@@ -43960,25 +49794,8 @@
           18022
         ],
         "titles": [
-          "Northeast Coast Monsoon",
-          "Northeast Monsoon"
-        ]
-      },
-      {
-        "lat": -4.04,
-        "lon": 21.76,
-        "count": 1,
-        "country_name": "Democratic Republic of Congo",
-        "country_iso3": "COD",
-        "region_name": "Africa",
-        "event_name": "COD: Population displacement - 11-2025 - Population movement in the city of Kalemie, Tanganyika province ",
-        "dtype_name": "Population Movement",
-        "is_covid": false,
-        "reports": [
-          18033
-        ],
-        "titles": [
-          "Population movement in the city of Kalemie, Tanganyika province"
+          "Northeast Monsoon",
+          "Northeast Coast Monsoon"
         ]
       },
       {
