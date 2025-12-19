@@ -1,5 +1,35 @@
 [
   {
+    "id": 18047,
+    "dtype_name": "Epidemic",
+    "title": "Epidemiological surveillance Influenza AH3N2 Subclade K",
+    "visibility_display": "Public",
+    "event_name": "CHL: Epidemic - 12-2025 - Epidemiological Surveillance Influenza AH3N2 Subclade K",
+    "is_covid_report": false,
+    "created_at": "2025-12-19T02:29:05.675431Z",
+    "country_name": "Chile",
+    "country_iso3": "CHL",
+    "country_id": 46,
+    "lat": -35.675147,
+    "lon": -71.542969,
+    "region_name": "Americas"
+  },
+  {
+    "id": 18046,
+    "dtype_name": "Fire",
+    "title": "Forest Fire Update",
+    "visibility_display": "Public",
+    "event_name": "CHL: Fire - 12-2025 - Wildfires",
+    "is_covid_report": false,
+    "created_at": "2025-12-19T02:17:06.527414Z",
+    "country_name": "Chile",
+    "country_iso3": "CHL",
+    "country_id": 46,
+    "lat": -35.675147,
+    "lon": -71.542969,
+    "region_name": "Americas"
+  },
+  {
     "id": 18045,
     "dtype_name": "Other",
     "title": "Tensions at Thailand-Cambodia border",
