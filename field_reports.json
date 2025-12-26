@@ -1,5 +1,35 @@
 [
   {
+    "id": 18057,
+    "dtype_name": "Fire",
+    "title": "Forest Fire Update",
+    "visibility_display": "Public",
+    "event_name": "CHL: Fire - 12-2025 - Wildfires",
+    "is_covid_report": false,
+    "created_at": "2025-12-26T01:03:25.006743Z",
+    "country_name": "Chile",
+    "country_iso3": "CHL",
+    "country_id": 46,
+    "lat": -35.675147,
+    "lon": -71.542969,
+    "region_name": "Americas"
+  },
+  {
+    "id": 18056,
+    "dtype_name": "Fire",
+    "title": "Forest Fire Monitoring",
+    "visibility_display": "Public",
+    "event_name": "CHL: Fire - 12-2025 - Wildfires",
+    "is_covid_report": false,
+    "created_at": "2025-12-25T18:59:22.274671Z",
+    "country_name": "Chile",
+    "country_iso3": "CHL",
+    "country_id": 46,
+    "lat": -35.675147,
+    "lon": -71.542969,
+    "region_name": "Americas"
+  },
+  {
     "id": 18055,
     "dtype_name": "Fire",
     "title": "Forest Fire Update",
