@@ -1,5 +1,35 @@
 [
   {
+    "id": 18082,
+    "dtype_name": "Population Movement",
+    "title": "Population Movement - US Venezuela Conflict",
+    "visibility_display": "Public",
+    "event_name": "GUY: Population Movement - 12-2025 - Population Movement - US Venezuela Conflict ",
+    "is_covid_report": false,
+    "created_at": "2026-01-04T19:43:21.838457Z",
+    "country_name": "Guyana",
+    "country_iso3": "GUY",
+    "country_id": 79,
+    "lat": 4.860416,
+    "lon": -58.93018,
+    "region_name": "Americas"
+  },
+  {
+    "id": 18081,
+    "dtype_name": "Fire",
+    "title": "Forest Fires",
+    "visibility_display": "Public",
+    "event_name": "CHL: Fire - 12-2025 - Wildfires",
+    "is_covid_report": false,
+    "created_at": "2026-01-04T16:18:43.789169Z",
+    "country_name": "Chile",
+    "country_iso3": "CHL",
+    "country_id": 46,
+    "lat": -35.675147,
+    "lon": -71.542969,
+    "region_name": "Americas"
+  },
+  {
     "id": 18080,
     "dtype_name": "Flood",
     "title": "AFghanistan: Flash Floods 2026",
