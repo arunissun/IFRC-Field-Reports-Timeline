@@ -1,5 +1,35 @@
 [
   {
+    "id": 18095,
+    "dtype_name": "Other",
+    "title": "MPOX",
+    "visibility_display": "Public",
+    "event_name": "WRC: Other - 12-2025 - MPOX ",
+    "is_covid_report": false,
+    "created_at": "2026-01-08T13:02:42.599085Z",
+    "country_name": "Cameroon",
+    "country_iso3": "CMR",
+    "country_id": 41,
+    "lat": 7.369722,
+    "lon": 12.354722,
+    "region_name": "Africa"
+  },
+  {
+    "id": 18094,
+    "dtype_name": "Population Movement",
+    "title": "Population Movement Aleppo",
+    "visibility_display": "IFRC and NS",
+    "event_name": "SYR: Population Movement - 01-2026 - Population Movement Aleppo",
+    "is_covid_report": false,
+    "created_at": "2026-01-08T11:04:07.124803Z",
+    "country_name": "Syrian Arab Republic",
+    "country_iso3": "SYR",
+    "country_id": 206,
+    "lat": 34.802075,
+    "lon": 38.996815,
+    "region_name": "Middle East & North Africa"
+  },
+  {
     "id": 18093,
     "dtype_name": "Flood",
     "title": "High intensity rains are causing flooding and road blockages",
