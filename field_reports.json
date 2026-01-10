@@ -1,5 +1,35 @@
 [
   {
+    "id": 18098,
+    "dtype_name": "Epidemic",
+    "title": "ALERTA ROJA INSTITUCIONAL POR CONFIRMACIÓN DE CASOS DE SARAMPIÓN EN GUATEMALA",
+    "visibility_display": "Public",
+    "event_name": "GTM: Epidemic - 01-2026 - ALERTA ROJA INSTITUCIONAL POR CONFIRMACIÓN DE CASOS DE SARAMPIÓN EN GUATEMALA ",
+    "is_covid_report": false,
+    "created_at": "2026-01-10T02:06:36.042257Z",
+    "country_name": "Guatemala",
+    "country_iso3": "GTM",
+    "country_id": 76,
+    "lat": 15.783471,
+    "lon": -90.2307590000001,
+    "region_name": "Americas"
+  },
+  {
+    "id": 18097,
+    "dtype_name": "Fire",
+    "title": "Patagonia Forest Fires",
+    "visibility_display": "Public",
+    "event_name": "ARG: Fire - 01-2026 - Patagonia Forest Fires ",
+    "is_covid_report": false,
+    "created_at": "2026-01-09T16:18:27.331832Z",
+    "country_name": "Argentina",
+    "country_iso3": "ARG",
+    "country_id": 20,
+    "lat": -38.416097,
+    "lon": -63.616672,
+    "region_name": "Americas"
+  },
+  {
     "id": 18096,
     "dtype_name": "Fire",
     "title": "Forest Fire Update",
