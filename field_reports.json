@@ -1,5 +1,35 @@
 [
   {
+    "id": 18101,
+    "dtype_name": "Flood",
+    "title": "MOZ: Floods - 01-2026",
+    "visibility_display": "Public",
+    "event_name": "MOZ: Flood - 01-2026 - MOZ: Floods - 01-2026 ",
+    "is_covid_report": false,
+    "created_at": "2026-01-12T09:26:13.033542Z",
+    "country_name": "Mozambique",
+    "country_iso3": "MOZ",
+    "country_id": 120,
+    "lat": -18.665695,
+    "lon": 35.529562,
+    "region_name": "Africa"
+  },
+  {
+    "id": 18100,
+    "dtype_name": "Other",
+    "title": "Extreme winter condition and floods",
+    "visibility_display": "Public",
+    "event_name": "SRB: Other - 01-2026 - Extreme winter condition and floods ",
+    "is_covid_report": false,
+    "created_at": "2026-01-11T16:31:17.523549Z",
+    "country_name": "Serbia",
+    "country_iso3": "SRB",
+    "country_id": 271,
+    "lat": 44.016521,
+    "lon": 21.005859,
+    "region_name": "Europe"
+  },
+  {
     "id": 18099,
     "dtype_name": "Flood",
     "title": "East Malysia Monsoon Flood",
