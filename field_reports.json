@@ -1,5 +1,35 @@
 [
   {
+    "id": 18106,
+    "dtype_name": "Flood",
+    "title": "Floods Kichevo/Ohrid",
+    "visibility_display": "Public",
+    "event_name": "MKD: Flood - 01-2026 - Floods Kichevo/Ohrid ",
+    "is_covid_report": false,
+    "created_at": "2026-01-15T10:29:35.388607Z",
+    "country_name": "North Macedonia",
+    "country_iso3": "MKD",
+    "country_id": 108,
+    "lat": 41.608635,
+    "lon": 21.745275,
+    "region_name": "Europe"
+  },
+  {
+    "id": 18105,
+    "dtype_name": "Fire",
+    "title": "Forest Fire Update",
+    "visibility_display": "Public",
+    "event_name": "CHL: Fire - 12-2025 - Wildfires",
+    "is_covid_report": false,
+    "created_at": "2026-01-15T02:05:46.914537Z",
+    "country_name": "Chile",
+    "country_iso3": "CHL",
+    "country_id": 46,
+    "lat": -35.675147,
+    "lon": -71.542969,
+    "region_name": "Americas"
+  },
+  {
     "id": 18104,
     "dtype_name": "Heat Wave",
     "title": "Update",
