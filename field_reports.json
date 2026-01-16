@@ -1,5 +1,20 @@
 [
   {
+    "id": 18107,
+    "dtype_name": "Other",
+    "title": "Tensions between Thailand - Cambodia Border",
+    "visibility_display": "Public",
+    "event_name": "THA: Other - 12-2026 - Tensions between Thailand - Cambodia Border ",
+    "is_covid_report": false,
+    "created_at": "2026-01-16T08:02:25.073711Z",
+    "country_name": "Thailand",
+    "country_iso3": "THA",
+    "country_id": 169,
+    "lat": 15.870032,
+    "lon": 100.992541,
+    "region_name": "Asia Pacific"
+  },
+  {
     "id": 18106,
     "dtype_name": "Flood",
     "title": "Floods Kichevo/Ohrid",
