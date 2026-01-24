@@ -1,5 +1,20 @@
 [
   {
+    "id": 18130,
+    "dtype_name": "Fire",
+    "title": "BIOBÍO-ÑUBLE",
+    "visibility_display": "Public",
+    "event_name": "CHL: Fire - 12-2025 - Wildfires",
+    "is_covid_report": false,
+    "created_at": "2026-01-23T20:40:58.779396Z",
+    "country_name": "Chile",
+    "country_iso3": "CHL",
+    "country_id": 46,
+    "lat": -35.675147,
+    "lon": -71.542969,
+    "region_name": "Americas"
+  },
+  {
     "id": 18129,
     "dtype_name": "Pluvial/Flash Flood",
     "title": "Flooding of the Pilcomayo River",
