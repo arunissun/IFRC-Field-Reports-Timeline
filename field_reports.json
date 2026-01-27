@@ -1,5 +1,35 @@
 [
   {
+    "id": 18132,
+    "dtype_name": "Flood",
+    "title": "Malawi Floods 2026",
+    "visibility_display": "Public",
+    "event_name": "MWI: Flood - 12-2025 - Malawi Floods ",
+    "is_covid_report": false,
+    "created_at": "2026-01-27T13:16:37.448901Z",
+    "country_name": "Malawi",
+    "country_iso3": "MWI",
+    "country_id": 110,
+    "lat": -13.254308,
+    "lon": 34.301525,
+    "region_name": "Africa"
+  },
+  {
+    "id": 18131,
+    "dtype_name": "Cold Wave",
+    "title": "Afghanistan: Cold Wave and Heavy Snow Fall-2026",
+    "visibility_display": "Public",
+    "event_name": "AFG: Cold Wave - 01-2026 - Afghanistan: Cold Wave and Heavy Snow Fall-2026 ",
+    "is_covid_report": false,
+    "created_at": "2026-01-27T10:38:58.853126Z",
+    "country_name": "Afghanistan",
+    "country_iso3": "AFG",
+    "country_id": 14,
+    "lat": 33.93911,
+    "lon": 67.709953,
+    "region_name": "Asia Pacific"
+  },
+  {
     "id": 18130,
     "dtype_name": "Fire",
     "title": "BIOBÍO-ÑUBLE",
