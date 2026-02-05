@@ -1,9 +1,24 @@
 [
   {
+    "id": 18147,
+    "dtype_name": "Population Movement",
+    "title": "Chios Maritime Collision",
+    "visibility_display": "Public",
+    "event_name": "GRC: Population Movement - 02-2026 - Chios Maritime Collision ",
+    "is_covid_report": false,
+    "created_at": "2026-02-04T14:24:07.764671Z",
+    "country_name": "Greece",
+    "country_iso3": "GRC",
+    "country_id": 74,
+    "lat": 39.074208,
+    "lon": 21.824312,
+    "region_name": "Europe"
+  },
+  {
     "id": 18146,
     "dtype_name": "Flood",
     "title": "Sabah Flash Flood",
-    "visibility_display": "IFRC and NS",
+    "visibility_display": "Public",
     "event_name": "MYS: Flood - 02-2026 - Sabah Flash Flood ",
     "is_covid_report": false,
     "created_at": "2026-02-04T13:01:43.078407Z",
@@ -47,7 +62,7 @@
   {
     "id": 18143,
     "dtype_name": "Flood",
-    "title": "Inondations à Ksar El Kébir (Province de Larache)",
+    "title": "Inondations à Ksar El Kébir (Province de Larache), Sidi Kacem, Sidi Slimane, Tetouan, kenitra",
     "visibility_display": "Public",
     "event_name": "MAR: Flood - 01-2026 - Inondations à Ksar El Kébir (Province de Larache) ",
     "is_covid_report": false,
@@ -349,7 +364,7 @@
     "dtype_name": "Flood",
     "title": "Tunisia",
     "visibility_display": "Public",
-    "event_name": "TUN: Flood - 01-2026 - Tunisia ",
+    "event_name": "TUN: Flood - 01-2026 - Tunisia",
     "is_covid_report": false,
     "created_at": "2026-01-21T17:39:33.704946Z",
     "country_name": "Tunisia",
