@@ -26839,7 +26839,7 @@
         "country_name": "Hungary",
         "country_iso3": "HUN",
         "region_name": "Europe",
-        "event_name": "Ukraine and impacted countries crisis",
+        "event_name": "Ukraine and Impacted Countries",
         "dtype_name": "Population Movement",
         "is_covid": false,
         "reports": [
@@ -26866,7 +26866,7 @@
         "country_name": "Lithuania",
         "country_iso3": "LTU",
         "region_name": "Europe",
-        "event_name": "Ukraine and impacted countries crisis",
+        "event_name": "Ukraine and Impacted Countries",
         "dtype_name": "Population Movement",
         "is_covid": false,
         "reports": [
@@ -26891,7 +26891,7 @@
         "country_name": "Ukraine",
         "country_iso3": "UKR",
         "region_name": "Europe",
-        "event_name": "Ukraine and impacted countries crisis",
+        "event_name": "Ukraine and Impacted Countries",
         "dtype_name": "Population Movement",
         "is_covid": false,
         "reports": [
@@ -26913,7 +26913,7 @@
         "country_name": "Spain",
         "country_iso3": "ESP",
         "region_name": "Europe",
-        "event_name": "Ukraine and impacted countries crisis",
+        "event_name": "Ukraine and Impacted Countries",
         "dtype_name": "Population Movement",
         "is_covid": false,
         "reports": [
@@ -26932,7 +26932,7 @@
         "country_name": "Austria",
         "country_iso3": "AUT",
         "region_name": "Europe",
-        "event_name": "Ukraine and impacted countries crisis",
+        "event_name": "Ukraine and Impacted Countries",
         "dtype_name": "Population Movement",
         "is_covid": false,
         "reports": [
@@ -27005,7 +27005,7 @@
         "country_name": "France",
         "country_iso3": "FRA",
         "region_name": "Europe",
-        "event_name": "Ukraine and impacted countries crisis",
+        "event_name": "Ukraine and Impacted Countries",
         "dtype_name": "Population Movement",
         "is_covid": false,
         "reports": [
@@ -27134,7 +27134,7 @@
         "country_name": "Poland",
         "country_iso3": "POL",
         "region_name": "Europe",
-        "event_name": "Ukraine and impacted countries crisis",
+        "event_name": "Ukraine and Impacted Countries",
         "dtype_name": "Population Movement",
         "is_covid": false,
         "reports": [
@@ -27270,7 +27270,7 @@
         "country_name": "Albania",
         "country_iso3": "ALB",
         "region_name": "Europe",
-        "event_name": "Ukraine and impacted countries crisis",
+        "event_name": "Ukraine and Impacted Countries",
         "dtype_name": "Population Movement",
         "is_covid": false,
         "reports": [
@@ -27585,7 +27585,7 @@
         "country_name": "Moldova, Republic of",
         "country_iso3": "MDA",
         "region_name": "Europe",
-        "event_name": "Ukraine and impacted countries crisis",
+        "event_name": "Ukraine and Impacted Countries",
         "dtype_name": "Other",
         "is_covid": false,
         "reports": [
@@ -27759,7 +27759,7 @@
         "country_name": "Croatia",
         "country_iso3": "HRV",
         "region_name": "Europe",
-        "event_name": "Ukraine and impacted countries crisis",
+        "event_name": "Ukraine and Impacted Countries",
         "dtype_name": "Population Movement",
         "is_covid": false,
         "reports": [
@@ -27807,7 +27807,7 @@
         "country_name": "France",
         "country_iso3": "FRA",
         "region_name": "Europe",
-        "event_name": "Ukraine and impacted countries crisis",
+        "event_name": "Ukraine and Impacted Countries",
         "dtype_name": "Population Movement",
         "is_covid": false,
         "reports": [
@@ -27839,7 +27839,7 @@
         "country_name": "Ukraine",
         "country_iso3": "UKR",
         "region_name": "Europe",
-        "event_name": "Ukraine and impacted countries crisis",
+        "event_name": "Ukraine and Impacted Countries",
         "dtype_name": "Population Movement",
         "is_covid": false,
         "reports": [
@@ -27991,7 +27991,7 @@
         "country_name": "Luxembourg",
         "country_iso3": "LUX",
         "region_name": "Europe",
-        "event_name": "Ukraine and impacted countries crisis",
+        "event_name": "Ukraine and Impacted Countries",
         "dtype_name": "Population Movement",
         "is_covid": false,
         "reports": [
@@ -28366,7 +28366,7 @@
         "country_name": "Georgia",
         "country_iso3": "GEO",
         "region_name": "Europe",
-        "event_name": "Ukraine and impacted countries crisis",
+        "event_name": "Ukraine and Impacted Countries",
         "dtype_name": "Other",
         "is_covid": false,
         "reports": [
@@ -28381,7 +28381,7 @@
         "country_name": "Spain",
         "country_iso3": "ESP",
         "region_name": "Europe",
-        "event_name": "Ukraine and impacted countries crisis",
+        "event_name": "Ukraine and Impacted Countries",
         "dtype_name": "Population Movement",
         "is_covid": false,
         "reports": [
@@ -28883,7 +28883,7 @@
         "country_name": "Serbia",
         "country_iso3": "SRB",
         "region_name": "Europe",
-        "event_name": "Ukraine and impacted countries crisis",
+        "event_name": "Ukraine and Impacted Countries",
         "dtype_name": "Population Movement",
         "is_covid": false,
         "reports": [
@@ -29664,7 +29664,7 @@
         "country_name": "Lithuania",
         "country_iso3": "LTU",
         "region_name": "Europe",
-        "event_name": "Ukraine and impacted countries crisis",
+        "event_name": "Ukraine and Impacted Countries",
         "dtype_name": "Population Movement",
         "is_covid": false,
         "reports": [
@@ -31058,7 +31058,7 @@
         "country_name": "Slovenia",
         "country_iso3": "SVN",
         "region_name": "Europe",
-        "event_name": "Ukraine and impacted countries crisis",
+        "event_name": "Ukraine and Impacted Countries",
         "dtype_name": "Population Movement",
         "is_covid": false,
         "reports": [
@@ -44574,8 +44574,8 @@
           17478
         ],
         "titles": [
-          "Cholera outbtreak",
-          "MWI: Population Movement - 01-2025 - Population Movement from Mozambique"
+          "MWI: Population Movement - 01-2025 - Population Movement from Mozambique",
+          "Cholera outbtreak"
         ]
       },
       {
@@ -44905,9 +44905,9 @@
           17549
         ],
         "titles": [
-          "Volcanic Activity",
-          "Weather Event and Winds",
-          "Power outages throughout the country"
+          "Weather Event and Wind",
+          "Weather Event / Thunderstorms",
+          "Forest Fires"
         ]
       },
       {
@@ -44964,8 +44964,8 @@
           17603
         ],
         "titles": [
-          "Impact Report: Heavy Snow in Georgia",
-          "Explosion in the Residential House"
+          "Explosion in the Residential House",
+          "Impact Report: Heavy Snow in Georgia"
         ]
       },
       {
@@ -45353,8 +45353,8 @@
           17645
         ],
         "titles": [
-          "Earthquake in Osh oblast",
-          "Measles outbreak"
+          "Measles outbreak",
+          "Earthquake in Osh oblast"
         ]
       },
       {
@@ -45394,9 +45394,9 @@
           17637
         ],
         "titles": [
-          "MYS: Flood - 03-2025 - my #3 (2025-03-20)",
+          "East Malaysia Monsoon Flood 02",
           "East Malaysia Flood",
-          "East Malaysia Monsoon Flood 02"
+          "MYS: Flood - 03-2025 - my #3 (2025-03-20)"
         ]
       },
       {
@@ -45415,9 +45415,9 @@
           17628
         ],
         "titles": [
-          "Flood - 03-2025 - Bahia Blanca",
+          "Bahia Blanca",
           "Santa Victoria East",
-          "Bahia Blanca"
+          "Flood - 03-2025 - Bahia Blanca"
         ]
       },
       {
@@ -45435,8 +45435,8 @@
           17656
         ],
         "titles": [
-          "Drought 2025",
-          "Cholera Outbreak field report"
+          "Cholera Outbreak field report",
+          "Drought 2025"
         ]
       },
       {
@@ -45454,8 +45454,8 @@
           17635
         ],
         "titles": [
-          "Fuego volcano eruptive activity, Guatemala",
-          "Protestas Sociales en Guatemala"
+          "Protestas Sociales en Guatemala",
+          "Fuego volcano eruptive activity, Guatemala"
         ]
       },
       {
@@ -45875,9 +45875,9 @@
           17683
         ],
         "titles": [
-          "TJK: Earthquake - 04-2025 - e #2 (2025-04-23)",
+          "Earthquake in Tajikistan – April 13, 2025",
           "TJK: Earthquake 13-04-2025",
-          "Earthquake in Tajikistan – April 13, 2025"
+          "TJK: Earthquake - 04-2025 - e #2 (2025-04-23)"
         ]
       },
       {
@@ -45897,8 +45897,8 @@
         ],
         "titles": [
           "Communal Clash",
-          "Food and Nutrition Insecurity",
-          "The Escalating Food Crisis in Nigeria: A Threat to Lives and Livelihoods"
+          "The Escalating Food Crisis in Nigeria: A Threat to Lives and Livelihoods",
+          "Food and Nutrition Insecurity"
         ]
       },
       {
@@ -45917,8 +45917,8 @@
           17674
         ],
         "titles": [
-          "Flooding in Tanganyika province",
-          "Flooding in the city of Kinshasa"
+          "Flooding in the city of Kinshasa",
+          "Flooding in Tanganyika province"
         ]
       },
       {
@@ -45936,8 +45936,8 @@
           17676
         ],
         "titles": [
-          "BFA: Population Displacement 04-2025",
-          "BFA: Population Displacement - 04-2025"
+          "BFA: Population Displacement - 04-2025",
+          "BFA: Population Displacement 04-2025"
         ]
       },
       {
@@ -46310,8 +46310,8 @@
           17709
         ],
         "titles": [
-          "Banditry/Population Movement",
-          "Nigeria - Flood"
+          "Nigeria - Flood",
+          "Banditry/Population Movement"
         ]
       },
       {
@@ -46329,8 +46329,8 @@
           17717
         ],
         "titles": [
-          "Floods in the Papua Pegunungan Regency",
-          "Bengkulu Province earthquake disaster"
+          "Bengkulu Province earthquake disaster",
+          "Floods in the Papua Pegunungan Regency"
         ]
       },
       {
@@ -46367,8 +46367,8 @@
           17706
         ],
         "titles": [
-          "COVID-19 TREND IN TANZANIA",
-          "KYELA FLOODS IN MBEYA REGION TANZANIA"
+          "KYELA FLOODS IN MBEYA REGION TANZANIA",
+          "COVID-19 TREND IN TANZANIA"
         ]
       },
       {
@@ -46386,8 +46386,8 @@
           17713
         ],
         "titles": [
-          "Severe flooding in the Metropolitan Area of Buenos Aires (AMBA)",
-          "Severe flooding in the north of Buenos Aires"
+          "Severe flooding in the north of Buenos Aires",
+          "Severe flooding in the Metropolitan Area of Buenos Aires (AMBA)"
         ]
       },
       {
@@ -46638,8 +46638,8 @@
           17737
         ],
         "titles": [
-          "Earthquake of Greater Intensity North of Chile",
-          "Weather Events"
+          "Weather Events",
+          "Earthquake of Greater Intensity North of Chile"
         ]
       },
       {
@@ -46658,8 +46658,8 @@
           17741
         ],
         "titles": [
-          "Viet Nam flood",
-          "Flood from Heavy rainfall"
+          "Flood from Heavy rainfall",
+          "Viet Nam flood"
         ]
       },
       {
@@ -46678,9 +46678,9 @@
           17732
         ],
         "titles": [
-          "Floods in South Halmahera district",
+          "Floods in East Kalimantan Province",
           "Mount Lewotobi Laki-laki",
-          "Floods in East Kalimantan Province"
+          "Floods in South Halmahera district"
         ]
       },
       {
@@ -46699,8 +46699,8 @@
           17754
         ],
         "titles": [
-          "Iran I.R.",
-          "Iran Complex Emergency"
+          "Iran Complex Emergency",
+          "Iran I.R."
         ]
       },
       {
@@ -46718,8 +46718,8 @@
           17758
         ],
         "titles": [
-          "Population Movement: Iran-Pakistan June 2025",
-          "Flash Flood"
+          "Flash Flood",
+          "Population Movement: Iran-Pakistan June 2025"
         ]
       },
       {
@@ -46737,8 +46737,8 @@
           17757
         ],
         "titles": [
-          "Floods June 2025",
-          "Floods 2025"
+          "Floods 2025",
+          "Floods June 2025"
         ]
       },
       {
@@ -46756,8 +46756,8 @@
           17733
         ],
         "titles": [
-          "Farmers Herders Clashes/Bandit Attack",
-          "Nigeria - Flood"
+          "Nigeria - Flood",
+          "Farmers Herders Clashes/Bandit Attack"
         ]
       },
       {
@@ -46794,8 +46794,8 @@
           17743
         ],
         "titles": [
-          "Persistent Rainfall increases risk for major flood event",
-          "Flood update"
+          "Flood update",
+          "Persistent Rainfall increases risk for major flood event"
         ]
       },
       {
@@ -47155,8 +47155,8 @@
         ],
         "titles": [
           "Tsunami Alert for Earthquake in Russia",
-          "Weather Events South Zone",
-          "Weather Events"
+          "Weather Events",
+          "Weather Events South Zone"
         ]
       },
       {
@@ -47199,9 +47199,9 @@
           17781
         ],
         "titles": [
+          "Sensitive earthquakes in Guatemala",
           "Seismic Swarm in Guatemala",
-          "Earthquakes and Rheic Earthquakes in Guatemala",
-          "Sensitive earthquakes in Guatemala"
+          "Earthquakes and Rheic Earthquakes in Guatemala"
         ]
       },
       {
@@ -47241,9 +47241,9 @@
           17780
         ],
         "titles": [
-          "Population Movement Crete",
+          "Wildfires in Greece, 26-28, July, 2025",
           "Wildfires in Greece, June-July 2025 Report",
-          "Wildfires in Greece, 26-28, July, 2025"
+          "Population Movement Crete"
         ]
       },
       {
@@ -47262,8 +47262,8 @@
           17801
         ],
         "titles": [
-          "Typhoon Wipha-flash flood",
           "Typhoon Wipha-Heavy rain and flash flood",
+          "Typhoon Wipha-flash flood",
           "Typhoon WIPHA circulation  07/2025"
         ]
       },
@@ -47283,9 +47283,9 @@
           17790
         ],
         "titles": [
-          "Water shortages due to landslides – Quito Sur",
           "Landslide in the La Mica sector",
-          "Landslide in the parish of El Triunfo"
+          "Landslide in the parish of El Triunfo",
+          "Water shortages due to landslides – Quito Sur"
         ]
       },
       {
@@ -47305,8 +47305,8 @@
         ],
         "titles": [
           "Heavy rain from Tropical Storm Wipha",
-          "Heavy Rains and Flash Floods",
-          "Flood"
+          "Flood",
+          "Heavy Rains and Flash Floods"
         ]
       },
       {
@@ -47325,9 +47325,9 @@
           17775
         ],
         "titles": [
-          "Syria- Population Movement - July -2025",
           "SYR",
-          "Fire"
+          "Fire",
+          "Syria- Population Movement - July -2025"
         ]
       },
       {
@@ -47345,8 +47345,8 @@
           17813
         ],
         "titles": [
-          "Cholera epidemic in the province of Ouaddaï and Sila",
-          "Cholera"
+          "Cholera",
+          "Cholera epidemic in the province of Ouaddaï and Sila"
         ]
       },
       {
@@ -47364,8 +47364,8 @@
           17772
         ],
         "titles": [
-          "Chikungunya Outbreak",
-          "Mandera Cross Border Population Influx"
+          "Mandera Cross Border Population Influx",
+          "Chikungunya Outbreak"
         ]
       },
       {
@@ -47383,8 +47383,8 @@
           17782
         ],
         "titles": [
-          "Tsunami warning issued for Japan's Pacific coast triggered by the M8.8 earthquake in Kamchatka Peninsula, Russia",
-          "Earthquake Centered in the Adjacent Sea of Tokara Islands"
+          "Earthquake Centered in the Adjacent Sea of Tokara Islands",
+          "Tsunami warning issued for Japan's Pacific coast triggered by the M8.8 earthquake in Kamchatka Peninsula, Russia"
         ]
       },
       {
@@ -47402,8 +47402,8 @@
           17794
         ],
         "titles": [
-          "Plane Crash in a school in Dhaka",
-          "Dengue Situation"
+          "Dengue Situation",
+          "Plane Crash in a school in Dhaka"
         ]
       },
       {
@@ -47744,8 +47744,8 @@
           17845
         ],
         "titles": [
-          "Flood impact from Tropical storm Kajiki",
           "Heavy rainfall and flash floods",
+          "Flood impact from Tropical storm Kajiki",
           "Tensions at the Thailand - Cambodia Border"
         ]
       },
@@ -47803,8 +47803,8 @@
           17857
         ],
         "titles": [
-          "Forest fire",
-          "Wildfire"
+          "Wildfire",
+          "Forest fire"
         ]
       },
       {
@@ -47841,8 +47841,8 @@
           17864
         ],
         "titles": [
-          "Update",
-          "Heavy Floods in Yemen -August-2025"
+          "Heavy Floods in Yemen -August-2025",
+          "Update"
         ]
       },
       {
@@ -47860,8 +47860,8 @@
           17843
         ],
         "titles": [
-          "Heavy rain from Tropical Storm Wipha",
-          "Flood impact by Tropical Storm Kajiki"
+          "Flood impact by Tropical Storm Kajiki",
+          "Heavy rain from Tropical Storm Wipha"
         ]
       },
       {
@@ -48214,7 +48214,7 @@
         ],
         "titles": [
           "Flood impact caused by Storm RAGASA",
-          "Typhoon RAGASA",
+          "Typhoon No. 10 Bualoi - flooding",
           "Typhoon BUALOI"
         ]
       },
@@ -48233,8 +48233,8 @@
           17886
         ],
         "titles": [
-          "Collapsed boarding school in Sidoarjo, East Java Province",
-          "Bali Floods"
+          "Bali Floods",
+          "Collapsed boarding school in Sidoarjo, East Java Province"
         ]
       },
       {
@@ -48328,8 +48328,8 @@
           17885
         ],
         "titles": [
-          "The Gambia 2025 Flash Flood",
-          "The Gambia Flood 2025"
+          "The Gambia Flood 2025",
+          "The Gambia 2025 Flash Flood"
         ]
       },
       {
@@ -48702,9 +48702,9 @@
           17919
         ],
         "titles": [
-          "Viet Nam flood from heavy rain",
-          "Typhoon BUALOI circulation",
-          "Typhoon Matmo's circulation"
+          "Typhoon BUALOI",
+          "Cyclone BUALOI",
+          "Typhoon Bualoi"
         ]
       },
       {
@@ -48726,9 +48726,9 @@
           17951
         ],
         "titles": [
-          "Floods due to adverse effects of rainfall",
-          "DOM: Huracán Melissa",
-          "Huracan melissa"
+          "Flooding Due to Adverse Effects",
+          "Huracan melissa",
+          "Huracán Melissa"
         ]
       },
       {
@@ -48748,9 +48748,9 @@
           17926
         ],
         "titles": [
-          "Boat Mishap",
-          "Population Movement",
-          "Insurgency: Multiple Attacks by Non-state Actors (Armed Opposition Groups)."
+          "NGA: Flood - 09-2025 - F #3 (2025-10-03)",
+          "Insurgency: Multiple Attacks by Non-state Actors (Armed Opposition Groups).",
+          "Boat Mishap"
         ]
       },
       {
@@ -48807,8 +48807,8 @@
           17922
         ],
         "titles": [
-          "Hurricane Melissa",
-          "Tropical Storm Imelda"
+          "Tropical Storm Imelda",
+          "Hurricane Melissa"
         ]
       },
       {
@@ -49218,9 +49218,9 @@
           17969
         ],
         "titles": [
-          "flood",
+          "Flood from continued heavy rainfall",
           "Flood from heavy rainfall",
-          "Heavy rain"
+          "Typhoon Kalmaegi"
         ]
       },
       {
@@ -49243,8 +49243,8 @@
         ],
         "titles": [
           "Dengue Fever",
-          "Population Movement",
-          "Nigeria: Population Movement"
+          "Nigeria Population movement",
+          "Population Movement"
         ]
       },
       {
@@ -49286,8 +49286,8 @@
           17983
         ],
         "titles": [
-          "Flood from tropical rainfall and river overflow",
-          "Flooding from tropical rainfall and river overflow"
+          "Flooding from tropical rainfall and river overflow",
+          "Flood from tropical rainfall and river overflow"
         ]
       },
       {
@@ -49306,9 +49306,9 @@
           17980
         ],
         "titles": [
-          "Severe acute malnutrition, measles, cholera and malaria outbreak in Maniema province",
           "Poisoning and detriment of biodiversity in the Province of Haut Katanga.",
-          "Flooding in the city of Kinshasa in the Democratic Republic of Congo"
+          "Flooding in the city of Kinshasa in the Democratic Republic of Congo",
+          "Severe acute malnutrition, measles, cholera and malaria outbreak in Maniema province"
         ]
       },
       {
@@ -49364,8 +49364,8 @@
           17998
         ],
         "titles": [
-          "Northeast Coast Monsoon Flood",
-          "Northeast Coast Monsoon Flood 2025"
+          "Northeast Coast Monsoon Flood 2025",
+          "Northeast Coast Monsoon Flood"
         ]
       },
       {
@@ -49383,8 +49383,8 @@
           17972
         ],
         "titles": [
-          "TYPHOON TINO (KALMAEGI)",
-          "TYPHOON TINO (KALMAEGI) and SUPER TYPHOON UWAN (FUNG-WONG)"
+          "TYPHOON TINO (KALMAEGI) and SUPER TYPHOON UWAN (FUNG-WONG)",
+          "TYPHOON TINO (KALMAEGI)"
         ]
       },
       {
@@ -49732,8 +49732,8 @@
         ],
         "titles": [
           "Population Movement Border Chile - Peru",
-          "Forest Fire",
-          "Forest Fire Update"
+          "Forest Fires",
+          "Computer Threat"
         ]
       },
       {
@@ -49754,9 +49754,9 @@
           18019
         ],
         "titles": [
+          "BDI-Population Movement 12-2025",
           "population movement on 15.12",
-          "BDI: Population Movement-12-2025",
-          "BDI-Population Movement 12-2025"
+          "New choléra cases outbreak in Nyanza"
         ]
       },
       {
@@ -49869,8 +49869,8 @@
           18029
         ],
         "titles": [
-          "UPDATE FLASH FLOOD",
-          "IRQ:FLASH FLOOD"
+          "IRQ:FLASH FLOOD",
+          "UPDATE FLASH FLOOD"
         ]
       },
       {
