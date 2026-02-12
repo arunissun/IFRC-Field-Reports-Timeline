@@ -1,5 +1,35 @@
 [
   {
+    "id": 18158,
+    "dtype_name": "Flood",
+    "title": "MAR: Extended Floods of Safi and Kasr el Kebir",
+    "visibility_display": "Public",
+    "event_name": "MAR: Flood - 01-2026 - Inondations à Ksar El Kébir (Province de Larache) ",
+    "is_covid_report": false,
+    "created_at": "2026-02-12T12:32:00.449781Z",
+    "country_name": "Morocco",
+    "country_iso3": "MAR",
+    "country_id": 119,
+    "lat": 31.791702,
+    "lon": -7.09262,
+    "region_name": "Middle East & North Africa"
+  },
+  {
+    "id": 18156,
+    "dtype_name": "Epidemic",
+    "title": "dengue fever",
+    "visibility_display": "IFRC and NS",
+    "event_name": "Cook Islands - Dengue, 2026",
+    "is_covid_report": false,
+    "created_at": "2026-02-12T00:19:55.390265Z",
+    "country_name": "Cook Islands",
+    "country_iso3": "COK",
+    "country_id": 211,
+    "lat": -21.236736,
+    "lon": -159.777671,
+    "region_name": "Asia Pacific"
+  },
+  {
     "id": 18155,
     "dtype_name": "Flood",
     "title": "2026 Big Rivers Flooding- Northern Territory",
