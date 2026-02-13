@@ -1,5 +1,35 @@
 [
   {
+    "id": 18160,
+    "dtype_name": "Other",
+    "title": "Tripoli Buildings Collapse",
+    "visibility_display": "IFRC and NS",
+    "event_name": "LBN: Other - 02-2026 - Tripoli Buildings Collapse ",
+    "is_covid_report": false,
+    "created_at": "2026-02-13T10:46:40.182489Z",
+    "country_name": "Lebanon",
+    "country_iso3": "LBN",
+    "country_id": 101,
+    "lat": 33.854721,
+    "lon": 35.862285,
+    "region_name": "Middle East & North Africa"
+  },
+  {
+    "id": 18159,
+    "dtype_name": "Complex Emergency",
+    "title": "Displacement from Tirah and Kurram, KP Pakistan",
+    "visibility_display": "Public",
+    "event_name": "PAK: Complex Emergency - 01-2026 - Displacement from Tirah & Kurram, KP, Pakistan ",
+    "is_covid_report": false,
+    "created_at": "2026-02-13T07:39:41.149797Z",
+    "country_name": "Pakistan",
+    "country_iso3": "PAK",
+    "country_id": 131,
+    "lat": 30.375321,
+    "lon": 69.345116,
+    "region_name": "Asia Pacific"
+  },
+  {
     "id": 18158,
     "dtype_name": "Flood",
     "title": "MAR: Extended Floods of Safi and Kasr el Kebir",
