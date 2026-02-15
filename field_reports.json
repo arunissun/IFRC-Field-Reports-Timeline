@@ -1,5 +1,20 @@
 [
   {
+    "id": 18163,
+    "dtype_name": "Epidemic",
+    "title": "South Africa: Foot and Mouth Disease",
+    "visibility_display": "Public",
+    "event_name": "ZAF: Epidemic - 02-2026 - South Africa: Foot and Mouth Disease ",
+    "is_covid_report": false,
+    "created_at": "2026-02-14T21:36:53.955207Z",
+    "country_name": "South Africa",
+    "country_iso3": "ZAF",
+    "country_id": 158,
+    "lat": -30.559482,
+    "lon": 22.937506,
+    "region_name": "Africa"
+  },
+  {
     "id": 18162,
     "dtype_name": "Population Movement",
     "title": "population movement Logone et Chari 2026",
