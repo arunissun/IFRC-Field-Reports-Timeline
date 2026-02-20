@@ -1,5 +1,20 @@
 [
   {
+    "id": 18173,
+    "dtype_name": "Drought",
+    "title": "Drought",
+    "visibility_display": "Public",
+    "event_name": "Kenya -  Complex Emergency",
+    "is_covid_report": false,
+    "created_at": "2026-02-20T07:02:21.314847Z",
+    "country_name": "Kenya",
+    "country_iso3": "KEN",
+    "country_id": 93,
+    "lat": -0.023559,
+    "lon": 37.906193,
+    "region_name": "Africa"
+  },
+  {
     "id": 18172,
     "dtype_name": "Biological Emergency",
     "title": "MEASLES ALERT",
