@@ -1,5 +1,20 @@
 [
   {
+    "id": 18185,
+    "dtype_name": "Flood",
+    "title": "Kenya Floods",
+    "visibility_display": "RCRC Movement",
+    "event_name": "KEN: Flood - 02-2026 - Kenya Floods ",
+    "is_covid_report": false,
+    "created_at": "2026-02-27T04:51:04.420241Z",
+    "country_name": "Kenya",
+    "country_iso3": "KEN",
+    "country_id": 93,
+    "lat": -0.023559,
+    "lon": 37.906193,
+    "region_name": "Africa"
+  },
+  {
     "id": 18184,
     "dtype_name": "Flood",
     "title": "Sabah",
@@ -49,7 +64,7 @@
     "dtype_name": "Cold Wave",
     "title": "Blizzard",
     "visibility_display": "Public",
-    "event_name": "MNG: Storm Surge - 02-2026 - Blizzard ",
+    "event_name": "MNG: Coldwave - 02-2026 - Snowstorm",
     "is_covid_report": false,
     "created_at": "2026-02-24T06:33:16.380841Z",
     "country_name": "Mongolia",
