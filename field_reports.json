@@ -1,5 +1,20 @@
 [
   {
+    "id": 18190,
+    "dtype_name": "Complex Emergency",
+    "title": "Israel: Missiles Attack and State of Emergency",
+    "visibility_display": "Public",
+    "event_name": "ISR: Complex Emergency - 02-2026 - Israel: Missiles Attack and State of Emergency",
+    "is_covid_report": false,
+    "created_at": "2026-03-01T09:24:23.058190Z",
+    "country_name": "Israel",
+    "country_iso3": "ISR",
+    "country_id": 222,
+    "lat": 31.046051,
+    "lon": 34.851612,
+    "region_name": "Europe"
+  },
+  {
     "id": 18189,
     "dtype_name": "Complex Emergency",
     "title": "Iran Complex Emergency",
