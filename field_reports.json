@@ -1,5 +1,20 @@
 [
   {
+    "id": 18191,
+    "dtype_name": "Epidemic",
+    "title": "Anthrax Outbreak 2026",
+    "visibility_display": "IFRC and NS",
+    "event_name": "UGA: Epidemic - 02-2026 - Anthrax Outbreak 2026 ",
+    "is_covid_report": false,
+    "created_at": "2026-03-02T06:23:09.123591Z",
+    "country_name": "Uganda",
+    "country_iso3": "UGA",
+    "country_id": 176,
+    "lat": 1.373333,
+    "lon": 32.290275,
+    "region_name": "Africa"
+  },
+  {
     "id": 18190,
     "dtype_name": "Complex Emergency",
     "title": "Israel: Missiles Attack and State of Emergency",
