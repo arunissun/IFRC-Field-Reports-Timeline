@@ -1,10 +1,25 @@
 [
   {
+    "id": 18196,
+    "dtype_name": "Complex Emergency",
+    "title": "Israel: Missiles Attack and State of Emergency",
+    "visibility_display": "Public",
+    "event_name": "ISR: Complex Emergency - 02-2026 - Israel: Missiles Attack and State of Emergency",
+    "is_covid_report": false,
+    "created_at": "2026-03-03T15:35:49.591660Z",
+    "country_name": "Israel",
+    "country_iso3": "ISR",
+    "country_id": 222,
+    "lat": 31.046051,
+    "lon": 34.851612,
+    "region_name": "Europe"
+  },
+  {
     "id": 18195,
     "dtype_name": "Population Movement",
     "title": "Conflict Escalation - Population Movement",
     "visibility_display": "IFRC and NS",
-    "event_name": "LBN: Population Movement - 03-2026 - Conflict Escalation - Population Movement ",
+    "event_name": "LBN: Population Movement - 03-2026 - Conflict Escalation - Population Movement",
     "is_covid_report": false,
     "created_at": "2026-03-03T12:40:00.100173Z",
     "country_name": "Lebanon",
