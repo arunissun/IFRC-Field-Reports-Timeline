@@ -1,5 +1,35 @@
 [
   {
+    "id": 18205,
+    "dtype_name": "Other",
+    "title": "Water Emergency",
+    "visibility_display": "RCRC Movement",
+    "event_name": "VEN: Others - 03-2026 - Water Emergency ",
+    "is_covid_report": false,
+    "created_at": "2026-03-06T19:25:39.309450Z",
+    "country_name": "Venezuela",
+    "country_iso3": "VEN",
+    "country_id": 8,
+    "lat": 7.335401996768837,
+    "lon": -66.32434151126773,
+    "region_name": "Americas"
+  },
+  {
+    "id": 18204,
+    "dtype_name": "Complex Emergency",
+    "title": "Israel: Missiles Attack and State of Emergency",
+    "visibility_display": "Public",
+    "event_name": "ISR: Complex Emergency - 02-2026 - Israel: Missiles Attack and State of Emergency",
+    "is_covid_report": false,
+    "created_at": "2026-03-06T13:35:00.878611Z",
+    "country_name": "Israel",
+    "country_iso3": "ISR",
+    "country_id": 222,
+    "lat": 31.046051,
+    "lon": 34.851612,
+    "region_name": "Europe"
+  },
+  {
     "id": 18203,
     "dtype_name": "Other",
     "title": "Pakistan Afghanistan Border Emergency",
