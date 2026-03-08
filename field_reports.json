@@ -1,5 +1,20 @@
 [
   {
+    "id": 18206,
+    "dtype_name": "Other",
+    "title": "Chikungunya outbreak Suriname",
+    "visibility_display": "Public",
+    "event_name": "SUR: Other - 03-2026 - Chikungunya outbreak Suriname ",
+    "is_covid_report": false,
+    "created_at": "2026-03-07T22:27:06.038962Z",
+    "country_name": "Suriname",
+    "country_iso3": "SUR",
+    "country_id": 180,
+    "lat": 3.919305,
+    "lon": -56.027783,
+    "region_name": "Americas"
+  },
+  {
     "id": 18205,
     "dtype_name": "Other",
     "title": "Water Emergency",
