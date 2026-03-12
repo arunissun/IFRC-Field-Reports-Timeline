@@ -1,5 +1,35 @@
 [
   {
+    "id": 18214,
+    "dtype_name": "Complex Emergency",
+    "title": "updates",
+    "visibility_display": "Public",
+    "event_name": "PAK: Complex Emergency - 01-2026 - Displacement from Tirah & Kurram, KP, Pakistan ",
+    "is_covid_report": false,
+    "created_at": "2026-03-12T07:04:58.491065Z",
+    "country_name": "Pakistan",
+    "country_iso3": "PAK",
+    "country_id": 131,
+    "lat": 30.375321,
+    "lon": 69.345116,
+    "region_name": "Asia Pacific"
+  },
+  {
+    "id": 18213,
+    "dtype_name": "Volcanic Eruption",
+    "title": "volcanic Eruption -19.02.26",
+    "visibility_display": "Public",
+    "event_name": "Vanuatu: Ambae Volcanic Eruption",
+    "is_covid_report": false,
+    "created_at": "2026-03-11T23:45:21.574548Z",
+    "country_name": "Vanuatu",
+    "country_iso3": "VUT",
+    "country_id": 7,
+    "lat": -15.376706,
+    "lon": 166.9591579999999,
+    "region_name": "Asia Pacific"
+  },
+  {
     "id": 18212,
     "dtype_name": "Pluvial/Flash Flood",
     "title": "Flooding due to river overflows",
