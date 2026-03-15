@@ -1,5 +1,20 @@
 [
   {
+    "id": 18220,
+    "dtype_name": "Flood",
+    "title": "Tucumán",
+    "visibility_display": "Public",
+    "event_name": "ARG: Flood - 03-2026 - Tucumán ",
+    "is_covid_report": false,
+    "created_at": "2026-03-15T00:44:29.485116Z",
+    "country_name": "Argentina",
+    "country_iso3": "ARG",
+    "country_id": 20,
+    "lat": -38.416097,
+    "lon": -63.616672,
+    "region_name": "Americas"
+  },
+  {
     "id": 18219,
     "dtype_name": "Volcanic Eruption",
     "title": "VUT: Volcanic Eruption - 02-2026",
