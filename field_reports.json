@@ -1,5 +1,20 @@
 [
   {
+    "id": 18221,
+    "dtype_name": "Complex Emergency",
+    "title": "Israel: Missiles Attack and a State of Emergency",
+    "visibility_display": "Public",
+    "event_name": "ISR: Complex Emergency - 02-2026 - Israel: Missiles Attack and a State of Emergency",
+    "is_covid_report": false,
+    "created_at": "2026-03-16T14:30:34.062353Z",
+    "country_name": "Israel",
+    "country_iso3": "ISR",
+    "country_id": 222,
+    "lat": 31.046051,
+    "lon": 34.851612,
+    "region_name": "Europe"
+  },
+  {
     "id": 18220,
     "dtype_name": "Flood",
     "title": "Tucumán",
