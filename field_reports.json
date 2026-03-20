@@ -1,5 +1,35 @@
 [
   {
+    "id": 18227,
+    "dtype_name": "Complex Emergency",
+    "title": "Israel: Missiles Attack and a State of Emergency",
+    "visibility_display": "Public",
+    "event_name": "ISR: Complex Emergency - 02-2026 - Israel: Missiles Attack and a State of Emergency",
+    "is_covid_report": false,
+    "created_at": "2026-03-20T11:11:05.467402Z",
+    "country_name": "Israel",
+    "country_iso3": "ISR",
+    "country_id": 222,
+    "lat": 31.046051,
+    "lon": 34.851612,
+    "region_name": "Europe"
+  },
+  {
+    "id": 18226,
+    "dtype_name": "Flood",
+    "title": "Al-Khabur River Floods, Al-Hasakah – 2026",
+    "visibility_display": "Public",
+    "event_name": "SYR: Flood - 03-2026 - Al-Khabur River Floods, Al-Hasakah – 2026 ",
+    "is_covid_report": false,
+    "created_at": "2026-03-19T14:14:10.966754Z",
+    "country_name": "Syrian Arab Republic",
+    "country_iso3": "SYR",
+    "country_id": 206,
+    "lat": 34.802075,
+    "lon": 38.996815,
+    "region_name": "Middle East & North Africa"
+  },
+  {
     "id": 18225,
     "dtype_name": "Pluvial/Flash Flood",
     "title": "Heavy Rains",
@@ -177,6 +207,21 @@
     "country_id": 131,
     "lat": 30.375321,
     "lon": 69.345116,
+    "region_name": "Asia Pacific"
+  },
+  {
+    "id": 18213,
+    "dtype_name": "Volcanic Eruption",
+    "title": "volcanic Eruption -19.02.26",
+    "visibility_display": "Public",
+    "event_name": "Vanuatu, Volcanic Eruption, 2026",
+    "is_covid_report": false,
+    "created_at": "2026-03-11T23:45:21.574000Z",
+    "country_name": "Vanuatu",
+    "country_iso3": "VUT",
+    "country_id": 7,
+    "lat": -15.376706,
+    "lon": 166.9591579999999,
     "region_name": "Asia Pacific"
   },
   {
