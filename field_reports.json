@@ -1,5 +1,35 @@
 [
   {
+    "id": 18241,
+    "dtype_name": "Fire",
+    "title": "Liberia Fire Outbreaks",
+    "visibility_display": "Public",
+    "event_name": "LBR: Fire - 03-2026 - Liberia Fire Outbreaks ",
+    "is_covid_report": false,
+    "created_at": "2026-03-27T16:34:21.489471Z",
+    "country_name": "Liberia",
+    "country_iso3": "LBR",
+    "country_id": 103,
+    "lat": 6.428055,
+    "lon": -9.429499,
+    "region_name": "Africa"
+  },
+  {
+    "id": 18240,
+    "dtype_name": "Storm Surge",
+    "title": "Liberia_Storms in Lofa and Nimba",
+    "visibility_display": "Public",
+    "event_name": "LBR: Storm Surge - 03-2026 - Liberia_Storms in Lofa and Nimba ",
+    "is_covid_report": false,
+    "created_at": "2026-03-27T16:16:41.599799Z",
+    "country_name": "Liberia",
+    "country_iso3": "LBR",
+    "country_id": 103,
+    "lat": 6.428055,
+    "lon": -9.429499,
+    "region_name": "Africa"
+  },
+  {
     "id": 18238,
     "dtype_name": "Flood",
     "title": "Flood and Heavy Rainfall Crisis in Iraq",
@@ -89901,6 +89931,21 @@
     "lat": 30.375321,
     "lon": 69.345116,
     "region_name": "Asia Pacific"
+  },
+  {
+    "id": 11698,
+    "dtype_name": "Cold Wave",
+    "title": "",
+    "visibility_display": "Public",
+    "event_name": "Ukraine: Extreme winter conditions",
+    "is_covid_report": false,
+    "created_at": "2019-01-22T10:08:28.540207Z",
+    "country_name": "Ukraine",
+    "country_iso3": "UKR",
+    "country_id": 1,
+    "lat": 48.379433,
+    "lon": 31.16558,
+    "region_name": "Europe"
   },
   {
     "id": 11698,
