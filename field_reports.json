@@ -1,5 +1,20 @@
 [
   {
+    "id": 18267,
+    "dtype_name": "Cyclone",
+    "title": "Cyclone Vaiana",
+    "visibility_display": "Public",
+    "event_name": "FJI: Cyclone - 04-2026 - Cyclone Vaiana ",
+    "is_covid_report": false,
+    "created_at": "2026-04-05T22:11:22.496132Z",
+    "country_name": "Fiji",
+    "country_iso3": "FJI",
+    "country_id": 66,
+    "lat": -16.578193,
+    "lon": 179.41441300000017,
+    "region_name": "Asia Pacific"
+  },
+  {
     "id": 18266,
     "dtype_name": "Epidemic",
     "title": "Measles in Bangladesh",
