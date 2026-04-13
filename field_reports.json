@@ -1,5 +1,20 @@
 [
   {
+    "id": 18289,
+    "dtype_name": "Flood",
+    "title": "Floods due to hydrometeorological event",
+    "visibility_display": "Public",
+    "event_name": "SUN: Pluvial Flooding / Flood - 04-2026 - Urban and Rural Flooding in Geographical Areas",
+    "is_covid_report": false,
+    "created_at": "2026-04-12T18:03:42.060160Z",
+    "country_name": "Dominican Republic",
+    "country_iso3": "DOM",
+    "country_id": 59,
+    "lat": 18.735693,
+    "lon": -70.162651,
+    "region_name": "Americas"
+  },
+  {
     "id": 18288,
     "dtype_name": "Flood",
     "title": "Afghanistan flash floods 2026",
