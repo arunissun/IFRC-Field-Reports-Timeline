@@ -1,5 +1,35 @@
 [
   {
+    "id": 18294,
+    "dtype_name": "Epidemic",
+    "title": "Burundi, Cholera Epidemic outbreak",
+    "visibility_display": "IFRC and NS",
+    "event_name": "BDI: Epidemic - 01-2025 - Burundi, Cholera Epidemic outbreak 2025 ",
+    "is_covid_report": false,
+    "created_at": "2026-04-15T07:21:41.081025Z",
+    "country_name": "Burundi",
+    "country_iso3": "BDI",
+    "country_id": 39,
+    "lat": -3.373056,
+    "lon": 29.918886,
+    "region_name": "Africa"
+  },
+  {
+    "id": 18293,
+    "dtype_name": "Cyclone",
+    "title": "Typhoon Sinlaku",
+    "visibility_display": "IFRC Secretariat",
+    "event_name": "FSM: Cyclone - 04-2026 - Typhoon Sinlaku ",
+    "is_covid_report": false,
+    "created_at": "2026-04-15T02:53:10.804317Z",
+    "country_name": "Micronesia, Federated States of",
+    "country_iso3": "FSM",
+    "country_id": 195,
+    "lat": 7.425554,
+    "lon": 150.5508120000003,
+    "region_name": "Asia Pacific"
+  },
+  {
     "id": 18292,
     "dtype_name": "Flood",
     "title": "Urban and Rural Floods due to Hydrometeorological Event",
