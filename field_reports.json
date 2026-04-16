@@ -1,5 +1,20 @@
 [
   {
+    "id": 18296,
+    "dtype_name": "Population Movement",
+    "title": "PEOPLE FORCIBLY DISPLACED IN NIGER",
+    "visibility_display": "Public",
+    "event_name": "NER: Population displacement - 03-2026 - PEOPLE FORCIBLY DISPLACED IN NIGER ",
+    "is_covid_report": false,
+    "created_at": "2026-04-15T13:50:14.805366Z",
+    "country_name": "Niger",
+    "country_iso3": "NER",
+    "country_id": 127,
+    "lat": 17.607789,
+    "lon": 8.081666,
+    "region_name": "Africa"
+  },
+  {
     "id": 18294,
     "dtype_name": "Epidemic",
     "title": "Burundi, Cholera Epidemic outbreak",
@@ -18,7 +33,7 @@
     "id": 18293,
     "dtype_name": "Cyclone",
     "title": "Typhoon Sinlaku",
-    "visibility_display": "IFRC Secretariat",
+    "visibility_display": "Public",
     "event_name": "FSM: Cyclone - 04-2026 - Typhoon Sinlaku ",
     "is_covid_report": false,
     "created_at": "2026-04-15T02:53:10.804317Z",
