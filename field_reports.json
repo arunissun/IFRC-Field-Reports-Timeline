@@ -1,5 +1,35 @@
 [
   {
+    "id": 18319,
+    "dtype_name": "Flood",
+    "title": "URBAN AND RURAL FLOODING APRIL 2026",
+    "visibility_display": "Public",
+    "event_name": "SUN: Pluvial Flooding / Flood - 04-2026 - Urban and Rural Flooding in Geographical Areas",
+    "is_covid_report": false,
+    "created_at": "2026-04-27T17:12:14.321649Z",
+    "country_name": "Dominican Republic",
+    "country_iso3": "DOM",
+    "country_id": 59,
+    "lat": 18.735693,
+    "lon": -70.162651,
+    "region_name": "Americas"
+  },
+  {
+    "id": 18318,
+    "dtype_name": "Flood",
+    "title": "Heavy rains",
+    "visibility_display": "RCRC Movement",
+    "event_name": "DMA: Flood - 04-2026 - Heavy rains ",
+    "is_covid_report": false,
+    "created_at": "2026-04-27T15:29:47.643707Z",
+    "country_name": "Dominica",
+    "country_iso3": "DMA",
+    "country_id": 58,
+    "lat": 15.414999,
+    "lon": -61.370976,
+    "region_name": "Americas"
+  },
+  {
     "id": 18317,
     "dtype_name": "Flood",
     "title": "Floods due to the overflow of the Pilcomayo River – Paraguayan Chaco",
