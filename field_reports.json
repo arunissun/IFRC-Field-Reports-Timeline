@@ -1,5 +1,20 @@
 [
   {
+    "id": 18358,
+    "dtype_name": "Other",
+    "title": "Bdi-Epidemic-2026",
+    "visibility_display": "Public",
+    "event_name": "BDI: Other - 05-2026 - Bdi-Epidemic-2026 ",
+    "is_covid_report": false,
+    "created_at": "2026-05-18T06:22:14.258251Z",
+    "country_name": "Burundi",
+    "country_iso3": "BDI",
+    "country_id": 39,
+    "lat": -3.373056,
+    "lon": 29.918886,
+    "region_name": "Africa"
+  },
+  {
     "id": 18357,
     "dtype_name": "Earthquake",
     "title": "6.5 Magnitude",
