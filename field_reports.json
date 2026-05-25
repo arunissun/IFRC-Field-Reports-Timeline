@@ -1,5 +1,20 @@
 [
   {
+    "id": 18376,
+    "dtype_name": "Fire",
+    "title": "RUCUE",
+    "visibility_display": "Public",
+    "event_name": "CHL: Fire - 12-2025 - Wildfires",
+    "is_covid_report": false,
+    "created_at": "2026-05-24T17:16:02.408630Z",
+    "country_name": "Chile",
+    "country_iso3": "CHL",
+    "country_id": 46,
+    "lat": -35.675147,
+    "lon": -71.542969,
+    "region_name": "Americas"
+  },
+  {
     "id": 18375,
     "dtype_name": "Other",
     "title": "Health Statement: Confirmation of the First Imported Case of Measles in the Country",
