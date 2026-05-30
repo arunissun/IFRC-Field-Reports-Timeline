@@ -1,5 +1,35 @@
 [
   {
+    "id": 18391,
+    "dtype_name": "Flood",
+    "title": "Flood and Mudslide Damage",
+    "visibility_display": "IFRC and NS",
+    "event_name": "KAZ: Flood - 05-2026 - Flood and Mudslide Damage ",
+    "is_covid_report": false,
+    "created_at": "2026-05-29T16:40:03.294329Z",
+    "country_name": "Kazakhstan",
+    "country_iso3": "KAZ",
+    "country_id": 201,
+    "lat": 48.019573,
+    "lon": 66.923684,
+    "region_name": "Europe"
+  },
+  {
+    "id": 18390,
+    "dtype_name": "Drought",
+    "title": "ENSO Phenomenon - El Niño Phase 2026-2027",
+    "visibility_display": "Public",
+    "event_name": "CRI: Drought - 06-2026 - ENSO Phenomenon - El Niño Phase 2026-2027 ",
+    "is_covid_report": false,
+    "created_at": "2026-05-29T16:16:04.936897Z",
+    "country_name": "Costa Rica",
+    "country_iso3": "CRI",
+    "country_id": 51,
+    "lat": 9.748917,
+    "lon": -83.753428,
+    "region_name": "Americas"
+  },
+  {
     "id": 18389,
     "dtype_name": "Other",
     "title": "Press Release: Second Imported Case of Measles",
