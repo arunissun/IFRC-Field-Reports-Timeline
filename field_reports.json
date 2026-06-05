@@ -1,5 +1,35 @@
 [
   {
+    "id": 18396,
+    "dtype_name": "Epidemic",
+    "title": "Epidemic Threat",
+    "visibility_display": "Public",
+    "event_name": "ZMB: Epidemic - 06-2026 - Epidemic Threat ",
+    "is_covid_report": false,
+    "created_at": "2026-06-05T07:29:00.191190Z",
+    "country_name": "Zambia",
+    "country_iso3": "ZMB",
+    "country_id": 12,
+    "lat": -13.133897,
+    "lon": 27.849332,
+    "region_name": "Africa"
+  },
+  {
+    "id": 18395,
+    "dtype_name": "Cyclone",
+    "title": "Rain alert (ITCZ + Possible 70L formation)",
+    "visibility_display": "Public",
+    "event_name": "ITT: Cyclone - 06-2026 - Rain alert (ITCZ + Possible 70L formation)",
+    "is_covid_report": false,
+    "created_at": "2026-06-05T02:28:07.814330Z",
+    "country_name": "Costa Rica",
+    "country_iso3": "CRI",
+    "country_id": 51,
+    "lat": 9.748917,
+    "lon": -83.753428,
+    "region_name": "Americas"
+  },
+  {
     "id": 18394,
     "dtype_name": "Landslide",
     "title": "Covalima-Landslide Response",
