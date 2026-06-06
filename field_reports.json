@@ -1,5 +1,20 @@
 [
   {
+    "id": 18397,
+    "dtype_name": "Drought",
+    "title": "Municipal Agreement No. 052-2026 – Declaration of Water Emergency of the Municipal Mayor's Office of the Central District (AMDC)",
+    "visibility_display": "IFRC and NS",
+    "event_name": "HND: Drought - 05-2026 - Municipal Agreement No. 052-2026 - Declaration of Water Emergency Municipal Mayor's Office of the Central District (AMDC) ",
+    "is_covid_report": false,
+    "created_at": "2026-06-05T16:34:06.868369Z",
+    "country_name": "Honduras",
+    "country_iso3": "HND",
+    "country_id": 81,
+    "lat": 15.199999,
+    "lon": -86.241905,
+    "region_name": "Americas"
+  },
+  {
     "id": 18396,
     "dtype_name": "Epidemic",
     "title": "Epidemic Threat",
