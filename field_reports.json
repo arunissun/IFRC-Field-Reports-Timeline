@@ -1,5 +1,20 @@
 [
   {
+    "id": 18398,
+    "dtype_name": "Other",
+    "title": "Severe Hailstorm in Stepanavan",
+    "visibility_display": "Public",
+    "event_name": "ARM: Other - 06-2026 - Severe Hailstorm in Stepanavan ",
+    "is_covid_report": false,
+    "created_at": "2026-06-07T10:48:22.079486Z",
+    "country_name": "Armenia",
+    "country_iso3": "ARM",
+    "country_id": 21,
+    "lat": 40.069099,
+    "lon": 45.038189,
+    "region_name": "Europe"
+  },
+  {
     "id": 18397,
     "dtype_name": "Drought",
     "title": "Municipal Agreement No. 052-2026 – Declaration of Water Emergency of the Municipal Mayor's Office of the Central District (AMDC)",
