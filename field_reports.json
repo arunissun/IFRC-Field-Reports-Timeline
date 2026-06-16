@@ -1,5 +1,20 @@
 [
   {
+    "id": 18417,
+    "dtype_name": "Earthquake",
+    "title": "Central Sulawesi Earthquake – Magnitude 6.7",
+    "visibility_display": "Public",
+    "event_name": "IDN: Earthquake - 06-2026 - Central Sulawesi Earthquake – Magnitude 6.7 ",
+    "is_covid_report": false,
+    "created_at": "2026-06-16T06:05:22.115490Z",
+    "country_name": "Indonesia",
+    "country_iso3": "IDN",
+    "country_id": 85,
+    "lat": -0.789275,
+    "lon": 113.921327,
+    "region_name": "Asia Pacific"
+  },
+  {
     "id": 18416,
     "dtype_name": "Cyclone",
     "title": "COPECO extends the Green Alert for 24 more hours the coastline of the Caribbean Coast and Bay Islands",
