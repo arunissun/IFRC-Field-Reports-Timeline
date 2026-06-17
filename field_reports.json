@@ -48,7 +48,7 @@
     "id": 18414,
     "dtype_name": "Other",
     "title": "Severe storm and strong winds",
-    "visibility_display": "IFRC and NS",
+    "visibility_display": "Public",
     "event_name": "SVN: Other - 10-2026 - Severe storm and strong winds ",
     "is_covid_report": false,
     "created_at": "2026-06-12T10:26:44.625673Z",
@@ -437,7 +437,7 @@
   {
     "id": 18388,
     "dtype_name": "Pluvial/Flash Flood",
-    "title": "Flood Disaster in Ungheni and Călărași",
+    "title": "Flood Disaster in Ungheni,Călărași, Basarabeasca and Drochia",
     "visibility_display": "Public",
     "event_name": "MDA: Pluvial/Flash Flood - 05-2026 - Flood Disaster in Ungheni and Călărași ",
     "is_covid_report": false,
