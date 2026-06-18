@@ -1,5 +1,20 @@
 [
   {
+    "id": 18418,
+    "dtype_name": "Flood",
+    "title": "Floods in Moldova May-June 2026",
+    "visibility_display": "Public",
+    "event_name": "MDA: Flood - 05-2026 - Floods in Moldova May-June 2026 ",
+    "is_covid_report": false,
+    "created_at": "2026-06-18T05:28:59.581463Z",
+    "country_name": "Moldova, Republic of",
+    "country_iso3": "MDA",
+    "country_id": 202,
+    "lat": 47.411631,
+    "lon": 28.369885,
+    "region_name": "Europe"
+  },
+  {
     "id": 18417,
     "dtype_name": "Earthquake",
     "title": "Central Sulawesi Earthquake – Magnitude 6.7",
