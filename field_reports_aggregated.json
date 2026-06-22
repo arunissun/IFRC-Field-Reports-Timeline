@@ -33236,7 +33236,7 @@
   {
     "month": "2023-01",
     "date": "2023-01-01",
-    "total_reports": 38,
+    "total_reports": 39,
     "total_locations": 26,
     "locations": [
       {
@@ -33338,6 +33338,22 @@
         "reports": [
           16297,
           16295
+        ],
+        "titles": []
+      },
+      {
+        "lat": 41.61,
+        "lon": 21.75,
+        "count": 2,
+        "country_name": "North Macedonia",
+        "country_iso3": "MKD",
+        "region_name": "Europe",
+        "event_name": "Republic of North Macedonia: COVID-19 outbreak",
+        "dtype_name": "Epidemic",
+        "is_covid": false,
+        "reports": [
+          16292,
+          16292
         ],
         "titles": []
       },
@@ -33563,21 +33579,6 @@
         "is_covid": false,
         "reports": [
           16299
-        ],
-        "titles": []
-      },
-      {
-        "lat": 41.61,
-        "lon": 21.75,
-        "count": 1,
-        "country_name": "North Macedonia",
-        "country_iso3": "MKD",
-        "region_name": "Europe",
-        "event_name": "Republic of North Macedonia: COVID-19 outbreak",
-        "dtype_name": "Epidemic",
-        "is_covid": false,
-        "reports": [
-          16292
         ],
         "titles": []
       },
@@ -44905,7 +44906,7 @@
           17549
         ],
         "titles": [
-          "Forest Fires",
+          "Weather Event / Thunderstorms",
           "Weather Event and Winds",
           "Power outages throughout the country"
         ]
@@ -45353,8 +45354,8 @@
           17645
         ],
         "titles": [
-          "Earthquake in Osh oblast",
-          "Measles outbreak"
+          "Measles outbreak",
+          "Earthquake in Osh oblast"
         ]
       },
       {
@@ -45416,8 +45417,8 @@
         ],
         "titles": [
           "Santa Victoria East",
-          "Flood - 03-2025 - Bahia Blanca",
-          "Bahia Blanca"
+          "Bahia Blanca",
+          "Flood - 03-2025 - Bahia Blanca"
         ]
       },
       {
@@ -45435,8 +45436,8 @@
           17656
         ],
         "titles": [
-          "Drought 2025",
-          "Cholera Outbreak field report"
+          "Cholera Outbreak field report",
+          "Drought 2025"
         ]
       },
       {
@@ -45454,8 +45455,8 @@
           17635
         ],
         "titles": [
-          "Fuego volcano eruptive activity, Guatemala",
-          "Protestas Sociales en Guatemala"
+          "Protestas Sociales en Guatemala",
+          "Fuego volcano eruptive activity, Guatemala"
         ]
       },
       {
@@ -45473,8 +45474,8 @@
           17630
         ],
         "titles": [
-          "Floods sweep Iraq as a result of heavy rains",
-          "IRQ: FLASH FLOOD"
+          "IRQ: FLASH FLOOD",
+          "Floods sweep Iraq as a result of heavy rains"
         ]
       },
       {
@@ -45875,8 +45876,8 @@
           17683
         ],
         "titles": [
-          "TJK: Earthquake - 04-2025 - e #2 (2025-04-23)",
           "TJK: Earthquake 13-04-2025",
+          "TJK: Earthquake - 04-2025 - e #2 (2025-04-23)",
           "Earthquake in Tajikistan – April 13, 2025"
         ]
       },
@@ -45896,9 +45897,9 @@
           17672
         ],
         "titles": [
-          "Communal Clash",
           "The Escalating Food Crisis in Nigeria: A Threat to Lives and Livelihoods",
-          "Food and Nutrition Insecurity"
+          "Food and Nutrition Insecurity",
+          "Communal Clash"
         ]
       },
       {
@@ -45917,8 +45918,8 @@
           17674
         ],
         "titles": [
-          "Flooding in Tanganyika province",
-          "Flooding in the city of Kinshasa"
+          "Flooding in the city of Kinshasa",
+          "Flooding in Tanganyika province"
         ]
       },
       {
@@ -45936,8 +45937,8 @@
           17676
         ],
         "titles": [
-          "BFA: Population Displacement 04-2025",
-          "BFA: Population Displacement - 04-2025"
+          "BFA: Population Displacement - 04-2025",
+          "BFA: Population Displacement 04-2025"
         ]
       },
       {
@@ -46289,8 +46290,8 @@
           17700
         ],
         "titles": [
-          "Weather events",
           "Tornado Category EF-1",
+          "Weather events",
           "Earthquake and Tsunami South of Chile"
         ]
       },
@@ -46386,8 +46387,8 @@
           17713
         ],
         "titles": [
-          "Severe flooding in the Metropolitan Area of Buenos Aires (AMBA)",
-          "Severe flooding in the north of Buenos Aires"
+          "Severe flooding in the north of Buenos Aires",
+          "Severe flooding in the Metropolitan Area of Buenos Aires (AMBA)"
         ]
       },
       {
@@ -46638,8 +46639,8 @@
           17737
         ],
         "titles": [
-          "Earthquake of Greater Intensity North of Chile",
-          "Weather Events"
+          "Weather Events",
+          "Earthquake of Greater Intensity North of Chile"
         ]
       },
       {
@@ -46658,8 +46659,8 @@
           17741
         ],
         "titles": [
-          "Viet Nam flood",
-          "Flood from Heavy rainfall"
+          "Flood from Heavy rainfall",
+          "Viet Nam flood"
         ]
       },
       {
@@ -46679,8 +46680,8 @@
         ],
         "titles": [
           "Floods in East Kalimantan Province",
-          "Mount Lewotobi Laki-laki",
-          "Floods in South Halmahera district"
+          "Floods in South Halmahera district",
+          "Mount Lewotobi Laki-laki"
         ]
       },
       {
@@ -46699,8 +46700,8 @@
           17754
         ],
         "titles": [
-          "Iran Complex Emergency",
-          "Iran I.R."
+          "Iran I.R.",
+          "Iran Complex Emergency"
         ]
       },
       {
@@ -46737,8 +46738,8 @@
           17757
         ],
         "titles": [
-          "Floods June 2025",
-          "Floods 2025"
+          "Floods 2025",
+          "Floods June 2025"
         ]
       },
       {
@@ -46813,8 +46814,8 @@
           17734
         ],
         "titles": [
-          "Incremento de Actividad Volcánica - Flujo de Lava. Volcán de Fuego, Guatemala (342090)",
-          "Erupción Volcán Fuego Guatemala"
+          "Erupción Volcán Fuego Guatemala",
+          "Incremento de Actividad Volcánica - Flujo de Lava. Volcán de Fuego, Guatemala (342090)"
         ]
       },
       {
@@ -47154,9 +47155,9 @@
           17824
         ],
         "titles": [
-          "Weather Events",
+          "Tsunami Alert for Earthquake in Russia",
           "Weather Events South Zone",
-          "Tsunami Alert for Earthquake in Russia"
+          "Weather Events"
         ]
       },
       {
@@ -47178,8 +47179,8 @@
         ],
         "titles": [
           "Heavy rainfall and flash floods",
-          "Tensions at the Thailand - Cambodia Border",
-          "Thailand Floods - Tropical Storm Wipha"
+          "Thailand Floods - Tropical Storm Wipha",
+          "Tensions at the Thailand - Cambodia Border"
         ]
       },
       {
@@ -47199,9 +47200,9 @@
           17781
         ],
         "titles": [
-          "Earthquakes and Rheic Earthquakes in Guatemala",
-          "Sensitive earthquakes in Guatemala",
-          "Seismic Swarm in Guatemala"
+          "Earthquakes and Aftershocks Affect Guatemala",
+          "Seismic Swarm in Guatemala",
+          "Sensitive earthquakes in Guatemala"
         ]
       },
       {
@@ -47221,8 +47222,8 @@
           17773
         ],
         "titles": [
-          "Benue - Population Movement 2025",
-          "Nigeria - Flood"
+          "Nigeria - Flood",
+          "Benue - Population Movement 2025"
         ]
       },
       {
@@ -47241,9 +47242,9 @@
           17780
         ],
         "titles": [
+          "Population Movement Crete",
           "Wildfires in Greece, June-July 2025 Report",
-          "Wildfires in Greece, 26-28, July, 2025",
-          "Population Movement Crete"
+          "Wildfires in Greece, 26-28, July, 2025"
         ]
       },
       {
@@ -47262,9 +47263,9 @@
           17801
         ],
         "titles": [
+          "Typhoon Wipha-flash flood",
           "Typhoon WIPHA circulation  07/2025",
-          "Typhoon Wipha-Heavy rain and flash flood",
-          "Typhoon Wipha-flash flood"
+          "Typhoon Wipha-Heavy rain and flash flood"
         ]
       },
       {
@@ -47283,9 +47284,9 @@
           17790
         ],
         "titles": [
-          "Landslide in the parish of El Triunfo",
           "Landslide in the La Mica sector",
-          "Water shortages due to landslides – Quito Sur"
+          "Water shortages due to landslides – Quito Sur",
+          "Landslide in the parish of El Triunfo"
         ]
       },
       {
@@ -47325,8 +47326,8 @@
           17775
         ],
         "titles": [
-          "Fire",
           "Syria- Population Movement - July -2025",
+          "Fire",
           "SYR"
         ]
       },
@@ -47383,8 +47384,8 @@
           17782
         ],
         "titles": [
-          "Tsunami warning issued for Japan's Pacific coast triggered by the M8.8 earthquake in Kamchatka Peninsula, Russia",
-          "Earthquake Centered in the Adjacent Sea of Tokara Islands"
+          "Earthquake Centered in the Adjacent Sea of Tokara Islands",
+          "Tsunami warning issued for Japan's Pacific coast triggered by the M8.8 earthquake in Kamchatka Peninsula, Russia"
         ]
       },
       {
@@ -47402,8 +47403,8 @@
           17794
         ],
         "titles": [
-          "Dengue Situation",
-          "Plane Crash in a school in Dhaka"
+          "Plane Crash in a school in Dhaka",
+          "Dengue Situation"
         ]
       },
       {
@@ -47724,8 +47725,8 @@
           17842
         ],
         "titles": [
-          "Kajiki",
-          "Viet Nam - Pluvial/Flash Flood - 08/2025"
+          "Viet Nam - Pluvial/Flash Flood - 08/2025",
+          "Kajiki"
         ]
       },
       {
@@ -47745,8 +47746,8 @@
         ],
         "titles": [
           "Heavy rainfall and flash floods",
-          "Tensions at the Thailand - Cambodia Border",
-          "Flood impact from Tropical storm Kajiki"
+          "Flood impact from Tropical storm Kajiki",
+          "Tensions at the Thailand - Cambodia Border"
         ]
       },
       {
@@ -47784,8 +47785,8 @@
           17838
         ],
         "titles": [
-          "Weather Events",
-          "Tsunami Alert for Earthquake in Russia"
+          "Tsunami Alert for Earthquake in Russia",
+          "Weather Events"
         ]
       },
       {
@@ -47860,8 +47861,8 @@
           17843
         ],
         "titles": [
-          "Heavy rain from Tropical Storm Wipha",
-          "Flood impact by Tropical Storm Kajiki"
+          "Flood impact by Tropical Storm Kajiki",
+          "Heavy rain from Tropical Storm Wipha"
         ]
       },
       {
@@ -48213,7 +48214,7 @@
           17895
         ],
         "titles": [
-          "Typhoon RAGASA",
+          "Typhoon No. 10 Bualoi - flooding",
           "Typhoon BUALOI",
           "Flood impact caused by Storm RAGASA"
         ]
@@ -48252,8 +48253,8 @@
           17896
         ],
         "titles": [
-          "Impact of Rakasa monsoon",
-          "Impact of the storm BUALOI"
+          "Impact of the storm BUALOI",
+          "Impact of Rakasa monsoon"
         ]
       },
       {
@@ -48703,8 +48704,8 @@
         ],
         "titles": [
           "Heavy rain",
-          "Typhoon Bualoi",
-          "Cyclone BUALOI"
+          "Typhoon BUALOI",
+          "Viet Nam flood from heavy rain"
         ]
       },
       {
@@ -48726,9 +48727,9 @@
           17951
         ],
         "titles": [
-          "Huracan melissa",
-          "Floods due to adverse effects of rainfall",
-          "Flooding Due to Adverse Effects"
+          "DOM: Huracán Melissa",
+          "DOM: Cyclone - 10-2025 - h #3 (2025-10-27)",
+          "Huracán Melissa"
         ]
       },
       {
@@ -48807,8 +48808,8 @@
           17922
         ],
         "titles": [
-          "Tropical Storm Imelda",
-          "Hurricane Melissa"
+          "Hurricane Melissa",
+          "Tropical Storm Imelda"
         ]
       },
       {
@@ -48826,8 +48827,8 @@
           17953
         ],
         "titles": [
-          "Uganda Elections",
-          "Fatal Road Traffic Crash along Kampala-Gulu Highway"
+          "Fatal Road Traffic Crash along Kampala-Gulu Highway",
+          "Uganda Elections"
         ]
       },
       {
@@ -49218,9 +49219,9 @@
           17969
         ],
         "titles": [
-          "Typhoon Kalmaegi",
+          "Heavy rain",
           "Flood from continued heavy rainfall",
-          "Flood from heavy rainfall"
+          "Typhoon Kalmaegi"
         ]
       },
       {
@@ -49242,9 +49243,9 @@
           17984
         ],
         "titles": [
-          "Population Movement",
+          "Nigeria Population Movement",
           "Nigeria Population movement",
-          "Dengue Fever"
+          "Nigeria: Population Movement"
         ]
       },
       {
@@ -49265,8 +49266,8 @@
         ],
         "titles": [
           "Banjarnegara district, Central Java Province",
-          "Mount Semeru, East Java Province, Indonesia",
-          "Hydrometeorological Disaster Events in the Provinces of Aceh, North Sumatra, and West Sumatra."
+          "Hydrometeorological Disaster Events in the Provinces of Aceh, North Sumatra, and West Sumatra.",
+          "Mount Semeru, East Java Province, Indonesia"
         ]
       },
       {
@@ -49307,8 +49308,8 @@
         ],
         "titles": [
           "Severe acute malnutrition, measles, cholera and malaria outbreak in Maniema province",
-          "Poisoning and detriment of biodiversity in the Province of Haut Katanga.",
-          "Flooding in the city of Kinshasa in the Democratic Republic of Congo"
+          "Flooding in the city of Kinshasa in the Democratic Republic of Congo",
+          "Poisoning and detriment of biodiversity in the Province of Haut Katanga."
         ]
       },
       {
@@ -49326,8 +49327,8 @@
           18006
         ],
         "titles": [
-          "Flood and Landslide Sri Lanka - Cyclone Ditwah - Sri Lanka",
-          "The turmoil situation in the lower atmosphere including Southwest Bay of Bengal and Sri Lanka - low pressure situation"
+          "The turmoil situation in the lower atmosphere including Southwest Bay of Bengal and Sri Lanka - low pressure situation",
+          "Flood and Landslide Sri Lanka - Cyclone Ditwah - Sri Lanka"
         ]
       },
       {
@@ -49383,8 +49384,8 @@
           17972
         ],
         "titles": [
-          "TYPHOON TINO (KALMAEGI)",
-          "TYPHOON TINO (KALMAEGI) and SUPER TYPHOON UWAN (FUNG-WONG)"
+          "TYPHOON TINO (KALMAEGI) and SUPER TYPHOON UWAN (FUNG-WONG)",
+          "TYPHOON TINO (KALMAEGI)"
         ]
       },
       {
@@ -49731,9 +49732,9 @@
           18020
         ],
         "titles": [
+          "Heat Wave",
           "Forest Fire",
-          "Forest Fires",
-          "Population Movement Border Chile - Peru"
+          "Epidemiological surveillance Influenza AH3N2 Subclade K"
         ]
       },
       {
@@ -49756,7 +49757,7 @@
         "titles": [
           "BDI: Population Movement-12-2025",
           "BDI: Epidemic-14.12-2025",
-          "BDI-Population Movement 12-2025"
+          "New choléra cases outbreak in Nyanza"
         ]
       },
       {
@@ -49775,8 +49776,8 @@
           18022
         ],
         "titles": [
-          "Northeast Monsoon",
-          "Northeast Coast Monsoon"
+          "Northeast Coast Monsoon",
+          "Northeast Monsoon"
         ]
       },
       {
@@ -49813,8 +49814,8 @@
           18036
         ],
         "titles": [
-          "Tension at the Cambodia-Thailand Border",
-          "Emergency Humanitarian Relief to Support IDPs along Cambodia–Thai Border"
+          "Emergency Humanitarian Relief to Support IDPs along Cambodia–Thai Border",
+          "Tension at the Cambodia-Thailand Border"
         ]
       },
       {
@@ -49832,8 +49833,8 @@
           18033
         ],
         "titles": [
-          "Flooding in the town of Boma, Kongo Central Province in the DRC",
-          "Population movement in the city of Kalemie, Tanganyika province"
+          "Population movement in the city of Kalemie, Tanganyika province",
+          "Flooding in the town of Boma, Kongo Central Province in the DRC"
         ]
       },
       {
@@ -49869,8 +49870,8 @@
           18029
         ],
         "titles": [
-          "UPDATE FLASH FLOOD",
-          "IRQ:FLASH FLOOD"
+          "IRQ:FLASH FLOOD",
+          "UPDATE FLASH FLOOD"
         ]
       },
       {
