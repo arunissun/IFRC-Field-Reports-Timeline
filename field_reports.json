@@ -1,5 +1,20 @@
 [
   {
+    "id": 18428,
+    "dtype_name": "Epidemic",
+    "title": "COD: Updated Cholera Outbreak",
+    "visibility_display": "Public",
+    "event_name": "COD: Epidemic - 02-2026 - COD: Cholera Epidemic ",
+    "is_covid_report": false,
+    "created_at": "2026-06-27T21:24:59.931516Z",
+    "country_name": "Democratic Republic of Congo",
+    "country_iso3": "COD",
+    "country_id": 187,
+    "lat": -4.038333,
+    "lon": 21.758664,
+    "region_name": "Africa"
+  },
+  {
     "id": 18427,
     "dtype_name": "Heat Wave",
     "title": "Heatwave",
