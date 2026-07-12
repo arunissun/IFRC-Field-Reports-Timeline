@@ -1,5 +1,20 @@
 [
   {
+    "id": 18462,
+    "dtype_name": "Flood",
+    "title": "TJK: Flood and Mudflow Ayni district",
+    "visibility_display": "Public",
+    "event_name": "TJK: Flood - 07-2026 - TJK: Flood and Mudflow Ayni district ",
+    "is_covid_report": false,
+    "created_at": "2026-07-12T08:29:56.398084Z",
+    "country_name": "Tajikistan",
+    "country_iso3": "TJK",
+    "country_id": 167,
+    "lat": 38.861034,
+    "lon": 71.276093,
+    "region_name": "Europe"
+  },
+  {
     "id": 18461,
     "dtype_name": "Flood",
     "title": "SITUATION REPORT-6, MONSOON DEPRESSION IN COX’S BAZAR",
