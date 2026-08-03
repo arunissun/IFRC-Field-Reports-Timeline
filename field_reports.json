@@ -1,5 +1,35 @@
 [
   {
+    "id": 18509,
+    "dtype_name": "Pluvial/Flash Flood",
+    "title": "South West Monsoon Activation 2026",
+    "visibility_display": "Public",
+    "event_name": "LKA: Pluvial/Flash Flood - 08-2026 - South West Monsoon Activation 2026 ",
+    "is_covid_report": false,
+    "created_at": "2026-08-03T10:18:59.176015Z",
+    "country_name": "Sri Lanka",
+    "country_iso3": "LKA",
+    "country_id": 160,
+    "lat": 7.873054,
+    "lon": 80.771797,
+    "region_name": "Asia Pacific"
+  },
+  {
+    "id": 18508,
+    "dtype_name": "Fire",
+    "title": "Attica Wildfire",
+    "visibility_display": "Public",
+    "event_name": "GRC: Fire - 07-2026 - Attica Wildfire ",
+    "is_covid_report": false,
+    "created_at": "2026-08-03T07:34:59.563946Z",
+    "country_name": "Greece",
+    "country_iso3": "GRC",
+    "country_id": 74,
+    "lat": 39.074208,
+    "lon": 21.824312,
+    "region_name": "Europe"
+  },
+  {
     "id": 18507,
     "dtype_name": "Pluvial/Flash Flood",
     "title": "Update",
