@@ -1,5 +1,35 @@
 [
   {
+    "id": 18518,
+    "dtype_name": "Flood",
+    "title": "Fako flood",
+    "visibility_display": "RCRC Movement",
+    "event_name": "CMR: Flood - 08-2026 - Fako flood ",
+    "is_covid_report": false,
+    "created_at": "2026-08-06T11:54:33.310889Z",
+    "country_name": "Cameroon",
+    "country_iso3": "CMR",
+    "country_id": 41,
+    "lat": 7.369722,
+    "lon": 12.354722,
+    "region_name": "Africa"
+  },
+  {
+    "id": 18517,
+    "dtype_name": "Epidemic",
+    "title": "MPOX epidemic Cameroon",
+    "visibility_display": "RCRC Movement",
+    "event_name": "CMR: Epidemic - 08-2026 - MPOX Epidemic Cameroon ",
+    "is_covid_report": false,
+    "created_at": "2026-08-06T10:03:10.378852Z",
+    "country_name": "Cameroon",
+    "country_iso3": "CMR",
+    "country_id": 41,
+    "lat": 7.369722,
+    "lon": 12.354722,
+    "region_name": "Africa"
+  },
+  {
     "id": 18516,
     "dtype_name": "Flood",
     "title": "Monsoon Flood",
