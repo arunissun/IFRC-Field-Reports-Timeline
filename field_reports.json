@@ -1,5 +1,20 @@
 [
   {
+    "id": 18522,
+    "dtype_name": "Heat Wave",
+    "title": "Heat  Wave",
+    "visibility_display": "Public",
+    "event_name": "TKM: Heat Wave - 07-2026 - Heat  Wave ",
+    "is_covid_report": false,
+    "created_at": "2026-08-10T09:59:47.541997Z",
+    "country_name": "Turkmenistan",
+    "country_iso3": "TKM",
+    "country_id": 175,
+    "lat": 38.969719,
+    "lon": 59.556278,
+    "region_name": "Europe"
+  },
+  {
     "id": 18521,
     "dtype_name": "Flood",
     "title": "Yemen – Heavy Rains, Floods and Thunderstorms",
