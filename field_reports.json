@@ -1,5 +1,35 @@
 [
   {
+    "id": 18535,
+    "dtype_name": "Landslide",
+    "title": "Landslide_Jajarkot, Karnali Nepal",
+    "visibility_display": "IFRC and NS",
+    "event_name": "NPL: Landslide - 08-2026 - Landslide_Jajarkot, Karnali Nepal ",
+    "is_covid_report": false,
+    "created_at": "2026-08-17T11:19:03.122049Z",
+    "country_name": "Nepal",
+    "country_iso3": "NPL",
+    "country_id": 123,
+    "lat": 28.394857,
+    "lon": 84.124008,
+    "region_name": "Asia Pacific"
+  },
+  {
+    "id": 18534,
+    "dtype_name": "Flood",
+    "title": "Bocas del Toro Flooding",
+    "visibility_display": "Public",
+    "event_name": "PAN: Flood - 08-2026 - Bocas del Toro Floods ",
+    "is_covid_report": false,
+    "created_at": "2026-08-17T00:31:23.817349Z",
+    "country_name": "Panama",
+    "country_iso3": "PAN",
+    "country_id": 132,
+    "lat": 8.537981,
+    "lon": -80.782127,
+    "region_name": "Americas"
+  },
+  {
     "id": 18533,
     "dtype_name": "Earthquake",
     "title": "Field Report Update 1: M7.7 East Nusa Tenggara Earthquake",
