@@ -1,5 +1,35 @@
 [
   {
+    "id": 18547,
+    "dtype_name": "Flood",
+    "title": "Flooding caused by heavy rainfall",
+    "visibility_display": "Public",
+    "event_name": "THA: Flood - 07-2026 - Windstorm and Flooding caused by Typhoon Maysak ",
+    "is_covid_report": false,
+    "created_at": "2026-08-21T04:35:47.984201Z",
+    "country_name": "Thailand",
+    "country_iso3": "THA",
+    "country_id": 169,
+    "lat": 15.870032,
+    "lon": 100.992541,
+    "region_name": "Asia Pacific"
+  },
+  {
+    "id": 18546,
+    "dtype_name": "Flood",
+    "title": "PAN: Flood - 08-2026 - Inun #2 (2026-08-20)",
+    "visibility_display": "Public",
+    "event_name": "PAN: Flood - 08-2026 - Bocas del Toro Floods ",
+    "is_covid_report": false,
+    "created_at": "2026-08-20T15:25:20.328077Z",
+    "country_name": "Panama",
+    "country_iso3": "PAN",
+    "country_id": 132,
+    "lat": 8.537981,
+    "lon": -80.782127,
+    "region_name": "Americas"
+  },
+  {
     "id": 18545,
     "dtype_name": "Flood",
     "title": "Flooding caused by heavy rainfall",
