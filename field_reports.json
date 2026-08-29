@@ -1,5 +1,20 @@
 [
   {
+    "id": 18563,
+    "dtype_name": "Flood",
+    "title": "PHL: Enhanced by Southwest Monsoon (Habagat)",
+    "visibility_display": "Public",
+    "event_name": "PHL: Flood - 08-2026 - PHL: Enhanced by Southwest Monsoon (Habagat) ",
+    "is_covid_report": false,
+    "created_at": "2026-08-29T06:37:49.977980Z",
+    "country_name": "Philippines",
+    "country_iso3": "PHL",
+    "country_id": 136,
+    "lat": 12.879721,
+    "lon": 121.77401699999963,
+    "region_name": "Asia Pacific"
+  },
+  {
     "id": 18562,
     "dtype_name": "Drought",
     "title": "Update of Alert Levels for Meteorological Drought – COPECO Bulletin No. 029-2026",
