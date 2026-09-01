@@ -1,5 +1,20 @@
 [
   {
+    "id": 18564,
+    "dtype_name": "Fire",
+    "title": "Algeria Wildfires",
+    "visibility_display": "IFRC and NS",
+    "event_name": "DZA: Fire - 07-2026 - Algeria: Wildfires – July 2026 ",
+    "is_covid_report": false,
+    "created_at": "2026-09-01T16:37:06.448548Z",
+    "country_name": "Algeria",
+    "country_iso3": "DZA",
+    "country_id": 16,
+    "lat": 28.033886,
+    "lon": 1.659626,
+    "region_name": "Middle East & North Africa"
+  },
+  {
     "id": 18563,
     "dtype_name": "Flood",
     "title": "PHL: Enhanced by Southwest Monsoon (Habagat)",
