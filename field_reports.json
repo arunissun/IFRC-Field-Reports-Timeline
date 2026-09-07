@@ -1,5 +1,20 @@
 [
   {
+    "id": 18569,
+    "dtype_name": "Fire",
+    "title": "BiH: Fire_092026",
+    "visibility_display": "Public",
+    "event_name": "BIH: Fire - 09-2026 - BiH: Fire_092026 ",
+    "is_covid_report": false,
+    "created_at": "2026-09-06T21:46:09.736947Z",
+    "country_name": "Bosnia and Herzegovina",
+    "country_iso3": "BIH",
+    "country_id": 197,
+    "lat": 43.915886,
+    "lon": 17.679076,
+    "region_name": "Europe"
+  },
+  {
     "id": 18568,
     "dtype_name": "Volcanic Eruption",
     "title": "Situation Report: Escalation of Volcanic Activity at Mt. Krakatau, Sunda Strait",
