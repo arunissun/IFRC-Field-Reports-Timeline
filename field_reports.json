@@ -1,5 +1,35 @@
 [
   {
+    "id": 18574,
+    "dtype_name": "Epidemic",
+    "title": "Dengue in Bangladesh",
+    "visibility_display": "Public",
+    "event_name": "BGD: Epidemic - 09-2026 - Dengue in Bangladesh ",
+    "is_covid_report": false,
+    "created_at": "2026-09-09T12:11:39.913430Z",
+    "country_name": "Bangladesh",
+    "country_iso3": "BGD",
+    "country_id": 27,
+    "lat": 23.684994,
+    "lon": 90.35633100000017,
+    "region_name": "Asia Pacific"
+  },
+  {
+    "id": 18573,
+    "dtype_name": "Earthquake",
+    "title": "Mustang Earthquake",
+    "visibility_display": "IFRC and NS",
+    "event_name": "NPL: Earthquake - 09-2026 - Mustang Earthquake ",
+    "is_covid_report": false,
+    "created_at": "2026-09-09T03:40:53.931043Z",
+    "country_name": "Nepal",
+    "country_iso3": "NPL",
+    "country_id": 123,
+    "lat": 28.394857,
+    "lon": 84.124008,
+    "region_name": "Asia Pacific"
+  },
+  {
     "id": 18572,
     "dtype_name": "Other",
     "title": "Yemen-Conflict Escalation, Mass Dispalacement and Health Impact",
