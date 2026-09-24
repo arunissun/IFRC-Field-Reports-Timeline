@@ -1,5 +1,35 @@
 [
   {
+    "id": 18589,
+    "dtype_name": "Epidemic",
+    "title": "The Democratic Republic of Congo is facing the cholera epidemic on the rise nationwide.",
+    "visibility_display": "Public",
+    "event_name": "COD: Epidemic - 09-2026 - The Democratic Republic of Congo is facing the cholera epidemic on the rise nationwide.",
+    "is_covid_report": false,
+    "created_at": "2026-09-24T15:17:18.690798Z",
+    "country_name": "Democratic Republic of Congo",
+    "country_iso3": "COD",
+    "country_id": 187,
+    "lat": -4.038333,
+    "lon": 21.758664,
+    "region_name": "Africa"
+  },
+  {
+    "id": 18588,
+    "dtype_name": "Pluvial/Flash Flood",
+    "title": "Sokna Flood",
+    "visibility_display": "Public",
+    "event_name": "LBY: Pluvial/Flash Flood - 09-2026 - Sokna Flood ",
+    "is_covid_report": false,
+    "created_at": "2026-09-24T08:22:41.885199Z",
+    "country_name": "Libya",
+    "country_iso3": "LBY",
+    "country_id": 204,
+    "lat": 26.3351,
+    "lon": 17.228331,
+    "region_name": "Middle East & North Africa"
+  },
+  {
     "id": 18587,
     "dtype_name": "Flood",
     "title": "Heavy rainfall",
