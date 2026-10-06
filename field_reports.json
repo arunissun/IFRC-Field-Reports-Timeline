@@ -1,5 +1,35 @@
 [
   {
+    "id": 18600,
+    "dtype_name": "Fire",
+    "title": "Burning of houses in the territory of Kabambare, in the Democratic Republic of Congo",
+    "visibility_display": "Public",
+    "event_name": "COD: Fire - 10-2026 - Burning of houses in Kababbe territory, Democratic Republic of Congo",
+    "is_covid_report": false,
+    "created_at": "2026-10-06T13:10:30.019912Z",
+    "country_name": "Democratic Republic of Congo",
+    "country_iso3": "COD",
+    "country_id": 187,
+    "lat": -4.038333,
+    "lon": 21.758664,
+    "region_name": "Africa"
+  },
+  {
+    "id": 18599,
+    "dtype_name": "Flood",
+    "title": "Heavy rainfall caused flooding",
+    "visibility_display": "Public",
+    "event_name": "THA: Flood - 09-2026 - Heavy rainfall caused flooding ",
+    "is_covid_report": false,
+    "created_at": "2026-10-06T02:56:12.862840Z",
+    "country_name": "Thailand",
+    "country_iso3": "THA",
+    "country_id": 169,
+    "lat": 15.870032,
+    "lon": 100.992541,
+    "region_name": "Asia Pacific"
+  },
+  {
     "id": 18598,
     "dtype_name": "Drought",
     "title": "TLS-Drought",
