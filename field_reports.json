@@ -1,5 +1,20 @@
 [
   {
+    "id": 18615,
+    "dtype_name": "Other",
+    "title": "Mass Removal Update",
+    "visibility_display": "Public",
+    "event_name": "CHL: Other - 10-2026 - Mass Removal",
+    "is_covid_report": false,
+    "created_at": "2026-10-13T00:50:00.522509Z",
+    "country_name": "Chile",
+    "country_iso3": "CHL",
+    "country_id": 46,
+    "lat": -35.675147,
+    "lon": -71.542969,
+    "region_name": "Americas"
+  },
+  {
     "id": 18614,
     "dtype_name": "Flood",
     "title": "Flooding in the department of Likouala, districts of Epéna and Impfondo",
