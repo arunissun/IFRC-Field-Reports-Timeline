@@ -1,5 +1,20 @@
 [
   {
+    "id": 18623,
+    "dtype_name": "Population Movement",
+    "title": "Mixed migration flows in the Comoros",
+    "visibility_display": "Public",
+    "event_name": "COM: Population Movement - 10-2026 - Mixed migration flows in the Comoros ",
+    "is_covid_report": false,
+    "created_at": "2026-10-19T14:31:57.937290Z",
+    "country_name": "Comoros",
+    "country_iso3": "COM",
+    "country_id": 186,
+    "lat": -11.875001,
+    "lon": 43.872219,
+    "region_name": "Africa"
+  },
+  {
     "id": 18622,
     "dtype_name": "Complex Emergency",
     "title": "Evento Hidrometeorológico",
