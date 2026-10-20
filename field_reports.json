@@ -1,5 +1,35 @@
 [
   {
+    "id": 18625,
+    "dtype_name": "Flood",
+    "title": "Inondations et crue à Adjohoun, Dangbo et Zogbodomey",
+    "visibility_display": "Public",
+    "event_name": "BEN: Flood - 10-2026 - Inondations et crue à Adjohoun, Dangbo et Zogbodomey ",
+    "is_covid_report": false,
+    "created_at": "2026-10-20T11:08:41.783820Z",
+    "country_name": "Benin",
+    "country_iso3": "BEN",
+    "country_id": 209,
+    "lat": 9.30769,
+    "lon": 2.315834,
+    "region_name": "Africa"
+  },
+  {
+    "id": 18624,
+    "dtype_name": "Population Movement",
+    "title": "POPULATION MOVEMENT IN NIGER",
+    "visibility_display": "RCRC Movement",
+    "event_name": "NER: Population displacement - 01-2026 - POPULATION MOVEMENT IN NIGER",
+    "is_covid_report": false,
+    "created_at": "2026-10-20T08:54:55.330466Z",
+    "country_name": "Niger",
+    "country_iso3": "NER",
+    "country_id": 127,
+    "lat": 17.607789,
+    "lon": 8.081666,
+    "region_name": "Africa"
+  },
+  {
     "id": 18623,
     "dtype_name": "Population Movement",
     "title": "Mixed migration flows in the Comoros",
