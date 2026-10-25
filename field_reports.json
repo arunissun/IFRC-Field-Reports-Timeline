@@ -1,5 +1,20 @@
 [
   {
+    "id": 18632,
+    "dtype_name": "Complex Emergency",
+    "title": "Evento Hidrometeorológico",
+    "visibility_display": "Public",
+    "event_name": "CHL: Complex Emergency - 10-2026 - Evento Hidrometeorológico",
+    "is_covid_report": false,
+    "created_at": "2026-10-25T03:12:19.877653Z",
+    "country_name": "Chile",
+    "country_iso3": "CHL",
+    "country_id": 46,
+    "lat": -35.675147,
+    "lon": -71.542969,
+    "region_name": "Americas"
+  },
+  {
     "id": 18631,
     "dtype_name": "Pluvial/Flash Flood",
     "title": "Trough over the national territory",
