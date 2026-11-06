@@ -1,5 +1,35 @@
 [
   {
+    "id": 18662,
+    "dtype_name": "Other",
+    "title": "Hailstorm-Butaleja",
+    "visibility_display": "IFRC and NS",
+    "event_name": "UGA: Other - 10-2026 - Hailstorm-Butaleja ",
+    "is_covid_report": false,
+    "created_at": "2026-11-06T10:51:09.939683Z",
+    "country_name": "Uganda",
+    "country_iso3": "UGA",
+    "country_id": 176,
+    "lat": 1.373333,
+    "lon": 32.290275,
+    "region_name": "Africa"
+  },
+  {
+    "id": 18661,
+    "dtype_name": "Drought",
+    "title": "Droughts Bolivia",
+    "visibility_display": "RCRC Movement",
+    "event_name": "BULL: Drought - 10-2026 - Droughts Bolivia",
+    "is_covid_report": false,
+    "created_at": "2026-11-06T05:56:41.661268Z",
+    "country_name": "Bolivia",
+    "country_iso3": "BOL",
+    "country_id": 33,
+    "lat": -16.290154,
+    "lon": -63.588653,
+    "region_name": "Americas"
+  },
+  {
     "id": 18660,
     "dtype_name": "Civil Unrest",
     "title": "Ueno Bank Closure and Its Social Repercussions: Demonstrations and Riots in Paraguay.",
