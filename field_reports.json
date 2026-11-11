@@ -1,5 +1,20 @@
 [
   {
+    "id": 18670,
+    "dtype_name": "Epidemic",
+    "title": "Nigeria – Diphtheria Outbreak 2026",
+    "visibility_display": "Public",
+    "event_name": "NGA: Epidemic - 11-2026 - Nigeria – Diphtheria Outbreak 2026 ",
+    "is_covid_report": false,
+    "created_at": "2026-11-11T12:43:32.948800Z",
+    "country_name": "Nigeria",
+    "country_iso3": "NGA",
+    "country_id": 128,
+    "lat": 9.081999,
+    "lon": 8.675277,
+    "region_name": "Africa"
+  },
+  {
     "id": 18669,
     "dtype_name": "Pluvial/Flash Flood",
     "title": "Flash Flood Response",
@@ -18,7 +33,7 @@
     "id": 18668,
     "dtype_name": "Other",
     "title": "The Gambia Election Preparedness and Readiness 2026",
-    "visibility_display": "RCRC Movement",
+    "visibility_display": "Public",
     "event_name": "GMB: Other - 12-2026 - The Gambia Election Preparedness and Readiness 2026 ",
     "is_covid_report": false,
     "created_at": "2026-11-09T10:08:53.601536Z",
